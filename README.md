@@ -4,5 +4,5 @@
   </a>
 </p>
 <h1 align="center">
-  DEX List - The Index page for digital designers.
+  DEX List - The Index page for creative workers.
 </h1>
