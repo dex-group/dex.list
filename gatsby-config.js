@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: 'https://dexlist.page/',
-    title: 'DEX List',
+    title: 'DEX List - The index page for creative workers.',
     description: 'The index page for creative workers.',
     author: '@dingyi',
     twitter: '@dexgroup',
@@ -36,7 +36,7 @@ module.exports = {
       {
         to: "/ios",
         name: "iOS",
-        count: "324",
+        count: "328",
         icon: '/images/menu-iOS.png'
       },
       {
@@ -84,6 +84,20 @@ module.exports = {
           allow: '/'
         }]
       }
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: 'DEX List - The index page for creative workers.',
+        short_name: 'DEX List',
+        description: 'The index page for creative workers.',
+        start_url: '/',
+        background_color: '#fdf3f6',
+        theme_color: '#F7417A',
+        display: 'standalone',
+        icon: './src/images/favicon.png',
+        crossOrigin: 'use-credentials'
+      },
     },
     {
       resolve: 'gatsby-plugin-google-analytics',

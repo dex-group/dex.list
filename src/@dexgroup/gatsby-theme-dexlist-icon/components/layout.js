@@ -49,6 +49,7 @@ export default ({ children }) => (
             background-color: #ffffff0d
           }
           .subscribe {
+            color: #fff;
             &:focus {
               color: #fff
             }

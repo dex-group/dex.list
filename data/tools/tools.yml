@@ -105,6 +105,10 @@
       logo: './images/documents/Slite.png'
       slogan: 'All Your Team Documentation'
       link: 'https://slite.com/'
+    - name: 'Tettra'
+      logo: './images/documents/Tettra.png'
+      slogan: 'Internal wiki & company knowledge base software'
+      link: 'https://tettra.com/'
     - name: '石墨文档'
       logo: './images/documents/石墨文档.png'
       slogan: '一款轻便、简洁的在线协作文档工具'
@@ -113,6 +117,10 @@
       logo: './images/documents/语雀.png'
       slogan: '专业的云端知识库'
       link: 'https://www.yuque.com/'
+    - name: '金山文档'
+      logo: './images/documents/金山文档.png'
+      slogan: '多人实时协作的在线Office'
+      link: 'https://www.wps.cn/'
 
 - title: Management
   items:
@@ -141,25 +149,6 @@
       slogan: 'the visual collaboration tool'
       link: 'https://trello.com/'
 
-- title: Marketing
-  items:
-    - name: 'Buttondown'
-      logo: './images/marketing/Buttondown.png'
-      slogan: 'The easiest way to run your newsletter'
-      link: 'https://buttondown.email/'
-    - name: 'ConvertKit'
-      logo: './images/marketing/ConvertKit.png'
-      slogan: 'Email Marketing for Online Creators'
-      link: 'https://convertkit.com/'
-    - name: 'Mailchimp'
-      logo: './images/marketing/Mailchimp.png'
-      slogan: 'All-in-One Marketing Platform'
-      link: 'https://mailchimp.com/'
-    - name: 'Sendgrid'
-      logo: './images/marketing/Sendgrid.png'
-      slogan: 'Email delivery service'
-      link: 'https://sendgrid.com/'
-
 - title: Meeting
   items:
     - name: 'Google Meet'
@@ -182,6 +171,29 @@
       logo: './images/meeting/腾讯会议.png'
       slogan: '随时随地 高清音视频会议'
       link: 'https://meeting.tencent.com/'
+
+- title: Newsletter
+  items:
+    - name: 'Buttondown'
+      logo: './images/newsletter/Buttondown.png'
+      slogan: 'The easiest way to run your newsletter'
+      link: 'https://buttondown.email/'
+    - name: 'ConvertKit'
+      logo: './images/newsletter/ConvertKit.png'
+      slogan: 'Email Marketing for Online Creators'
+      link: 'https://convertkit.com/'
+    - name: 'Mailchimp'
+      logo: './images/newsletter/Mailchimp.png'
+      slogan: 'All-in-One Marketing Platform'
+      link: 'https://mailchimp.com/'
+    - name: 'Sendgrid'
+      logo: './images/newsletter/Sendgrid.png'
+      slogan: 'Email delivery service'
+      link: 'https://sendgrid.com/'
+    - name: 'Substack'
+      logo: './images/newsletter/Substack.png'
+      slogan: 'Build your independence'
+      link: 'https://substack.com/'
 
 - title: Sharing
   items:

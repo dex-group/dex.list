@@ -1,5 +1,5 @@
 - id: studios
-  title: design studios
+  name: design studios
   items:
     - name: '3drops'
       logo: './images/agency/3drops.png'
@@ -346,6 +346,11 @@
       location: '🇬🇧'
       slogan: 'a purposefully-small studio'
       link: 'https://www.fortnight.studio/'
+    - name: 'Freytag Anderson'
+      logo: './images/agency/FreytagAnderson.png'
+      location: '🏴󠁧󠁢󠁳󠁣󠁴󠁿'
+      slogan: '3 x Scottish Design Agency of the year'
+      link: 'https://www.freytaganderson.com/'
     - name: 'frog'
       logo: './images/agency/frog.png'
       location: '🇺🇸 🇨🇳'
@@ -1146,6 +1151,11 @@
       location: '🇺🇸'
       slogan: 'We are Voila, a Creative Duo'
       link: 'https://studiovoila.com'
+    - name: 'Walking Men'
+      logo: './images/agency/WalkingMen.png'
+      location: '🇧🇪'
+      slogan: 'a digital design agency based in Brussels'
+      link: 'https://walkingmen.com/'
     - name: 'Watson'
       logo: './images/agency/Watson.png'
       location: '🇺🇸'
@@ -1223,7 +1233,7 @@
       link: 'https://wearezizo.com/'
 
 - id: designers
-  name: product designers
+  name: designers
   items:
     - name: 'Alex Pierce'
       logo: './images/designer/AlexPierce.png'
