@@ -27,6 +27,17 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://dexlist.page/',
+        sitemap: 'https://dexlist.page/sitemap.xml',
+        policy: [{
+          userAgent: '*',
+          allow: '/'
+        }]
+      }
+    },
+    {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: 'UA-101495671-2',
@@ -38,6 +49,7 @@ module.exports = {
         siteId: 'EMHYBILA'
       }
     },
-    'gatsby-plugin-netlify'
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-netlify`
   ]
 }

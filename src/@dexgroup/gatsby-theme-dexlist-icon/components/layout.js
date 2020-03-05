@@ -49,12 +49,11 @@ export default ({ children }) => (
             background-color: #ffffff0d
           }
           .subscribe {
-            &focus {
-              background-color: #fff;
-              color: #222
+            &:focus {
+              color: #fff
             }
-            &focus + button {
-              color: #222
+            &:not(:placeholder-shown) + button {
+              color: #fff
             }
           }
           footer {

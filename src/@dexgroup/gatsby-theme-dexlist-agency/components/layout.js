@@ -1,10 +1,12 @@
 import React from 'react'
 import { Box } from 'theme-ui'
 import { Global, css } from '@emotion/core'
+import SEO from '@dexgroup/gatsby-theme-dexlist-design/src/components/seo'
 import Footer from '@dexgroup/gatsby-theme-dexlist-design/src/components/footer'
 
 export default ({ children }) => (
   <Box id='agency'>
+    <SEO title="Studios" />
     <Global
       styles={css`
         @import url('https://rsms.me/inter/inter.css');
