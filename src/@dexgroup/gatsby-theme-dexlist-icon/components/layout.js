@@ -52,7 +52,7 @@ export default ({ children }) => (
             &:focus {
               color: #fff
             }
-            &:not(:placeholder-shown) + button {
+            &:not(:placeholder-shown) ~ button {
               color: #fff
             }
           }

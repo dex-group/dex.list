@@ -227,6 +227,10 @@
 
 - title: Todo
   items:
+    - name: 'Any.do'
+      logo: './images/todo/Anydo.png'
+      slogan: 'A to-do list you’d actually use'
+      link: 'https://www.any.do/to-do-list/'
     - name: 'Microsoft To Do'
       logo: './images/todo/MicrosoftToDo.png'
       slogan: 'Focus, from work to play'
@@ -235,3 +239,7 @@
       logo: './images/todo/Ticktick.png'
       slogan: 'Todo list, checklist and task manager app'
       link: 'https://ticktick.com/'
+    - name: 'Todoist'
+      logo: './images/todo/Todoist.png'
+      slogan: 'The to do list to organize work & life'
+      link: 'https://todoist.com/'

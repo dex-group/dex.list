@@ -1,4 +1,52 @@
 module.exports = {
+  siteMetadata: {
+    siteUrl: 'https://dexlist.page/',
+    title: 'DEX List',
+    description: 'The index page for creative workers.',
+    author: '@dingyi',
+    twitter: '@dexgroup',
+    facebook: '@dexgroup',
+    image: './src/images/share.jpg',
+    organization: '@dexgroup',
+    canonicalUrl: 'https://dexlist.page/',
+    navLinks: [{
+        to: "/",
+        name: "resources",
+        count: "536",
+        icon: '/images/menu-resources.png'
+      },
+      {
+        to: "/studios",
+        name: "studios",
+        count: "244",
+        icon: '/images/menu-studios.png'
+      },
+      {
+        to: "/designers",
+        name: "designers",
+        count: "30",
+        icon: '/images/menu-designers.png'
+      },
+      {
+        to: "/tools",
+        name: "tools",
+        count: "54",
+        icon: '/images/menu-tools.png'
+      },
+      {
+        to: "/ios",
+        name: "iOS",
+        count: "324",
+        icon: '/images/menu-iOS.png'
+      },
+      {
+        to: "/mac",
+        name: "macOS",
+        count: "39",
+        icon: '/images/menu-macOS.png'
+      }
+    ],
+  },
   plugins: [
     {
       resolve: `@dexgroup/gatsby-theme-dexlist-agency`,
