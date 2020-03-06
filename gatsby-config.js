@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     siteUrl: 'https://dexlist.page/',
     title: 'DEX List - The index page for creative workers.',
-    description: 'The index page for creative workers.',
+    description: 'The all-in-one List website for designers, agencies, freelancers and creative workers.',
     author: '@dingyi',
-    twitter: '@dexgroup',
+    twitter: '@dingyi',
     facebook: '@dexgroup',
-    image: './src/images/share.jpg',
+    image: '/images/share.png',
     organization: '@dexgroup',
     canonicalUrl: 'https://dexlist.page/',
     navLinks: [{
@@ -30,7 +30,7 @@ module.exports = {
       {
         to: "/tools",
         name: "tools",
-        count: "54",
+        count: "60",
         icon: '/images/menu-tools.png'
       },
       {

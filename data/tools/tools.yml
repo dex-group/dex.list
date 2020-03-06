@@ -109,6 +109,10 @@
       logo: './images/documents/Tettra.png'
       slogan: 'Internal wiki & company knowledge base software'
       link: 'https://tettra.com/'
+    - name: 'Walling'
+      logo: './images/documents/Walling.png'
+      slogan: 'Visual Walls to Collect Ideas & Plot out Projects'
+      link: 'https://walling.app/'
     - name: '石墨文档'
       logo: './images/documents/石墨文档.png'
       slogan: '一款轻便、简洁的在线协作文档工具'
@@ -121,6 +125,29 @@
       logo: './images/documents/金山文档.png'
       slogan: '多人实时协作的在线Office'
       link: 'https://www.wps.cn/'
+
+- title: Mail
+  items:
+    - name: 'Consider'
+      logo: './images/mail/Consider.png'
+      slogan: 'Your company’s email, reimagined for today'
+      link: 'https://www.consider.co/'
+    - name: 'Front'
+      logo: './images/mail/Front.png'
+      slogan: 'the inbox for teams'
+      link: 'https://frontapp.com/'
+    - name: 'Gmail'
+      logo: './images/mail/Gmail.png'
+      slogan: 'Get more done with Gmail'
+      link: 'https://mail.google.com/'
+    - name: 'Outlook'
+      logo: './images/mail/Outlook.png'
+      slogan: 'free personal email and calendar from Microsoft'
+      link: 'https://outlook.live.com/'
+    - name: 'Spark for Teams'
+      logo: './images/mail/Spark.png'
+      slogan: 'Take your team collaboration to the next level'
+      link: 'https://sparkmailapp.com/teams'
 
 - title: Management
   items:
