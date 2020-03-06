@@ -7,8 +7,6 @@ export default ({ children }) => (
   <Box id='icon'>
     <Global
       styles={css`
-        @import url('https://rsms.me/inter/inter.css');
-        @import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
         @supports (font-variation-settings: normal) {
           html { font-family: 'Inter var', sans-serif }
         }

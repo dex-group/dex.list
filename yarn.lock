@@ -841,13 +841,13 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@dexgroup/gatsby-theme-dexlist-agency@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-1.0.1.tgz#4db44cf57067e175554a54c578f07b53304340f0"
-  integrity sha512-1ghdtXiS6VLTDT0DF9xiAulyirPT2O/ImSHntzvl6ItSwzjmC91PrrV3hsZze9sYk8QG80WqmpKnn2sR1ZkvEg==
+"@dexgroup/gatsby-theme-dexlist-agency@^1.0.1":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-1.0.2.tgz#66523ae6251fc131e83ea1c8e78be73dddfd4c82"
+  integrity sha512-MJDTywCOLRojeDDotLBaPrwt4gGeq0bRATgeQC5wgrP2ahmUiudlgPDioVkhyfmKqhZrr/KPfaspin64B35zAg==
   dependencies:
     "@emotion/core" "^10.0.28"
-    gatsby "^2.19.28"
+    gatsby "^2.19.29"
     gatsby-image "^2.2.42"
     gatsby-plugin-emotion "^4.1.23"
     gatsby-plugin-sharp "^2.4.5"
@@ -861,10 +861,10 @@
     rebass "^4.0.7"
     theme-ui "^0.3.1"
 
-"@dexgroup/gatsby-theme-dexlist-design@^2.0.5":
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-2.0.6.tgz#d1642e797afd60846fa321405ee38705b17f94be"
-  integrity sha512-h82w6JZZAlwlBdrrHxqEM1ogEZ8JSSrbddwOg5xDx+Lb7hU1Fz1yGDFI5XK6FeqbS5i6CR6AbFepdFi6TvrueA==
+"@dexgroup/gatsby-theme-dexlist-design@^2.0.6":
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-2.0.7.tgz#ff6797276b87d70609110bda69d958fe76a3c170"
+  integrity sha512-5AzYJuz40eS/cU2PTOORKysmyhuSvxUJqlOQKK5EVXgkSRbhhbs9LKoOC6aHS3kK+UaPJKDh+DNsMoyuDgWo4w==
   dependencies:
     "@emotion/core" "^10.0.28"
     "@mdx-js/mdx" "^1.5.7"
@@ -872,13 +872,12 @@
     "@reach/router" "^1.3.3"
     "@rebass/space" "^4.0.5"
     "@theme-ui/sidenav" "^0.3.1"
-    framer-motion "^1.9.0"
-    gatsby "^2.19.28"
+    framer-motion "^1.9.1"
+    gatsby "^2.19.29"
     gatsby-image "^2.2.42"
     gatsby-plugin-catch-links "^2.1.26"
     gatsby-plugin-emotion "^4.1.23"
     gatsby-plugin-mailchimp "^5.1.2"
-    gatsby-plugin-manifest "^2.2.42"
     gatsby-plugin-mdx "^1.0.75"
     gatsby-plugin-react-helmet "^3.1.22"
     gatsby-plugin-sharp "^2.4.5"
@@ -896,12 +895,12 @@
     use-onclickoutside "^0.3.1"
 
 "@dexgroup/gatsby-theme-dexlist-icon@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-2.0.2.tgz#23ccdf2ac9ac9db4231288a5fe95d7dbd88d1716"
-  integrity sha512-XcXFQo/M4XlFxzfGFVV22zufKRsnPFsBJIo4Ww4Jn7LZe6gXdw4Sn+P0BDxNbe+SouLZobQotQFTBGyAfQa6Ug==
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-2.0.3.tgz#cf6d1b012ea012f2bdb2aae9963fd3dc28f30804"
+  integrity sha512-myPoVX0uR2L2JVRkJJqO4DzE0nhI+CeWk29hrAcXnW1zLkOfmXfZubU3by113wwj3sVS2wTHJXBU9USiIQHp3g==
   dependencies:
     "@emotion/core" "^10.0.28"
-    gatsby "^2.19.28"
+    gatsby "^2.19.29"
     gatsby-image "^2.2.42"
     gatsby-plugin-emotion "^4.1.23"
     gatsby-plugin-sharp "^2.4.5"
@@ -915,12 +914,12 @@
     theme-ui "^0.3.1"
 
 "@dexgroup/gatsby-theme-dexlist-tools@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-1.0.0.tgz#b172c73ad79ee61366fe143bb055364c9953e0ec"
-  integrity sha512-SZTcAWoPIFCL6UBpazzFuImZWkKGI37/z8Kle/xo8u/J+j/S2yDTjVVTVM2NtIyEYQ/Gib32LqWEyA4lC7KYBA==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-1.0.1.tgz#284747ee4b37f2ffd598ca1c907069212992ef04"
+  integrity sha512-pgMvk/2VHSfLREybdTeyR6sxqv2BN2TFJwTxwsxI5V9Fg/1Y9yccC9eip+c/ijTwj/8fo17gco2ipHg+J+0R0g==
   dependencies:
     "@emotion/core" "^10.0.28"
-    gatsby "^2.19.28"
+    gatsby "^2.19.29"
     gatsby-image "^2.2.42"
     gatsby-plugin-emotion "^4.1.23"
     gatsby-plugin-sharp "^2.4.5"
@@ -4722,9 +4721,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.363, electron-to-chromium@^1.3.47:
-  version "1.3.368"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.368.tgz#d7597e04339f7ca70762031ec473d38eb2df6acb"
-  integrity sha512-fqzDipW3p+uDkHUHFPrdW3wINRKcJsbnJwBD7hgaQEQwcuLSvNLw6SeUp5gKDpTbmTl7zri7IZfhsdTUTnygJg==
+  version "1.3.370"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.370.tgz#420fba483d30ba3f7965b30ecf850fdb5f08a0bc"
+  integrity sha512-399cXDE9C7qoVF2CUgCA/MLflfvxbo1F0kB/pkB94426freL/JgZ0HNaloomsOfnE+VC/qgTFZqzmivSdaNfPQ==
 
 elliptic@^6.0.0:
   version "6.5.2"
@@ -5733,10 +5732,10 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-framer-motion@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-1.9.0.tgz#a4bdb984c19cb76da173ebe35fc901002b966ae1"
-  integrity sha512-d+udix896H9/Sp2PzjsPnbQTnnHu7mQ1DDYY2UjTTzaQsnJGzkuNkrVJuxXdTSvm6xoNOt2trjb6F9vauOZ7Ew==
+framer-motion@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-1.9.1.tgz#dc7cd963eedc0dcf92b27d0ef7fc22be5227452a"
+  integrity sha512-13vSUxdh8CP2pIQicOBF9RJaLlCj4mh0w6mSqbIoXtRatWMC7V9nKJvHauvaUEj9+xirT6hTML5YHn0DN3IGRg==
   dependencies:
     "@popmotion/easing" "^1.0.2"
     "@popmotion/popcorn" "^0.4.2"
@@ -6220,10 +6219,10 @@ gatsby-transformer-yaml@^2.2.25:
     lodash "^4.17.15"
     unist-util-select "^1.5.0"
 
-gatsby@^2.19.28:
-  version "2.19.28"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.19.28.tgz#0afb9f9c748875d8ff1d7f4f7b3aa03cb0260caf"
-  integrity sha512-B9iFqo3kKxDzV6y+93X3RuBXCacvO4qpKvEnV3+89Dcb3qkwMuvT9fmz3kw3/5NcPNphRADeYWS7hHJ+uO8N9g==
+gatsby@^2.19.29:
+  version "2.19.29"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.19.29.tgz#17e7ae7f049aa98edc36084796ca49d4cbd85b28"
+  integrity sha512-O87vYY7MJ6QviJsI8vmP6gODsnz2TKOtfWMYqvPBakIZbRgv11v0fV7ZXxxD4ikGopgzM26GsxyNi7jykGQ0CA==
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/core" "^7.7.5"
@@ -9189,9 +9188,9 @@ nanomatch@^1.2.9:
     to-regex "^3.0.1"
 
 napi-build-utils@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/napi-build-utils/-/napi-build-utils-1.0.1.tgz#1381a0f92c39d66bf19852e7873432fc2123e508"
-  integrity sha512-boQj1WFgQH3v4clhu3mTNfP+vOBxorDlE8EKiMjUlLG3C4qAESnn9AxIOkFgTR2c9LtzNjPrjS60cT27ZKBhaA==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/napi-build-utils/-/napi-build-utils-1.0.2.tgz#b1fddc0b2c46e380a0b7a76f984dd47c41a13806"
+  integrity sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg==
 
 natural-compare@^1.4.0:
   version "1.4.0"
@@ -13257,6 +13256,16 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typeface-dm-serif-display@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/typeface-dm-serif-display/-/typeface-dm-serif-display-1.1.3.tgz#8a61b24c921021ffa5c1ed9a6d4861fd75619ce4"
+  integrity sha512-6VVS3X/wdnGVcobS6EDozOu+ex15O+GA9AsM0KIV5dSy6m0sZt592LX8RP7jgvIJpi6x3YxREivMTlaELFUBtA==
+
+typeface-inter@^3.12.0:
+  version "3.12.0"
+  resolved "https://registry.yarnpkg.com/typeface-inter/-/typeface-inter-3.12.0.tgz#3cd7cdae730daa73cc01e88fdbe27601dc7c4fd7"
+  integrity sha512-3vKBTKCl6S0OJhMKwmyAOodsfTD3Gxsrj5ReavpQmdZ385ecUr3swfNxiBZ4u594mNfojlqL/zUebavV3A1yCA==
 
 unbzip2-stream@^1.0.9:
   version "1.3.3"
