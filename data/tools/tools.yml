@@ -148,6 +148,10 @@
       logo: './images/mail/Spark.png'
       slogan: 'Take your team collaboration to the next level'
       link: 'https://sparkmailapp.com/teams'
+    - name: 'Superhuman'
+      logo: './images/mail/Superhuman.png'
+      slogan: 'The Fastest Email Experience Ever Made'
+      link: 'https://superhuman.com/'
 
 - title: Management
   items:
@@ -176,12 +180,23 @@
       slogan: 'the visual collaboration tool'
       link: 'https://trello.com/'
 
+- title: Marketing
+  items:
+    - name: 'Buffer'
+      logo: './images/marketing/Buffer.png'
+      slogan: 'Social Media Management Software for Growing Brands'
+      link: 'https://buffer.com/'
+
 - title: Meeting
   items:
     - name: 'Google Meet'
       logo: './images/meeting/GoogleMeet.png'
       slogan: 'Effortless web conferencing'
       link: 'https://meet.google.com/'
+    - name: 'Loom'
+      logo: './images/meeting/Loom.png'
+      slogan: 'Free Screen & Video Recording Software'
+      link: 'https://www.loom.com/'
     - name: 'Tandem'
       logo: './images/meeting/Tandem.png'
       slogan: 'A virtual office for remote teams'
@@ -221,6 +236,21 @@
       logo: './images/newsletter/Substack.png'
       slogan: 'Build your independence'
       link: 'https://substack.com/'
+
+- title: Password
+  items:
+    - name: 'Bitwarden'
+      logo: './images/password/Bitwarden.png'
+      slogan: 'Open Source Password Management Solutions'
+      link: 'https://bitwarden.com/'
+    - name: 'Elpass'
+      logo: './images/password/Elpass.png'
+      slogan: 'Personal Digital Vault'
+      link: 'https://elpass.app/'
+    - name: 'LastPass'
+      logo: './images/password/LastPass.png'
+      slogan: 'Password Manager & Vault App'
+      link: 'https://www.lastpass.com/'
 
 - title: Sharing
   items:
