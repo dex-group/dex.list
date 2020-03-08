@@ -18,31 +18,31 @@ module.exports = {
       {
         to: "/studios",
         name: "studios",
-        count: "244",
+        count: "247",
         icon: '/images/menu-studios.png'
       },
       {
         to: "/designers",
         name: "designers",
-        count: "30",
+        count: "31",
         icon: '/images/menu-designers.png'
       },
       {
         to: "/tools",
         name: "tools",
-        count: "60",
+        count: "72",
         icon: '/images/menu-tools.png'
       },
       {
         to: "/ios",
         name: "iOS",
-        count: "328",
+        count: "334",
         icon: '/images/menu-iOS.png'
       },
       {
         to: "/mac",
         name: "macOS",
-        count: "39",
+        count: "80",
         icon: '/images/menu-macOS.png'
       }
     ],
@@ -113,6 +113,7 @@ module.exports = {
       }
     },
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-netlify`
+    `gatsby-plugin-netlify-cache`,
+    `gatsby-plugin-netlify`,
   ]
 }

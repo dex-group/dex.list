@@ -85,6 +85,10 @@
       logo: './images/documents/GoogleDocs.png'
       slogan: 'Free Online Documents for Personal Use'
       link: 'https://docs.google.com/'
+    - name: 'Journal'
+      logo: './images/documents/Journal.png'
+      slogan: 'Make space for your ideas to run wild'
+      link: 'https://usejournal.com/'
     - name: 'Notion'
       logo: './images/documents/Notion.png'
       slogan: 'Notes, Tasks, Wikis, all-in-one place'
@@ -171,6 +175,10 @@
       logo: './images/management/Roadmap.png'
       slogan: 'Visualise your plan'
       link: 'https://www.onroadmap.com/'
+    - name: 'Taskade'
+      logo: './images/management/Taskade.png'
+      slogan: 'Team Productivity, Workflow Management Software'
+      link: 'https://www.taskade.com/'
     - name: 'Teambition'
       logo: './images/management/Teambition.png'
       slogan: '团队协作工具创导者'
@@ -239,6 +247,10 @@
 
 - title: Password
   items:
+    - name: '1password'
+      logo: './images/password/1password.png'
+      slogan: 'Password Manager for Families, Businesses, Teams'
+      link: 'https://1password.com/'
     - name: 'Bitwarden'
       logo: './images/password/Bitwarden.png'
       slogan: 'Open Source Password Management Solutions'
