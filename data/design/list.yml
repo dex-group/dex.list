@@ -2235,6 +2235,10 @@
 - id: web
   title: Web Design
   item:
+    - name: 'Airsite'
+      logo: './images/web/Airsite.png'
+      slogan: 'Free Website Builder Mobile App'
+      link: 'https://airsite.co/'
     - name: 'Blocs'
       logo: './images/web/blocs.png'
       slogan: 'powerful visual web design tool'
