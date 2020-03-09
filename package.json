@@ -2,7 +2,7 @@
   "name": "dex.list",
   "description": "DEX List - The Index page for creative workers.",
   "version": "2.0.1",
-  "author": "Ding <dingyimac@gmail.com>",
+  "author": "Ding <d@ding.one>",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

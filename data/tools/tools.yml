@@ -31,6 +31,10 @@
       logo: './images/automation/MicrosoftFlow.png'
       slogan: 'Microsoft Power Automate'
       link: 'https://flow.microsoft.com/en-us/'
+    - name: 'Parabola'
+      logo: './images/automation/Parabola.png'
+      slogan: 'Make your computer work for you'
+      link: 'https://parabola.io/'
     - name: 'Workato'
       logo: './images/automation/Workato.png'
       slogan: 'Connect your apps. Automate your work'
@@ -156,6 +160,10 @@
       logo: './images/mail/Superhuman.png'
       slogan: 'The Fastest Email Experience Ever Made'
       link: 'https://superhuman.com/'
+    - name: 'Tempo'
+      logo: './images/mail/Tempo.png'
+      slogan: 'The email client for Mac that helps you focus'
+      link: 'https://www.yourtempo.co/'
 
 - title: Management
   items:
@@ -167,6 +175,10 @@
       logo: './images/management/Basecamp.png'
       slogan: 'Get it together and manage projects the right way'
       link: 'https://basecamp.com/'
+    - name: 'ClickUp'
+      logo: './images/management/ClickUp.png'
+      slogan: 'One app to replace them all'
+      link: 'https://clickup.com/'
     - name: 'Height'
       logo: './images/management/Height.png'
       slogan: 'real-time tasks, chat, and adaptive workflows'
@@ -232,6 +244,10 @@
       logo: './images/newsletter/ConvertKit.png'
       slogan: 'Email Marketing for Online Creators'
       link: 'https://convertkit.com/'
+    - name: 'Letter'
+      logo: './images/newsletter/Letter.png'
+      slogan: 'Email for Designers'
+      link: 'https://letter.so/'
     - name: 'Mailchimp'
       logo: './images/newsletter/Mailchimp.png'
       slogan: 'All-in-One Marketing Platform'
@@ -263,9 +279,28 @@
       logo: './images/password/LastPass.png'
       slogan: 'Password Manager & Vault App'
       link: 'https://www.lastpass.com/'
+    - name: 'Passbolt'
+      logo: './images/password/Passbolt.png'
+      slogan: 'Open source password manager for teams'
+      link: 'https://www.passbolt.com/'
+
+- title: Presentations
+  items:
+    - name: 'Keynote'
+      logo: './images/presentations/Keynote.png'
+      slogan: 'Beautiful presentations for everyone'
+      link: 'https://www.apple.com/keynote/'
+    - name: 'Spectacle'
+      logo: './images/presentations/Spectacle.png'
+      slogan: 'creating sleek presentations to live demo your code'
+      link: 'https://formidable.com/open-source/spectacle/'
 
 - title: Sharing
   items:
+    - name: 'Cloudapp'
+      logo: './images/sharing/Cloudapp.png'
+      slogan: 'Capture and Share Instantly'
+      link: 'https://www.getcloudapp.com/'
     - name: 'CowTransfer'
       logo: './images/sharing/CowTransfer.png'
       slogan: 'File transfer service'
