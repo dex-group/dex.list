@@ -47,7 +47,7 @@ export default {
       height: '100%',
       position: 'relative',
       '&:hover': {
-        backgroundColor: 'rgba(70, 79, 115, .4);',
+        backgroundColor: 'rgba(70, 79, 115, .4)',
         transition: 'all .4s ease-in',
         '& > h3': {
           visibility: 'visible',
