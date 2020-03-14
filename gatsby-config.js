@@ -12,37 +12,37 @@ module.exports = {
     navLinks: [{
         to: "/",
         name: "resources",
-        count: "545",
+        count: "549",
         icon: '/images/menu-resources.png'
       },
       {
         to: "/studios",
         name: "studios",
-        count: "247",
+        count: "254",
         icon: '/images/menu-studios.png'
       },
       {
         to: "/designers",
         name: "designers",
-        count: "31",
+        count: "37",
         icon: '/images/menu-designers.png'
       },
       {
         to: "/tools",
         name: "tools",
-        count: "80",
+        count: "81",
         icon: '/images/menu-tools.png'
       },
       {
         to: "/ios",
         name: "iOS",
-        count: "334",
+        count: "342",
         icon: '/images/menu-iOS.png'
       },
       {
         to: "/mac",
         name: "macOS",
-        count: "80",
+        count: "98",
         icon: '/images/menu-macOS.png'
       }
     ],
