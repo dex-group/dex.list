@@ -287,7 +287,10 @@
     - name: 'Color Hunt'
       logo: './images/color/colorhunt.png'
       slogan: 'Color Palettes for Designers and Artists'
-      link: 'https://colorhunt.co/'
+    - name: 'Colorific'
+      logo: './images/color/Colorific.png'
+      slogan: 'A tool to find accessibility safe color combinations'
+      link: 'https://colorific.darrellhanley.com/'
     - name: 'Colorleap'
       logo: './images/color/colorleap.png'
       slogan: "History's Palettes"

@@ -106,7 +106,8 @@ module.exports = {
         trackingId: 'UA-101495671-2',
         head: false
       },
-    }, {
+    },
+    {
       resolve: 'gatsby-plugin-fathom',
       options: {
         siteId: 'EMHYBILA'
