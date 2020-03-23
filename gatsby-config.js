@@ -12,19 +12,19 @@ module.exports = {
     navLinks: [{
         to: "/",
         name: "resources",
-        count: "549",
+        count: "554",
         icon: '/images/menu-resources.png'
       },
       {
         to: "/studios",
         name: "studios",
-        count: "254",
+        count: "256",
         icon: '/images/menu-studios.png'
       },
       {
         to: "/designers",
         name: "designers",
-        count: "37",
+        count: "49",
         icon: '/images/menu-designers.png'
       },
       {
@@ -42,7 +42,7 @@ module.exports = {
       {
         to: "/mac",
         name: "macOS",
-        count: "98",
+        count: "103",
         icon: '/images/menu-macOS.png'
       }
     ],

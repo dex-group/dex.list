@@ -97,6 +97,10 @@
       logo: './images/background/svgbackgrounds.png'
       slogan: 'SVG-based repeating patterns'
       link: 'https://www.svgbackgrounds.com/'
+    - name: 'Trianglify.io'
+      logo: './images/background/Trianglify.png'
+      slogan: 'Low Poly Pattern Generator'
+      link: 'https://trianglify.io/'
 
 - id: book
   title: Books
@@ -1286,6 +1290,18 @@
       slogan: 'A visual platform that helps you think'
       link: 'https://raindrop.io/'
 
+- id: logo
+  title: Logo
+  item:
+    - name: 'Fiverr'
+      logo: './images/logo/Fiverr.png'
+      slogan: 'Create Your Logo in 5 Minutes'
+      link: 'https://www.fiverr.com/logo-maker'
+    - name: 'My Brand New Logo'
+      logo: './images/logo/MyBrandNewLogo.png'
+      slogan: 'Design your brand'
+      link: 'https://mybrandnewlogo.com/'
+
 - id: mockup
   title: Mockups
   item:
@@ -1293,6 +1309,10 @@
       logo: './images/mockup/angle.png'
       slogan: '1000 Device Mockups'
       link: 'https://angle.sh/'
+    - name: 'Animockup'
+      logo: './images/mockup/Animockup.png'
+      slogan: 'Free Animated Mockup Maker'
+      link: 'https://animockup.com/'
     - name: 'Artboard Studio'
       logo: './images/mockup/artboardstudio.png'
       slogan: 'Product Mockups Made Easy'
@@ -1661,6 +1681,14 @@
       logo: './images/photo/稿定设计.png'
       slogan: '多场景商业视觉在线设计平台'
       link: 'https://www.gaoding.com/'
+
+- id: pixelart
+  title: Pixel Art
+  item:
+    - name: 'Pixilart'
+      logo: './images/pixelart/Pixilart.png'
+      slogan: 'Free Online Art Community and Pixel Art Tool'
+      link: 'https://www.pixilart.com/'
 
 - id: podcast
   title: Podcasts
