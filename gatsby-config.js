@@ -99,6 +99,12 @@ module.exports = {
         crossOrigin: 'use-credentials'
       },
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://dexlist.page/`,
+      },
+    },
     `gatsby-plugin-offline`,
     // {
     //   resolve: 'gatsby-plugin-google-analytics',
