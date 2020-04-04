@@ -186,6 +186,35 @@
       slogan: '多人实时协作的在线Office'
       link: 'https://www.wps.cn/'
 
+- title: Feedback
+  items:
+    - name: 'Conflux'
+      logo: './images/feedback/Conflux.png'
+      slogan: 'Feedback management is the epicenter of success'
+      link: 'https://getconflux.com/'
+    - name: 'MessageBird'
+      logo: './images/feedback/MessageBird.png'
+      slogan: 'Zero friction, omnichannel communication'
+      link: 'https://www.messagebird.com/en/'
+    - name: 'Smallchat'
+      logo: './images/feedback/Smallchat.png'
+      slogan: 'Connect with your visitors'
+      link: 'https://small.chat/'
+
+- title: HR
+  items:
+    - name: 'Lattice'
+      logo: './images/hr/Lattice.png'
+      slogan: 'People Management'
+      link: 'https://lattice.com/'
+
+- title: Invoicing
+  items:
+    - name: 'Harpoon'
+      logo: './images/invoicing/Harpoon.png'
+      slogan: 'the next generation time-tracking and billing software'
+      link: 'https://harpoonapp.com/'
+
 - title: Mail
   items:
     - name: 'Consider'
@@ -235,6 +264,10 @@
       logo: './images/management/ClickUp.png'
       slogan: 'One app to replace them all'
       link: 'https://clickup.com/'
+    - name: 'Fibery'
+      logo: './images/management/Fibery.png'
+      slogan: 'Freedom to work your way'
+      link: 'https://fibery.io/'
     - name: 'Height'
       logo: './images/management/Height.png'
       slogan: 'real-time tasks, chat, and adaptive workflows'

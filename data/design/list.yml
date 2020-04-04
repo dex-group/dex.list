@@ -303,6 +303,10 @@
       logo: './images/color/colorleap.png'
       slogan: "History's Palettes"
       link: 'https://colorleap.app/home'
+    - name: 'colors.lol'
+      logo: './images/color/colorslol.png'
+      slogan: "Overly descriptive color palettes"
+      link: 'https://colors.lol/'
     - name: 'Colorsinspo'
       logo: './images/color/Colorsinspo.png'
       slogan: "finding everything about colors"
@@ -315,6 +319,10 @@
       logo: './images/color/Palettte.png'
       slogan: 'Create and edit smooth color palettes'
       link: 'https://palettte.app'
+    - name: 'Parametric Color Mixer'
+      logo: './images/color/ParametricColorMixer.png'
+      slogan: "A color palette composer inspired by audio parametric equalizers"
+      link: 'https://colormixer.web.app/'
     - name: 'Picular'
       logo: './images/color/picular.png'
       slogan: 'Google but for colors'
@@ -1057,6 +1065,10 @@
       logo: './images/illustration/Avataaars.png'
       slogan: 'Avatar Illustrations Sketch Library'
       link: 'https://avataaars.com/'
+    - name: 'Black Illustrations'
+      logo: './images/illustration/BlackIllustrations.png'
+      slogan: 'Illustrations of Black People for Your Next Digital Project'
+      link: 'https://www.blackillustrations.com/'
     - name: 'DrawKit'
       logo: './images/illustration/DrawKit.png'
       slogan: 'Beautiful free illustrations'
@@ -1093,6 +1105,10 @@
       logo: './images/illustration/JoeSchmoe.png'
       slogan: 'An illustrated avatar collection'
       link: 'https://joeschmoe.io/'
+    - name: 'Minty'
+      logo: './images/illustration/Minty.png'
+      slogan: 'Show and sell platform for illustrators'
+      link: 'https://tasteminty.com/page/'
     - name: 'Mixkit'
       logo: './images/illustration/Mixkit.png'
       slogan: 'Beautiful Free Art & Illustration'
