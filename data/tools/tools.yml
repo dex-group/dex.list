@@ -137,6 +137,10 @@
       logo: './images/documents/Journal.png'
       slogan: 'Make space for your ideas to run wild'
       link: 'https://usejournal.com/'
+    - name: 'Nimbus Note'
+      logo: './images/documents/NimbusNote.png'
+      slogan: 'One place to manage all your information'
+      link: 'https://nimbusweb.me/'
     - name: 'Notion'
       logo: './images/documents/Notion.png'
       slogan: 'Notes, Tasks, Wikis, all-in-one place'
@@ -399,6 +403,10 @@
 
 - title: Presentations
   items:
+    - name: 'Dekks'
+      logo: './images/presentations/Dekks.png'
+      slogan: 'Next Generation Presentations'
+      link: 'https://dekks.app/'
     - name: 'Keynote'
       logo: './images/presentations/Keynote.png'
       slogan: 'Beautiful presentations for everyone'

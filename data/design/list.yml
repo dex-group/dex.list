@@ -307,6 +307,10 @@
       logo: './images/color/colorslol.png'
       slogan: "Overly descriptive color palettes"
       link: 'https://colors.lol/'
+    - name: 'CombineCOLORS'
+      logo: './images/color/CombineCOLORS.png'
+      slogan: "Mix Paints Online"
+      link: 'https://combinecolors.com/'
     - name: 'Colorsinspo'
       logo: './images/color/Colorsinspo.png'
       slogan: "finding everything about colors"
@@ -1789,6 +1793,14 @@
       logo: './images/portfolio/Bestfolios.png'
       slogan: 'UI and UX Design Portfolio'
       link: 'https://www.bestfolios.com/'
+    - name: 'Carbonmade'
+      logo: './images/portfolio/Carbonmade.png'
+      slogan: 'Your online portfolio'
+      link: 'https://carbonmade.com/'
+    - name: 'Cargo'
+      logo: './images/portfolio/Cargo.png'
+      slogan: 'Put your projects on the Web'
+      link: 'https://cargo.site/'
     - name: 'DSKO'
       logo: './images/portfolio/DSKO.png'
       slogan: 'Discover creative people & brands'
@@ -1861,6 +1873,10 @@
 - id: resource
   title: Resources
   item:
+    - name: 'Apply Pixels'
+      logo: './images/resource/ApplyPixels.png'
+      slogan: 'App Icons, UI Kits, Screenshot Templates and more'
+      link: 'https://applypixels.com/'
     - name: 'Bjango Resource'
       logo: './images/resource/bjango.png'
       slogan: 'Helpful design resources from Bjango'
@@ -2041,6 +2057,10 @@
       logo: './images/resource/uxplanet.png'
       slogan: 'Everything related to user experience'
       link: 'https://uxplanet.org/'
+    - name: 'Veila'
+      logo: './images/resource/Veila.png'
+      slogan: 'Unique Design Goods From Creative'
+      link: 'https://www.veila.me/'
     - name: '图小白'
       logo: './images/resource/图小白.png'
       slogan: '简单好用的在线平面工具'
@@ -2290,6 +2310,10 @@
 - id: videocourse
   title: Video Courses
   item:
+    - name: 'Designing App Icons'
+      logo: './images/videocourse/DesigningAppIcons.png'
+      slogan: 'Deisign App Icons by Michael Flarup'
+      link: 'https://applypixels.com/class/designing-app-icons'
     - name: 'Figma Tutorials'
       logo: './images/videocourse/figma.png'
       slogan: 'Figma course on Youtube'
