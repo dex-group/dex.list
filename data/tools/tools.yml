@@ -28,6 +28,10 @@
       logo: './images/analytics/GrowingIO.png'
       slogan: '硅谷新一代无埋点用户行为数据分析产品'
       link: 'https://www.growingio.com/'
+    - name: 'Matomo'
+      logo: './images/analytics/Matomo.png'
+      slogan: 'Secure Open Web Analytics Platform'
+      link: 'https://matomo.org/'
     - name: 'Mixpanel'
       logo: './images/analytics/Mixpanel.png'
       slogan: 'Product and User Behavioral Analytics for Mobile, Web, & More'
@@ -358,6 +362,17 @@
       logo: './images/meeting/腾讯会议.png'
       slogan: '随时随地 高清音视频会议'
       link: 'https://meeting.tencent.com/'
+
+- title: Mind Map
+  items:
+    - name: 'XMind'
+      logo: './images/mindmap/XMind.png'
+      slogan: 'Mind Mapping Software'
+      link: 'https://www.xmind.net/'
+    - name: 'Zen Mind Map'
+      logo: './images/mindmap/ZenMindMap.png'
+      slogan: 'The Simplest Mind Mapping Software'
+      link: 'https://www.zenmindmap.com/'
 
 - title: Newsletter
   items:
