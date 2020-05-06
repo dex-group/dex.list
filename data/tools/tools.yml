@@ -125,10 +125,6 @@
 
 - title: Documents
   items:
-    - name: 'Bear'
-      logo: './images/documents/Bear.png'
-      slogan: 'a focused, flexible writing app'
-      link: 'https://bear.app/'
     - name: 'Coda'
       logo: './images/documents/Coda.png'
       slogan: 'A new doc for teams'
@@ -312,6 +308,29 @@
       logo: './images/management/Trello.png'
       slogan: 'the visual collaboration tool'
       link: 'https://trello.com/'
+
+- title: Markdown
+  items:
+    - name: 'Bear'
+      logo: './images/markdown/Bear.png'
+      slogan: 'a focused, flexible writing app'
+      link: 'https://bear.app/'
+    - name: 'Markdown'
+      logo: './images/markdown/Markdown.png'
+      slogan: 'Power of PLAINTEXT, Zen for Markdown'
+      link: 'https://markdown.app/'
+    - name: 'MarkText'
+      logo: './images/markdown/MarkText.png'
+      slogan: 'Simple and Elegant Markdown Editor'
+      link: 'https://marktext.app/'
+    - name: 'MWeb'
+      logo: './images/markdown/MWeb.png'
+      slogan: 'Pro Markdown writing, note taking and static blog generator App'
+      link: 'https://www.mweb.im/'
+    - name: 'Typora'
+      logo: './images/markdown/Typora.png'
+      slogan: 'a markdown editor, markdown reader'
+      link: 'https://typora.io/'
 
 - title: Marketing
   items:

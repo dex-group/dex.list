@@ -463,6 +463,10 @@
       logo: './images/designplatform/PlaceIt.png'
       slogan: 'Smart Templates Make Design Easy'
       link: 'https://placeit.net/'
+    - name: '创客贴'
+      logo: './images/designplatform/创客贴.png'
+      slogan: '平面设计作图神器'
+      link: 'https://www.chuangkit.com/'
     - name: '鹿班'
       logo: './images/designplatform/鹿班.png'
       slogan: 'Design AI by Alibaba'
@@ -1745,6 +1749,10 @@
       logo: './images/pixelart/Pixilart.png'
       slogan: 'Free Online Art Community and Pixel Art Tool'
       link: 'https://www.pixilart.com/'
+    - name: 'Strike'
+      logo: './images/pixelart/Strike.png'
+      slogan: 'a web-based, 1-bit paint tool'
+      link: 'https://strike.amorphic.space/'
 
 - id: podcast
   title: Podcasts
