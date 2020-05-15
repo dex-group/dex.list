@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@dexgroup/gatsby-theme-dexlist-agency": "^1.0.9",
-    "@dexgroup/gatsby-theme-dexlist-design": "^2.0.14",
+    "@dexgroup/gatsby-theme-dexlist-design": "^2.0.15",
     "@dexgroup/gatsby-theme-dexlist-icon": "^2.0.10",
     "@dexgroup/gatsby-theme-dexlist-tools": "^1.0.8",
     "gatsby": "^2.21.28",
