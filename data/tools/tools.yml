@@ -557,3 +557,18 @@
       logo: './images/todo/Todoist.png'
       slogan: 'The to do list to organize work & life'
       link: 'https://todoist.com/'
+
+- title: Whiteboard
+  items:
+    - name: 'Excalidraw'
+      logo: './images/whiteboard/Excalidraw.png'
+      slogan: 'Hand-drawn look & feel'
+      link: 'https://excalidraw.com/'
+    - name: 'Miro'
+      logo: './images/whiteboard/Miro.png'
+      slogan: 'Team collaboration software & online whiteboard for teams'
+      link: 'https://miro.com/'
+    - name: '会议桌-可视化团队协作工具'
+      logo: './images/whiteboard/会议桌.png'
+      slogan: '可视化团队协作工具'
+      link: 'https://www.huiyizhuo.com/'
