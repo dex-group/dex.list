@@ -1757,6 +1757,10 @@
 - id: pixelart
   title: Pixel Art
   item:
+    - name: 'Aseprite'
+      logo: './images/pixelart/Aseprite.png'
+      slogan: 'Animated sprite editor & pixel art tool'
+      link: 'https://www.aseprite.org/'
     - name: 'Pixilart'
       logo: './images/pixelart/Pixilart.png'
       slogan: 'Free Online Art Community and Pixel Art Tool'
