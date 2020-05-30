@@ -447,6 +447,10 @@
 - id: designplatform
   title: Design Platform
   item:
+    - name: 'Artify'
+      logo: './images/designplatform/Artify.png'
+      slogan: 'Create remarkable designs in record time'
+      link: 'https://www.artify.co/'
     - name: 'Canva'
       logo: './images/designplatform/canva.png'
       slogan: 'Design anything Publish anywhere'
@@ -1073,6 +1077,10 @@
       logo: './images/icon/webfont.png'
       slogan: 'Create and manage custom SVG icon fonts'
       link: 'https://www.webfontapp.com/'
+    - name: 'Wildicons'
+      logo: './images/icon/Wildicons.png'
+      slogan: 'Wildlife icon set'
+      link: 'https://wildicons.fun//'
 
 - id: illustration
   title: Illustration
@@ -1462,6 +1470,10 @@
       logo: './images/motion/Haiku.png'
       slogan: 'Create interfaces using design & code'
       link: 'https://www.haikuforteams.com/'
+    - name: 'Keyframes'
+      logo: './images/motion/Keyframes.png'
+      slogan: 'Keyframes helps you write better CSS'
+      link: 'https://keyframes.app/'
     - name: 'Kite Compositor'
       price: '$99'
       logo: './images/motion/KiteCompositor.png'
@@ -2466,6 +2478,10 @@
       logo: './images/web/studio.png'
       slogan: 'Design to live website in one click'
       link: 'https://studio.design/'
+    - name: 'teleporthq.io'
+      logo: './images/web/teleporthq.png'
+      slogan: 'AI-Wired Front-End Development Platform'
+      link: 'https://teleporthq.io/'
     - name: 'Tilda'
       logo: './images/web/Tilda.png'
       slogan: 'Create beautiful websites without code'
