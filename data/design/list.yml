@@ -447,6 +447,10 @@
 - id: designplatform
   title: Design Platform
   item:
+    - name: 'Abyssale'
+      logo: './images/designplatform/Abyssale.png'
+      slogan: 'All-in-One Platform to Create and Manage Your Banners'
+      link: 'https://www.abyssale.com/'
     - name: 'Artify'
       logo: './images/designplatform/Artify.png'
       slogan: 'Create remarkable designs in record time'
@@ -467,6 +471,10 @@
       logo: './images/designplatform/PlaceIt.png'
       slogan: 'Smart Templates Make Design Easy'
       link: 'https://placeit.net/'
+    - name: 'Projector'
+      logo: './images/designplatform/Projector.png'
+      slogan: 'Create to captivate'
+      link: 'https://projector.com/'
     - name: '创客贴'
       logo: './images/designplatform/创客贴.png'
       slogan: '平面设计作图神器'
