@@ -149,6 +149,10 @@
       logo: './images/collection/Checklist.png'
       slogan: 'Best UI elements for the best UX practice'
       link: 'https://www.checklist.design/'
+    - name: 'Designer Hunt'
+      logo: './images/collection/DesignerHunt.png'
+      slogan: 'Follow & Learn From Talent Designers'
+      link: 'https://www.designerhunt.io/'
     - name: 'Design notes'
       logo: './images/collection/Designnotes.png'
       slogan: 'A free online resource library'
@@ -1097,6 +1101,10 @@
 - id: illustration
   title: Illustration
   item:
+    - name: '3D Hands gestures'
+      logo: './images/illustration/3DHandsgestures.png'
+      slogan: 'A 3D illustration library'
+      link: 'https://www.handz.design/'
     - name: 'Absurd Design'
       logo: './images/illustration/AbsurdDesign.png'
       slogan: 'Free Surrealist Illustrations and Vector Art'
