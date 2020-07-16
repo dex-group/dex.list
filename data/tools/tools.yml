@@ -339,6 +339,10 @@
       logo: './images/markdown/Typora.png'
       slogan: 'a markdown editor, markdown reader'
       link: 'https://typora.io/'
+    - name: 'Writty'
+      logo: './images/markdown/Writty.png'
+      slogan: 'A minimalist writing app to help you focus on what matters'
+      link: 'https://writtyapp.com/'
 
 - title: Marketing
   items:

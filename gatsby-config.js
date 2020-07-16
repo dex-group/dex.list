@@ -113,12 +113,6 @@ module.exports = {
     //     head: false
     //   },
     // },
-    // {
-    //   resolve: `gatsby-plugin-gauges`,
-    //   options: {
-    //     siteId: '5e70cf38afc1527d564d60d9',
-    //   },
-    // },
     {
       resolve: 'gatsby-plugin-fathom',
       options: {
