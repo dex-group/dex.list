@@ -1253,6 +1253,10 @@
       logo: './images/image/PNGTAB.png'
       slogan: 'Free transparent PNG images for everyone'
       link: 'https://pngtab.com/'
+    - name: '图压'
+      logo: './images/image/图压.png'
+      slogan: '简单易用的图片压缩软件'
+      link: 'https://tuya.xinxiao.tech/index.html'
 
 - id: inspiration
   title: Inspiration
