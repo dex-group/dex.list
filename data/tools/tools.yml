@@ -407,6 +407,10 @@
 
 - title: Newsletter
   items:
+    - name: 'Benchmark Email'
+      logo: './images/newsletter/BenchmarkEmail.png'
+      slogan: 'Email marketing that wont slow you down'
+      link: 'https://www.benchmarkemail.com/'
     - name: 'Buttondown'
       logo: './images/newsletter/Buttondown.png'
       slogan: 'The easiest way to run your newsletter'
