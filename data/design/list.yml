@@ -1843,6 +1843,18 @@
       slogan: '多场景商业视觉在线设计平台'
       link: 'https://www.gaoding.com/'
 
+- id: pattern
+  title: Patterns
+  item:
+    - name: 'MagicPattern'
+      logo: './images/pattern/MagicPattern.png'
+      slogan: 'Unique geometric patterns in seconds, literally'
+      link: 'https://www.magicpattern.design/'
+    - name: 'Pattern Collect'
+      logo: './images/pattern/PatternCollect.png'
+      slogan: 'A curated gallery of patterns by awesome designers & illustrators'
+      link: 'https://patterncollect.com/'
+
 - id: pixelart
   title: Pixel Art
   item:
