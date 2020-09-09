@@ -18,13 +18,13 @@ module.exports = {
       {
         to: "/studios",
         name: "studios",
-        count: "295",
+        count: "301",
         icon: '/images/menu-studios.png'
       },
       {
         to: "/designers",
         name: "designers",
-        count: "108",
+        count: "110",
         icon: '/images/menu-designers.png'
       },
       {
@@ -36,7 +36,7 @@ module.exports = {
       {
         to: "/ios",
         name: "iOS",
-        count: "372",
+        count: "373",
         icon: '/images/menu-iOS.png'
       },
       {
