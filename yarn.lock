@@ -1005,7 +1005,7 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@dexgroup/gatsby-theme-dexlist-agency@^1.0.13":
+"@dexgroup/gatsby-theme-dexlist-agency@^1.0.14":
   version "1.0.14"
   resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-1.0.14.tgz#3492a7e5027b7432eff57446e00365e8fb6658e1"
   integrity sha512-aEehjitA1kDcTJl9eJFB+ElQKLpUakKsZqzVzItX4tCv22uF0n5MPSMJ9S/RG9x4qUjwM+RQ1OAJnfReQUGkaQ==
@@ -1024,7 +1024,7 @@
     rebass "^4.0.7"
     theme-ui "^0.3.1"
 
-"@dexgroup/gatsby-theme-dexlist-design@^2.0.19":
+"@dexgroup/gatsby-theme-dexlist-design@^2.0.21":
   version "2.0.21"
   resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-2.0.21.tgz#a56978dfbaa3f2c21241bcd73f924723b1d1afdd"
   integrity sha512-UJfaNzHUjaj42R2np0z7PuppoyApXNvEycSpE5LbuAmT4FcyYOwYIZAfBpwfpy+8oQQxRBDBNOSIeOJOHPFTmw==
@@ -1058,7 +1058,7 @@
     theme-ui "^0.3.1"
     use-onclickoutside "^0.3.1"
 
-"@dexgroup/gatsby-theme-dexlist-icon@^2.0.14":
+"@dexgroup/gatsby-theme-dexlist-icon@^2.0.15":
   version "2.0.15"
   resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-2.0.15.tgz#4203ada2b8d70eb17c7039d85df60aa8774ff96d"
   integrity sha512-uf03gxLsYd0xn4mz2aNTZxMmdHaQAz6yZ54ykuXGqZQUxcsUJs92/V8qQb3dZViYvNUayDDQg2EatQgeU9fqJQ==
@@ -1077,7 +1077,7 @@
     rebass "^4.0.7"
     theme-ui "^0.3.1"
 
-"@dexgroup/gatsby-theme-dexlist-tools@^1.0.12":
+"@dexgroup/gatsby-theme-dexlist-tools@^1.0.13":
   version "1.0.13"
   resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-1.0.13.tgz#223439589d58e642bac142c42254895ae2b36cc9"
   integrity sha512-t9bLMBd/bln+5pq6LJz9FXD+IP7hdVciuFGDVm/7fcC21E8blWSBgSAoDCejYAUqis0TSlO/Fhz5Xb6xwZ6xFw==
