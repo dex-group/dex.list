@@ -936,6 +936,10 @@
 - id: handoff
   title: Handoff and Feedback
   item:
+    - name: 'Contrast'
+      logo: './images/handoff/Contrast.png'
+      slogan: 'Developer Handoff Reimagined'
+      link: 'https://www.contrast.app/'
     - name: 'Pastel'
       logo: './images/handoff/Pastel.png'
       slogan: 'the fastest visual feedback tool'
@@ -949,7 +953,7 @@
       logo: './images/handoff/RedPen.png'
       slogan: 'Upload your design and get feedback'
       link: 'https://redpen.io/'
-    - name: 'Relay for Figma'
+    - name: 'Relay'
       price: '$20/mo'
       logo: './images/handoff/Relay.png'
       slogan: 'Continuous Design Delivery'
