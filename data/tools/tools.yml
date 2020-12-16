@@ -396,6 +396,10 @@
 
 - title: Mind Map
   items:
+    - name: 'GitMind'
+      logo: './images/mindmap/GitMind.png'
+      slogan: '免费在线思维导图软件'
+      link: 'https://gitmind.cn/'
     - name: 'XMind'
       logo: './images/mindmap/XMind.png'
       slogan: 'Mind Mapping Software'
