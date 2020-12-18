@@ -584,6 +584,10 @@
 
 - title: Whiteboard
   items:
+    - name: 'BeeCanvas'
+      logo: './images/whiteboard/BeeCanvas.png'
+      slogan: 'Online Whiteboard for Visual Collaboration'
+      link: 'https://beecanvas.com/'
     - name: 'Excalidraw'
       logo: './images/whiteboard/Excalidraw.png'
       slogan: 'Hand-drawn look & feel'

@@ -1005,50 +1005,50 @@
     to-fast-properties "^2.0.0"
 
 "@dexgroup/gatsby-theme-dexlist-agency@^2.0.17":
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-2.0.17.tgz#c3646168ede8cbc82149e6282139b2af029fbf72"
-  integrity sha512-LjZkPkbUdWKSASM3TEfEUam4BwgoRZ1hXncS/Vk0icqT1ZA4cjweGK5yyE1/5pbS51SG2g0x/xDsYx9GEuoseQ==
+  version "2.0.18"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-2.0.18.tgz#a0222a6bb23e8b13489daddf4981eb05ade9001e"
+  integrity sha512-BdzMDs4F/j6+wgVLWSGv/X7+kN2BCWYzRpUp1BlHcp2ZIGvE/lwWYNeJ7hNbaQpI41wzpjheKCgOQVXLdqsUqQ==
   dependencies:
-    "@emotion/core" "^11.0.0"
-    gatsby "^2.28.1"
-    gatsby-image "^2.7.0"
-    gatsby-plugin-emotion "^5.0.0"
-    gatsby-plugin-sharp "^2.10.1"
+    "@emotion/react" "^11.1.2"
+    gatsby "^2.29.1"
+    gatsby-image "^2.8.0"
+    gatsby-plugin-emotion "^5.1.0"
+    gatsby-plugin-sharp "^2.11.1"
     gatsby-plugin-theme-ui "^0.3.4"
-    gatsby-source-filesystem "^2.7.0"
-    gatsby-transformer-sharp "^2.8.0"
-    gatsby-transformer-yaml "^2.7.0"
+    gatsby-source-filesystem "^2.8.0"
+    gatsby-transformer-sharp "^2.9.0"
+    gatsby-transformer-yaml "^2.8.0"
     react "^17.0.1"
     react-dom "^17.0.1"
     rebass "^4.0.7"
     theme-ui "^0.3.4"
 
 "@dexgroup/gatsby-theme-dexlist-design@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-2.2.1.tgz#3e10b4ccea875128d45a666cd0498892c141d65d"
-  integrity sha512-7K69o8UjsTRgQQoch2meHPzgfqAVFvL8Cp7OjDrUBHY6p37hDUVicU/oMcqKaV2PmkMTQhIXaJTrkNJLTBIWCA==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-2.3.0.tgz#41ad5c01f75cf136e377369524cf0d75832df73c"
+  integrity sha512-2IQUMg4JWA57lVYx6YPpBP+T3GcHYea6wrmolx6XJ3xa14FDgit8WpHB+KBPNfV82aBgHEQ5O69nZCM+y15GhQ==
   dependencies:
-    "@emotion/core" "^11.0.0"
+    "@emotion/react" "^11.1.2"
     "@mdx-js/mdx" "^1.6.22"
     "@mdx-js/react" "^1.6.22"
     "@reach/router" "^1.3.4"
     "@rebass/space" "^4.0.5"
     "@theme-ui/sidenav" "^0.3.4"
-    framer-motion "^2.9.5"
-    gatsby "^2.28.1"
-    gatsby-image "^2.7.0"
-    gatsby-plugin-catch-links "^2.6.0"
-    gatsby-plugin-emotion "^5.0.0"
+    framer-motion "^3.0.0"
+    gatsby "^2.29.1"
+    gatsby-image "^2.8.0"
+    gatsby-plugin-catch-links "^2.7.0"
+    gatsby-plugin-emotion "^5.1.0"
     gatsby-plugin-mailchimp "^5.2.2"
-    gatsby-plugin-mdx "^1.6.0"
-    gatsby-plugin-react-helmet "^3.6.0"
-    gatsby-plugin-sharp "^2.10.1"
+    gatsby-plugin-mdx "^1.7.0"
+    gatsby-plugin-react-helmet "^3.7.0"
+    gatsby-plugin-sharp "^2.11.1"
     gatsby-plugin-theme-ui "^0.3.4"
-    gatsby-remark-images "^3.7.0"
-    gatsby-source-filesystem "^2.7.0"
-    gatsby-transformer-remark "^2.12.0"
-    gatsby-transformer-sharp "^2.8.0"
-    gatsby-transformer-yaml "^2.7.0"
+    gatsby-remark-images "^3.8.0"
+    gatsby-source-filesystem "^2.8.0"
+    gatsby-transformer-remark "^2.13.0"
+    gatsby-transformer-sharp "^2.9.0"
+    gatsby-transformer-yaml "^2.8.0"
     react "^17.0.1"
     react-dom "^17.0.1"
     react-helmet "^6.1.0"
@@ -1058,38 +1058,38 @@
     use-onclickoutside "^0.3.1"
 
 "@dexgroup/gatsby-theme-dexlist-icon@^2.0.17":
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-2.0.17.tgz#fd2d8c836544864dc68bc6ef5c4feb56fa9a569b"
-  integrity sha512-rh7N6ayNTJ3M1rGBqFj6hl8a2POd5G8mBYU+wC7ioGlwwSXRKgeb8eaWoPfk0YkC2gy7hRyFHO4egbGopotuNA==
+  version "2.0.18"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-2.0.18.tgz#65a91647141e224cdab5c3d8638b059bd422aecd"
+  integrity sha512-lFDuSNj5ml8yxuXY5nPI/g97K1t3bTdYU1gmjXNipkRuKvetOUCKxLB8nmtbQpgMr8ZCohxRvzeLZ1kpF45x5A==
   dependencies:
-    "@emotion/core" "^11.0.0"
-    gatsby "^2.28.1"
-    gatsby-image "^2.7.0"
-    gatsby-plugin-emotion "^5.0.0"
-    gatsby-plugin-sharp "^2.10.1"
+    "@emotion/react" "^11.1.2"
+    gatsby "^2.29.1"
+    gatsby-image "^2.8.0"
+    gatsby-plugin-emotion "^5.1.0"
+    gatsby-plugin-sharp "^2.11.1"
     gatsby-plugin-theme-ui "^0.3.4"
-    gatsby-source-filesystem "^2.7.0"
-    gatsby-transformer-sharp "^2.8.0"
-    gatsby-transformer-yaml "^2.7.0"
+    gatsby-source-filesystem "^2.8.0"
+    gatsby-transformer-sharp "^2.9.0"
+    gatsby-transformer-yaml "^2.8.0"
     react "^17.0.1"
     react-dom "^17.0.1"
     rebass "^4.0.7"
     theme-ui "^0.3.4"
 
 "@dexgroup/gatsby-theme-dexlist-tools@^2.0.17":
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-2.0.17.tgz#ed079f88c902bb5ad91751538af69d7e8045ecf6"
-  integrity sha512-o2zrKmrWhTZmI7Z76XZ5s7T9xaDVISzp1M1f+Ny14FBjEwQQYhleyRBF0B0zbrz14NFGD0B18KjKLqCPFtuC/Q==
+  version "2.0.18"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-2.0.18.tgz#755aba6fbdb01fdf29fc5d61684c8c8d9ee330fe"
+  integrity sha512-B/FgEZgtjkYaFf4vWZ9jSbL3BO5s/Bo9028JOqtP+bOwJiKMuLRSWsmUk/Zcb3GnK/Cj6DpmBzB3gICCqQgFSg==
   dependencies:
-    "@emotion/core" "^11.0.0"
-    gatsby "^2.28.1"
-    gatsby-image "^2.7.0"
-    gatsby-plugin-emotion "^5.0.0"
-    gatsby-plugin-sharp "^2.10.1"
+    "@emotion/react" "^11.1.2"
+    gatsby "^2.29.1"
+    gatsby-image "^2.8.0"
+    gatsby-plugin-emotion "^5.1.0"
+    gatsby-plugin-sharp "^2.11.1"
     gatsby-plugin-theme-ui "^0.3.4"
-    gatsby-source-filesystem "^2.7.0"
-    gatsby-transformer-sharp "^2.8.0"
-    gatsby-transformer-yaml "^2.7.0"
+    gatsby-source-filesystem "^2.8.0"
+    gatsby-transformer-sharp "^2.9.0"
+    gatsby-transformer-yaml "^2.8.0"
     react "^17.0.1"
     react-dom "^17.0.1"
     theme-ui "^0.3.4"
@@ -1139,6 +1139,17 @@
     "@emotion/utils" "0.11.3"
     "@emotion/weak-memoize" "0.2.5"
 
+"@emotion/cache@^11.0.0":
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/@emotion/cache/-/cache-11.0.0.tgz#473adcaf9e04c6a0e30fb1421e79a209a96818f8"
+  integrity sha512-NStfcnLkL5vj3mBILvkR2m/5vFxo3G0QEreYKDGHNHm9IMYoT/t3j6xwjx6lMI/S1LUJfVHQqn0m9wSINttTTQ==
+  dependencies:
+    "@emotion/memoize" "^0.7.4"
+    "@emotion/sheet" "^1.0.0"
+    "@emotion/utils" "^1.0.0"
+    "@emotion/weak-memoize" "^0.2.5"
+    stylis "^4.0.3"
+
 "@emotion/core@^10.0.0", "@emotion/core@^10.0.14":
   version "10.1.1"
   resolved "https://registry.yarnpkg.com/@emotion/core/-/core-10.1.1.tgz#c956c1365f2f2481960064bcb8c4732e5fb612c3"
@@ -1150,11 +1161,6 @@
     "@emotion/serialize" "^0.11.15"
     "@emotion/sheet" "0.9.4"
     "@emotion/utils" "0.11.3"
-
-"@emotion/core@^11.0.0":
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/@emotion/core/-/core-11.0.0.tgz#d075867e07864119de7cfd5268c15012bd2d6290"
-  integrity sha512-w4sE3AmHmyG6RDKf6mIbtHpgJUSJ2uGvPQb8VXFL7hFjMPibE8IiehG8cMX3Ztm4svfCQV6KqusQbeIOkurBcA==
 
 "@emotion/css@^10.0.27":
   version "10.0.27"
@@ -1187,6 +1193,19 @@
   resolved "https://registry.yarnpkg.com/@emotion/memoize/-/memoize-0.7.5.tgz#2c40f81449a4e554e9fc6396910ed4843ec2be50"
   integrity sha512-igX9a37DR2ZPGYtV6suZ6whr8pTFtyHL3K/oLUotxpSVO2ASaprmAe2Dkq7tBo7CRY7MMDrAa9nuQP9/YG8FxQ==
 
+"@emotion/react@^11.1.2":
+  version "11.1.2"
+  resolved "https://registry.yarnpkg.com/@emotion/react/-/react-11.1.2.tgz#a635cfc6bc0974756f690b848c684338183b2593"
+  integrity sha512-zEpxynUhHm2GqjY556RnA12Ijt0v6rYUwV6WliyGoFbQKJKkXFuTzGHGQx4UY2jKUV1I4yjr66Ajj/qoQMVPeQ==
+  dependencies:
+    "@babel/runtime" "^7.7.2"
+    "@emotion/cache" "^11.0.0"
+    "@emotion/serialize" "^1.0.0"
+    "@emotion/sheet" "^1.0.1"
+    "@emotion/utils" "^1.0.0"
+    "@emotion/weak-memoize" "^0.2.5"
+    hoist-non-react-statics "^3.3.1"
+
 "@emotion/serialize@^0.11.15", "@emotion/serialize@^0.11.16":
   version "0.11.16"
   resolved "https://registry.yarnpkg.com/@emotion/serialize/-/serialize-0.11.16.tgz#dee05f9e96ad2fb25a5206b6d759b2d1ed3379ad"
@@ -1213,6 +1232,11 @@
   version "0.9.4"
   resolved "https://registry.yarnpkg.com/@emotion/sheet/-/sheet-0.9.4.tgz#894374bea39ec30f489bbfc3438192b9774d32e5"
   integrity sha512-zM9PFmgVSqBw4zL101Q0HrBVTGmpAxFZH/pYx/cjJT5advXguvcgjHFTCaIO3enL/xr89vK2bh0Mfyj9aa0ANA==
+
+"@emotion/sheet@^1.0.0", "@emotion/sheet@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@emotion/sheet/-/sheet-1.0.1.tgz#245f54abb02dfd82326e28689f34c27aa9b2a698"
+  integrity sha512-GbIvVMe4U+Zc+929N1V7nW6YYJtidj31lidSmdYcWozwoBIObXBnaJkKNDjZrLm9Nc0BR+ZyHNaRZxqNZbof5g==
 
 "@emotion/styled-base@^10.0.27":
   version "10.0.31"
@@ -1252,7 +1276,7 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-1.0.0.tgz#abe06a83160b10570816c913990245813a2fd6af"
   integrity sha512-mQC2b3XLDs6QCW+pDQDiyO/EdGZYOygE8s5N5rrzjSI4M3IejPE/JPndCBwRT9z982aqQNi6beWs1UeayrQxxA==
 
-"@emotion/weak-memoize@0.2.5":
+"@emotion/weak-memoize@0.2.5", "@emotion/weak-memoize@^0.2.5":
   version "0.2.5"
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.2.5.tgz#8eed982e2ee6f7f4e44c253e12962980791efd46"
   integrity sha512-6U71C2Wp7r5XtFtQzYrW5iKFT67OixrSxjI4MptCHzdSVlgabczzqLe0ZSgnub/5Kp4hSbpDB1tMytZY9pwxxA==
@@ -6603,14 +6627,14 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-framer-motion@^2.9.5:
-  version "2.9.5"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-2.9.5.tgz#bbb185325d531c57f494cf3f6cf7719fc2c225c7"
-  integrity sha512-epSX4Co1YbDv0mjfHouuY0q361TpHE7WQzCp/xMTilxy4kXd+Z23uJzPVorfzbm1a/9q1Yu8T5bndaw65NI4Tg==
+framer-motion@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-3.0.0.tgz#71f786ca15ff2c6fa471eb7bcfed57169aae1b0b"
+  integrity sha512-jCFbtemYiEdjh6snaT9lrTEEbWKYzUNAuckzWx2R/sYa8IDGpWGb/aV5qm1sn4/sgiVGZKnPj25Gzsny/pJxcQ==
   dependencies:
     framesync "^4.1.0"
     hey-listen "^1.0.8"
-    popmotion "9.0.0-rc.20"
+    popmotion "9.0.1"
     style-value-types "^3.1.9"
     tslib "^1.10.0"
   optionalDependencies:
@@ -6797,7 +6821,7 @@ gatsby-graphiql-explorer@^0.8.0:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-gatsby-image@^2.7.0:
+gatsby-image@^2.8.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-2.8.0.tgz#fd88262e3c046b7de8a3900bc082f65683490829"
   integrity sha512-yKoOdmO5E97PThF6W8KOr5zeg7nYu3sE44iOupyFKqUvCDRNg9aPBpruCE4Adfc3yxyhFIN70CGV6nAQNOtmvA==
@@ -6843,7 +6867,7 @@ gatsby-plugin-canonical-urls@^2.7.0:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-gatsby-plugin-catch-links@^2.6.0:
+gatsby-plugin-catch-links@^2.7.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-2.7.0.tgz#9edefae74d66a42c3986a2b4d8da29b7304c08d8"
   integrity sha512-78SjDxY32cPAAEhKqfc1VokMvwjAzNbkg94oamesFShutYjezUItj18jivEWxaYA+UM37zas3eM28ZC5f4u2NA==
@@ -6851,7 +6875,7 @@ gatsby-plugin-catch-links@^2.6.0:
     "@babel/runtime" "^7.12.5"
     escape-string-regexp "^1.0.5"
 
-gatsby-plugin-emotion@^5.0.0:
+gatsby-plugin-emotion@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-emotion/-/gatsby-plugin-emotion-5.1.0.tgz#18b86ad1b9601bac529fc196a8f126962917f4f2"
   integrity sha512-qMmoEsuLK+gP9Htqw81YF4Wo9vKVUUJD65iy6b84T3/GGlgtIokcdg8PFX3py/HUWLwh4phqUJYFpyARryLeAg==
@@ -6886,7 +6910,7 @@ gatsby-plugin-manifest@^2.9.0:
     semver "^7.3.2"
     sharp "^0.26.3"
 
-gatsby-plugin-mdx@^1.6.0:
+gatsby-plugin-mdx@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.7.0.tgz#9fa73815c75eac2a2c1440259f0c0906a9d5cc74"
   integrity sha512-lboU9RTrocrZ1U6cEJ/6sRtvxWDiBR6PgrEzhG5JcWvA6WwFz4Qz9M5amNKMN2QafN/pegohN6Wi9mkLczpdlQ==
@@ -6974,7 +6998,7 @@ gatsby-plugin-page-creator@^2.7.1:
     globby "^11.0.1"
     lodash "^4.17.20"
 
-gatsby-plugin-react-helmet@^3.6.0:
+gatsby-plugin-react-helmet@^3.7.0:
   version "3.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-3.7.0.tgz#1a3ca58b399e2a99ff5fec97421ff2156b3d64e0"
   integrity sha512-vynqIMOUR/sOfM2eXpZiECuEZ6G/97ic+ulkyCVw7CjHNTQCW2evzJKNbHQrBYgmQCGXzQJuyGf1F5khLm8H7g==
@@ -6989,7 +7013,7 @@ gatsby-plugin-robots-txt@^1.5.3:
     "@babel/runtime" "^7.11.2"
     generate-robotstxt "^8.0.3"
 
-gatsby-plugin-sharp@^2.10.1:
+gatsby-plugin-sharp@^2.11.1:
   version "2.11.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.11.1.tgz#8fc2df2d12c9d8bef1c2aaa795e78e46259e405a"
   integrity sha512-x+szZDBequnh8bCn/TAS4TYXybPFM/jcu9MwkV85M2tnBZwU9/1Y/XFQMV6pMfrkc5xASTqG0UR9wMSPQGBtUg==
@@ -7121,7 +7145,7 @@ gatsby-recipes@^0.6.0:
     xstate "^4.9.1"
     yoga-layout-prebuilt "^1.9.6"
 
-gatsby-remark-images@^3.7.0:
+gatsby-remark-images@^3.8.0:
   version "3.8.0"
   resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-3.8.0.tgz#72b5d35988c4929cc2dfea706bc85f2f032f83e3"
   integrity sha512-POynLcHqHFOEvp7W12IyUajRD/peugu/FpcmiPow77vbofzwjrAkfl5j2bwUdW+zbaXlSzxFAryTltjtA5/k2A==
@@ -7138,7 +7162,7 @@ gatsby-remark-images@^3.7.0:
     unist-util-select "^1.5.0"
     unist-util-visit-parents "^2.1.2"
 
-gatsby-source-filesystem@^2.7.0:
+gatsby-source-filesystem@^2.8.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.8.0.tgz#72bd65eda0b49aa27c618d9a1eb86e1c1df5d943"
   integrity sha512-wZXwL/B+PvgSAi4Fkrw33yBk6FdDoz6g2mRfS6NxVVQotbA2oNe+jFc+IL0j9/cUMTItP3rW+8V8U9ufASQfAw==
@@ -7177,7 +7201,7 @@ gatsby-telemetry@^1.7.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-transformer-remark@^2.12.0:
+gatsby-transformer-remark@^2.13.0:
   version "2.13.0"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-2.13.0.tgz#a27b771571da181d74d873544e4da8fb884838c1"
   integrity sha512-DdTCbvPvCq4gquee07+lFTozTz1IvLrU7TCnvycec5t0sbEtuWZ98nWiMFooyoWbbAI51oR0RRs3zKgohSZ5zw==
@@ -7204,7 +7228,7 @@ gatsby-transformer-remark@^2.12.0:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.4.1"
 
-gatsby-transformer-sharp@^2.8.0:
+gatsby-transformer-sharp@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-2.9.0.tgz#d29733737f5f28ba11533b4e867883095a0f7178"
   integrity sha512-v8kKgySAZtO7ko+XKbSFLXM0JUPP5s08PI7S8krBPsrhclSY9plRGOqtef1dNG7LIxbGCggy58fGTaD3aad12g==
@@ -7217,7 +7241,7 @@ gatsby-transformer-sharp@^2.8.0:
     semver "^7.3.2"
     sharp "^0.26.3"
 
-gatsby-transformer-yaml@^2.7.0:
+gatsby-transformer-yaml@^2.8.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-yaml/-/gatsby-transformer-yaml-2.8.0.tgz#6b0a353efdbbcc2f38896d65087169b4c09bf9a6"
   integrity sha512-z7XhhGFshOw2yGKcerD7LDbFjJHhntwcrriktDic+dvbN3/UKrfJdiF4aJrSnP/MFwpclqti17Zo7BJSWXLiow==
@@ -7227,7 +7251,7 @@ gatsby-transformer-yaml@^2.7.0:
     lodash "^4.17.20"
     unist-util-select "^1.5.0"
 
-gatsby@^2.28.1, gatsby@^2.29.1:
+gatsby@^2.29.1:
   version "2.29.1"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.29.1.tgz#0b1d7bc8cf434c81086e5a26926394f4181cbb93"
   integrity sha512-DGVbGhBmD3GmKgNBB1Vz34Ex9c8mpVQ4ojOSnO4Dtns1Q32MRIqI/CRhfeoIauxuSi49Z8DbkRT5HTTjNVKDtw==
@@ -8153,7 +8177,7 @@ hmac-drbg@^1.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
-hoist-non-react-statics@^3.3.0:
+hoist-non-react-statics@^3.3.0, hoist-non-react-statics@^3.3.1:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz#ece0acaf71d62c2969c2ec59feff42a4b1a85b45"
   integrity sha512-/gGivxi8JPKWNm/W0jSmzcMPpfpPLc3dY/6GxhX2hQ9iGj3aDfklV4ET7NjKpSinLpJ5vafa9iiGIEZg10SfBw==
@@ -11616,10 +11640,10 @@ pnp-webpack-plugin@^1.6.4:
   dependencies:
     ts-pnp "^1.1.6"
 
-popmotion@9.0.0-rc.20:
-  version "9.0.0-rc.20"
-  resolved "https://registry.yarnpkg.com/popmotion/-/popmotion-9.0.0-rc.20.tgz#f3550042ae31957b5416793ae8723200951ad39d"
-  integrity sha512-f98sny03WuA+c8ckBjNNXotJD4G2utG/I3Q23NU69OEafrXtxxSukAaJBxzbtxwDvz3vtZK69pu9ojdkMoBNTg==
+popmotion@9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/popmotion/-/popmotion-9.0.1.tgz#63657089c124ffad500c45e6eb20b8e3cca919af"
+  integrity sha512-pXBHRaLz/WBlatXb0ADPGXksqr24z24z1H2/xTtsin9E6dJ0bGK1nWyZpcvdjDIIf8XxAkbf3/FN3JxayVmFbQ==
   dependencies:
     framesync "^4.1.0"
     hey-listen "^1.0.8"
