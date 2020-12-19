@@ -1,6 +1,6 @@
 import React from 'react'
 import { Box } from 'theme-ui'
-import { Global, css } from '@emotion/core'
+import { Global, css } from '@emotion/react'
 import SEO from '@dexgroup/gatsby-theme-dexlist-design/src/components/seo'
 import Footer from '@dexgroup/gatsby-theme-dexlist-design/src/components/footer'
 

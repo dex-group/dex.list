@@ -17,10 +17,10 @@
     "url": "https://github.com/dexgroup/dexlist"
   },
   "dependencies": {
-    "@dexgroup/gatsby-theme-dexlist-agency": "^2.0.18",
-    "@dexgroup/gatsby-theme-dexlist-design": "^2.3.0",
-    "@dexgroup/gatsby-theme-dexlist-icon": "^2.0.18",
-    "@dexgroup/gatsby-theme-dexlist-tools": "^2.0.18",
+    "@dexgroup/gatsby-theme-dexlist-agency": "^2.0.19",
+    "@dexgroup/gatsby-theme-dexlist-design": "^2.3.1",
+    "@dexgroup/gatsby-theme-dexlist-icon": "^2.0.19",
+    "@dexgroup/gatsby-theme-dexlist-tools": "^2.0.19",
     "gatsby": "^2.29.1",
     "gatsby-plugin-canonical-urls": "^2.7.0",
     "gatsby-plugin-fathom": "^1.3.0",

@@ -1004,10 +1004,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@dexgroup/gatsby-theme-dexlist-agency@^2.0.17":
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-2.0.18.tgz#a0222a6bb23e8b13489daddf4981eb05ade9001e"
-  integrity sha512-BdzMDs4F/j6+wgVLWSGv/X7+kN2BCWYzRpUp1BlHcp2ZIGvE/lwWYNeJ7hNbaQpI41wzpjheKCgOQVXLdqsUqQ==
+"@dexgroup/gatsby-theme-dexlist-agency@^2.0.18":
+  version "2.0.19"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-2.0.19.tgz#c625429cebea968e9d8383ecd7b8b496e3823cc8"
+  integrity sha512-VntpwIYIdAVjcupK0ueHslB3FpM/x0n1dLBpDoEUlxAbOGSW0Gy01NpRgpLYHgEvF9f1XIdg/rPFWhp/XPhXHg==
   dependencies:
     "@emotion/react" "^11.1.2"
     gatsby "^2.29.1"
@@ -1023,10 +1023,10 @@
     rebass "^4.0.7"
     theme-ui "^0.3.4"
 
-"@dexgroup/gatsby-theme-dexlist-design@^2.2.1":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-2.3.0.tgz#41ad5c01f75cf136e377369524cf0d75832df73c"
-  integrity sha512-2IQUMg4JWA57lVYx6YPpBP+T3GcHYea6wrmolx6XJ3xa14FDgit8WpHB+KBPNfV82aBgHEQ5O69nZCM+y15GhQ==
+"@dexgroup/gatsby-theme-dexlist-design@^2.3.0":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-2.3.1.tgz#ecfc0d85bddfd711e74c71072f3233646ff860a2"
+  integrity sha512-m3wQcGbgHSUY5XumvjkubB7mRCkv+Vqetpa8tpdt7+jpF+0p/ms1cnDI0bFscN8MfTEFKlB0IDU+p7fVWz8H+w==
   dependencies:
     "@emotion/react" "^11.1.2"
     "@mdx-js/mdx" "^1.6.22"
@@ -1057,10 +1057,10 @@
     theme-ui "^0.3.4"
     use-onclickoutside "^0.3.1"
 
-"@dexgroup/gatsby-theme-dexlist-icon@^2.0.17":
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-2.0.18.tgz#65a91647141e224cdab5c3d8638b059bd422aecd"
-  integrity sha512-lFDuSNj5ml8yxuXY5nPI/g97K1t3bTdYU1gmjXNipkRuKvetOUCKxLB8nmtbQpgMr8ZCohxRvzeLZ1kpF45x5A==
+"@dexgroup/gatsby-theme-dexlist-icon@^2.0.18":
+  version "2.0.19"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-2.0.19.tgz#fc7a2d1581bb872d07a06cd2d1667c0f3eef128e"
+  integrity sha512-V6WPsx8yP6k2ewpShwcZQgcqIWq2hBoIg5fCLFvwOefBOleK2042ASeiAGs7lCVAgGvUfMmpIZKhz5+KkNr0Zg==
   dependencies:
     "@emotion/react" "^11.1.2"
     gatsby "^2.29.1"
@@ -1076,10 +1076,10 @@
     rebass "^4.0.7"
     theme-ui "^0.3.4"
 
-"@dexgroup/gatsby-theme-dexlist-tools@^2.0.17":
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-2.0.18.tgz#755aba6fbdb01fdf29fc5d61684c8c8d9ee330fe"
-  integrity sha512-B/FgEZgtjkYaFf4vWZ9jSbL3BO5s/Bo9028JOqtP+bOwJiKMuLRSWsmUk/Zcb3GnK/Cj6DpmBzB3gICCqQgFSg==
+"@dexgroup/gatsby-theme-dexlist-tools@^2.0.18":
+  version "2.0.19"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-2.0.19.tgz#ab29dc90e3f635ade5c0d779019b9dd07f8b7d3e"
+  integrity sha512-q/27FH0A7OLxn15S6iccuFqxP5WyOJ1PPy0gPDJdwgYIUQw6lR9T20/UhwSORq+OlBBMuQsTw9iTlN/NPpRYfQ==
   dependencies:
     "@emotion/react" "^11.1.2"
     gatsby "^2.29.1"
@@ -6628,24 +6628,22 @@ fragment-cache@^0.2.1:
     map-cache "^0.2.2"
 
 framer-motion@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-3.0.0.tgz#71f786ca15ff2c6fa471eb7bcfed57169aae1b0b"
-  integrity sha512-jCFbtemYiEdjh6snaT9lrTEEbWKYzUNAuckzWx2R/sYa8IDGpWGb/aV5qm1sn4/sgiVGZKnPj25Gzsny/pJxcQ==
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-3.1.1.tgz#a8a779501213b7ce02cc35beb27621d73cc2f1e7"
+  integrity sha512-Gm1QSb0xUxuhcPar5FIs5Ws+STrhLZ6XZf2Io8dVwFofe1OzwkL9asGFVu7z3y6WqC4Hvnxm7wsW5SBHlxZDYw==
   dependencies:
-    framesync "^4.1.0"
+    framesync "^5.0.0"
     hey-listen "^1.0.8"
-    popmotion "9.0.1"
-    style-value-types "^3.1.9"
+    popmotion "^9.0.2"
+    style-value-types "^3.2.0"
     tslib "^1.10.0"
   optionalDependencies:
     "@emotion/is-prop-valid" "^0.8.2"
 
-framesync@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/framesync/-/framesync-4.1.0.tgz#69a8db3ca432dc70d6a76ba882684a1497ef068a"
-  integrity sha512-MmgZ4wCoeVxNbx2xp5hN/zPDCbLSKiDt4BbbslK7j/pM2lg5S0vhTNv1v8BCVb99JPIo6hXBFdwzU7Q4qcAaoQ==
-  dependencies:
-    hey-listen "^1.0.5"
+framesync@5.0.0, framesync@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/framesync/-/framesync-5.0.0.tgz#7de8caedf53ac441118e79680f1beb7391c328b6"
+  integrity sha512-wd8t+JsQGisluSv1twiEeDv0aNGpavGb9q7xgIk9fGbcIWkNXF/KVtrjnOrCwBWJuiXxlJfNkcvGudsI32FxYA==
 
 fresh@0.5.2:
   version "0.5.2"
@@ -7447,9 +7445,9 @@ get-caller-file@^2.0.1, get-caller-file@^2.0.5:
   integrity sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==
 
 get-intrinsic@^1.0.0, get-intrinsic@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/get-intrinsic/-/get-intrinsic-1.0.1.tgz#94a9768fcbdd0595a1c9273aacf4c89d075631be"
-  integrity sha512-ZnWP+AmS1VUaLgTRy47+zKtjTxz+0xMpx3I52i+aalBK1QP19ggLF3Db89KJX7kjfOfP2eoa01qc++GwPgufPg==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/get-intrinsic/-/get-intrinsic-1.0.2.tgz#6820da226e50b24894e08859469dc68361545d49"
+  integrity sha512-aeX0vrFm21ILl3+JpFFRNe9aUvp6VFZb2/CTbgLb8j75kOhvoNYjt9d8KA/tJG4gSo8nzEDedRl0h7vDmBYRVg==
   dependencies:
     function-bind "^1.1.1"
     has "^1.0.3"
@@ -8150,7 +8148,7 @@ hex-color-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/hex-color-regex/-/hex-color-regex-1.1.0.tgz#4c06fccb4602fe2602b3c93df82d7e7dbf1a8a8e"
   integrity sha512-l9sfDFsuqtOqKDsQdqrMRk0U85RZc0RtOR9yPI7mRVOa4FsR/BVnZ0shmQRM96Ji99kYZP/7hn1cedc1+ApsTQ==
 
-hey-listen@^1.0.5, hey-listen@^1.0.8:
+hey-listen@^1.0.8:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/hey-listen/-/hey-listen-1.0.8.tgz#8e59561ff724908de1aa924ed6ecc84a56a9aa68"
   integrity sha512-COpmrF2NOg4TBWUJ5UVyaCU2A88wEMkUPK4hNqyCkqHbxT92BbvfjoSozkAIIm6XhicGlJHhFdullInrdhwU8Q==
@@ -8229,9 +8227,9 @@ html-comment-regex@^1.1.0:
   integrity sha512-P+M65QY2JQ5Y0G9KKdlDpo0zK+/OHptU5AaBwUfAIDJZk1MYf32Frm84EcOytfJE0t5JvkAnKlmjsXDnWzCJmQ==
 
 html-entities@^1.2.0, html-entities@^1.2.1, html-entities@^1.3.1:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-1.3.3.tgz#3dca638a43ee7de316fc23067398491152ad4736"
-  integrity sha512-/VulV3SYni1taM7a4RMdceqzJWR39gpZHjBwUnsCFKWV/GJkD14CJ5F7eWcZozmHJK0/f/H5U3b3SiPkuvxMgg==
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-1.4.0.tgz#cfbd1b01d2afaf9adca1b10ae7dffab98c71d2dc"
+  integrity sha512-8nxjcBcd8wovbeKx7h3wTji4e6+rhaVuPNpMqwWgnHh+N9ToqsCs6XztWRBPQ+UtzsoMAdKZtUENoVzU/EMtZA==
 
 html-void-elements@^1.0.0, html-void-elements@^1.0.1:
   version "1.0.5"
@@ -11640,14 +11638,14 @@ pnp-webpack-plugin@^1.6.4:
   dependencies:
     ts-pnp "^1.1.6"
 
-popmotion@9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/popmotion/-/popmotion-9.0.1.tgz#63657089c124ffad500c45e6eb20b8e3cca919af"
-  integrity sha512-pXBHRaLz/WBlatXb0ADPGXksqr24z24z1H2/xTtsin9E6dJ0bGK1nWyZpcvdjDIIf8XxAkbf3/FN3JxayVmFbQ==
+popmotion@^9.0.2:
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/popmotion/-/popmotion-9.0.2.tgz#477650c3b4af97161011809223d9ca6860f3a2b5"
+  integrity sha512-WfSg8IfoUwYIP9uqeqbgncIsMHLAKWqebT2IP1aGAI6gdSJqTPy/H8NvP4ZyDtDCUCx5Yh3Pth/7iUJjIwR7LA==
   dependencies:
-    framesync "^4.1.0"
+    framesync "5.0.0"
     hey-listen "^1.0.8"
-    style-value-types "^3.1.9"
+    style-value-types "3.2.0"
     tslib "^1.10.0"
 
 portfinder@^1.0.26:
@@ -14235,10 +14233,10 @@ style-to-object@^0.2.1:
   dependencies:
     inline-style-parser "0.1.1"
 
-style-value-types@^3.1.9:
-  version "3.1.9"
-  resolved "https://registry.yarnpkg.com/style-value-types/-/style-value-types-3.1.9.tgz#faf7da660d3f284ed695cff61ea197d85b9122cc"
-  integrity sha512-050uqgB7WdvtgacoQKm+4EgKzJExVq0sieKBQQtJiU3Muh6MYcCp4T3M8+dfl6VOF2LR0NNwXBP1QYEed8DfIw==
+style-value-types@3.2.0, style-value-types@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/style-value-types/-/style-value-types-3.2.0.tgz#eb89cab1340823fa7876f3e289d29d99c92111bb"
+  integrity sha512-ih0mGsrYYmVvdDi++/66O6BaQPRPRMQHoZevNNdMMcPlP/cH28Rnfsqf1UEba/Bwfuw9T8BmIMwbGdzsPwQKrQ==
   dependencies:
     hey-listen "^1.0.8"
     tslib "^1.10.0"
