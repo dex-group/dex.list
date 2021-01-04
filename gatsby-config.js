@@ -1,4 +1,5 @@
 module.exports = {
+  flags : { DEV_SSR: true },
   siteMetadata: {
     siteUrl: 'https://dexlist.page/',
     title: 'DEX List - The index page for creative workers.',
