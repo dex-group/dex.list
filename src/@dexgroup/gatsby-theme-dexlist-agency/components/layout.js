@@ -37,7 +37,7 @@ export default ({ children }) => (
           outline-width: 0
         }
         body {
-          margin: 0;
+          margin: 0
         }
         body #agency {
           h3 {
