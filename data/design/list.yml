@@ -1290,6 +1290,10 @@
 - id: image
   title: Image Edit
   item:
+    - name: '12PNG'
+      logo: './images/image/12PNG.png'
+      slogan: 'Finding PNG images made simple '
+      link: 'https://12png.com/'
     - name: 'AppScreens'
       logo: './images/image/AppScreens.png'
       slogan: 'The App Store screenshot creator '
