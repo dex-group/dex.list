@@ -61,6 +61,10 @@
       logo: './images/article/rooki.png'
       slogan: 'Online magazine for design students'
       link: 'https://www.rooki.design/'
+    - name: 'Staff Design'
+      logo: './images/article/StaffDesign.png'
+      slogan: 'Navigating the individual contributor career path'
+      link: 'https://staff.design/'
 
 - id: background
   title: Backgrounds
