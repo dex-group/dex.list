@@ -14,6 +14,15 @@ export default function HTML(props) {
         <link rel="canonical" href="https://dexlist.page/"/>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
         <script async defer data-domain="dexlist.page" src="https://stats.dexlist.page/js/index.js"></script>
+        {props.headComponents}
+      </head>
+      <body {...props.bodyAttributes}>
+        {props.preBodyComponents}
+        <div
+          key={`body`}
+          id="___gatsby"
+          dangerouslySetInnerHTML={{ __html: props.body }}
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -26,15 +35,6 @@ export default function HTML(props) {
                     })();
                 `,
           }}
-        />
-        {props.headComponents}
-      </head>
-      <body {...props.bodyAttributes}>
-        {props.preBodyComponents}
-        <div
-          key={`body`}
-          id="___gatsby"
-          dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
       </body>
