@@ -14,6 +14,7 @@ export default function HTML(props) {
         <link rel="canonical" href="https://dexlist.page/" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
         <script async defer data-domain="dexlist.page" src="https://stats.dexlist.page/js/index.js"></script>
+        <script type="text/javascript" src="https://wwads.cn/js/ads.js" async></script>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
@@ -22,19 +23,6 @@ export default function HTML(props) {
           key={`body`}
           id="___gatsby"
           dangerouslySetInnerHTML={{ __html: props.body }}
-        />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-                    (function () {
-                      var _sr = document.createElement('script');
-                      _sr.type = 'text/javascript';
-                      _sr.async = true;
-                      _sr.src = 'https://wwads.cn/js/ads.js';
-                      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_sr);
-                    })();
-                `,
-          }}
         />
         {props.postBodyComponents}
       </body>
