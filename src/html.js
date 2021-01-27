@@ -11,6 +11,7 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
+        <meta name="referrer" content="always" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
         <script async defer data-domain="dexlist.page" src="https://stats.dexlist.page/js/index.js"></script>
         <script type="text/javascript" src="https://wwads.cn/js/ads.js" async></script>
