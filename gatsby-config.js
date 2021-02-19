@@ -107,12 +107,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
-    {
-      resolve: 'gatsby-plugin-fathom',
-      options: {
-        siteId: 'EMHYBILA'
-      }
-    },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-netlify-cache`,
     {
