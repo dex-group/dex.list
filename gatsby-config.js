@@ -109,6 +109,13 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-netlify-cache`,
+    `gatsby-plugin-gatsby-cloud`,
+    {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: `dexlist.page`,
+      },
+    },
     {
       resolve: `gatsby-plugin-netlify`,
       options: {
