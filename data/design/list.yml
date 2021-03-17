@@ -387,6 +387,10 @@
       logo: './images/color/stark.png'
       slogan: "Accessible ethical and inclusive"
       link: 'https://www.getstark.co/'
+    - name: 'Tint and Shade Generator'
+      logo: './images/color/TintandShadeGenerator.png'
+      slogan: "produce tints and shades"
+      link: 'https://maketintsandshades.com/'
     - name: 'Who Can Use'
       logo: './images/color/whocanuse.png'
       slogan: "Who can use this color combination"
@@ -1631,6 +1635,10 @@
       logo: './images/motion/Easings.png'
       slogan: 'Generate Cubic Bezier Easing Curves'
       link: 'https://easings.co/'
+    - name: 'Fable'
+      logo: './images/motion/Fable.png'
+      slogan: 'Modern motion design'
+      link: 'https://www.fable.app/'
     - name: 'Famous'
       price: ''
       logo: './images/motion/Famous.png'
