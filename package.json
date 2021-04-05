@@ -30,7 +30,7 @@
     "gatsby-plugin-offline": "^4.1.0",
     "gatsby-plugin-plausible": "^0.0.7",
     "gatsby-plugin-robots-txt": "^1.5.5",
-    "gatsby-plugin-sitemap": "^3.1.0",
+    "gatsby-plugin-sitemap": "^3.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "typeface-dm-serif-display": "^1.1.13"
