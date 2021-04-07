@@ -52,6 +52,10 @@
       logo: './images/analytics/sensorsdata.png'
       slogan: '大数据用户行为分析产品'
       link: 'https://www.sensorsdata.cn/'
+    - name: 'Splitbee'
+      logo: './images/analytics/Splitbee.png'
+      slogan: 'Your friendly all-in-one analytics & conversion tool'
+      link: 'https://splitbee.io/'
     - name: '友盟+'
       logo: './images/analytics/umeng.png'
       slogan: '国内领先的第三方全域数据智能服务商'
@@ -220,6 +224,13 @@
       logo: './images/feedback/Smallchat.png'
       slogan: 'Connect with your visitors'
       link: 'https://small.chat/'
+
+- title: Form
+  items:
+    - name: 'Formium'
+      logo: './images/form/Formium.png'
+      slogan: 'Headless Form Builder For Developers'
+      link: 'https://formium.io/'
 
 - title: HR
   items:
@@ -400,6 +411,10 @@
       logo: './images/mindmap/GitMind.png'
       slogan: '免费在线思维导图软件'
       link: 'https://gitmind.cn/'
+    - name: 'MindMeister'
+      logo: './images/mindmap/MindMeister.png'
+      slogan: 'Create Your Mind Maps Online On Any Device'
+      link: 'https://www.mindmeister.com/'
     - name: 'XMind'
       logo: './images/mindmap/XMind.png'
       slogan: 'Mind Mapping Software'
