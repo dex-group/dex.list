@@ -954,7 +954,7 @@
       link: 'https://grabient.com/'
     - name: 'Gradienta'
       logo: './images/gradient/Gradienta.png'
-      slogan: 'Multicolor Gradients'
+      slogan: 'Multicolor CSS Gradients'
       link: 'https://gradienta.io/'
     - name: 'Gradient Generator'
       logo: './images/gradient/GradientGenerator.png'
