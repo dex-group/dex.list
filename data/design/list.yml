@@ -2031,6 +2031,10 @@
 - id: pattern
   title: Patterns
   item:
+    - name: 'PatternGenerator'
+      logo: './images/pattern/DOODAD-PatternGenerator.png'
+      slogan: 'Create Seamless, Royalty-Free Patterns'
+      link: 'https://doodad.dev/pattern-generator'
     - name: 'MagicPattern'
       logo: './images/pattern/MagicPattern.png'
       slogan: 'Unique geometric patterns in seconds, literally'
@@ -2039,10 +2043,6 @@
       logo: './images/pattern/PatternCollect.png'
       slogan: 'A curated gallery of patterns by awesome designers & illustrators'
       link: 'https://patterncollect.com/'
-    - name: 'Pattern Generator'
-      logo: './images/pattern/PatternGenerator.png'
-      slogan: 'Create Seamless, Royalty-Free Patterns'
-      link: 'https://doodad.dev/pattern-generator'
     - name: 'Tabbied'
       logo: './images/pattern/Tabbied.png'
       slogan: 'Doodle with generated patterns'

@@ -133,6 +133,10 @@
       logo: './images/documents/dumi.png'
       slogan: 'A doc tool can assist you to develop libraries & write docs'
       link: 'https://d.umijs.org/'
+    - name: 'MkDocs'
+      logo: './images/documents/MkDocs.png'
+      slogan: 'Project documentation with Markdown'
+      link: 'https://www.mkdocs.org/'
 
 - title: Feedback
   items:
