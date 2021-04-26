@@ -129,6 +129,10 @@
 
 - title: Documents
   items:
+    - name: 'docsify'
+      logo: './images/documents/docsify.png'
+      slogan: 'A magical documentation site generator'
+      link: 'https://docsify.js.org/#/'
     - name: 'dumi'
       logo: './images/documents/dumi.png'
       slogan: 'A doc tool can assist you to develop libraries & write docs'
