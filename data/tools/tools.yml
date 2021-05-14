@@ -67,6 +67,10 @@
 
 - title: Automation
   items:
+    - name: 'Automate'
+      logo: './images/automation/Automate.png'
+      slogan: 'Work Super Smart'
+      link: 'https://automate.io/'
     - name: 'IFTTT'
       logo: './images/automation/IFTTT.png'
       slogan: 'Every thing works better together'
