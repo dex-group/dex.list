@@ -96,6 +96,13 @@
       slogan: 'The easiest way to automate your work'
       link: 'https://zapier.com/'
 
+- title: Commemts
+  items:
+    - name: 'Welcomments'
+      logo: './images/comment/Welcomments.png'
+      slogan: 'Pre-rendered static comments for Jekyll, Hugo, and more'
+      link: 'https://welcomments.io/'
+
 - title: Communication
   items:
     - name: 'Discord'
@@ -149,6 +156,10 @@
       logo: './images/documents/MkDocs.png'
       slogan: 'Project documentation with Markdown'
       link: 'https://www.mkdocs.org/'
+    - name: 'readme.so'
+      logo: './images/documents/readmeso.png'
+      slogan: 'Easiest Way to Create A README'
+      link: 'https://readme.so/'
 
 - title: Feedback
   items:
@@ -575,6 +586,14 @@
       logo: './images/whiteboard/Excalidraw.png'
       slogan: 'Hand-drawn look & feel'
       link: 'https://excalidraw.com/'
+    - name: 'Excalidraw+'
+      logo: './images/whiteboard/ExcalidrawPlus.png'
+      slogan: 'Collaborative whiteboarding made easy'
+      link: 'https://plus.excalidraw.com/'
+    - name: 'FigJam'
+      logo: './images/whiteboard/FigJam.png'
+      slogan: 'an online whiteboard for teams to explore ideas together'
+      link: 'https://www.figma.com/figjam/'
     - name: 'Miro'
       logo: './images/whiteboard/Miro.png'
       slogan: 'Team collaboration software & online whiteboard for teams'
