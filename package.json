@@ -27,7 +27,7 @@
     "gatsby-plugin-manifest": "^3.5.0",
     "gatsby-plugin-netlify": "^3.5.0",
     "gatsby-plugin-netlify-cache": "^1.2.0",
-    "gatsby-plugin-offline": "^4.5.0",
+    "gatsby-plugin-offline": "^4.5.1",
     "gatsby-plugin-plausible": "^0.0.7",
     "gatsby-plugin-robots-txt": "^1.6.2",
     "gatsby-plugin-sitemap": "^4.1.0",

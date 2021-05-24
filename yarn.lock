@@ -4034,7 +4034,7 @@ cheerio@^0.22.0:
     lodash.reject "^4.4.0"
     lodash.some "^4.4.0"
 
-cheerio@^1.0.0-rc.3:
+cheerio@^1.0.0-rc.3, cheerio@^1.0.0-rc.9:
   version "1.0.0-rc.9"
   resolved "https://registry.yarnpkg.com/cheerio/-/cheerio-1.0.0-rc.9.tgz#a3ae6b7ce7af80675302ff836f628e7cb786a67f"
   integrity sha512-QF6XVdrLONO6DXRF5iaolY+odmhj2CLj+xzNod7INPWMi/x9X4SOylH0S/vaPpX+AUU6t04s34SQNh7DbkuCng==
@@ -6634,7 +6634,7 @@ gatsby-page-utils@^1.5.0:
     lodash "^4.17.21"
     micromatch "^4.0.2"
 
-gatsby-plugin-canonical-urls@^3.4.0:
+gatsby-plugin-canonical-urls@^3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-3.5.0.tgz#43306c695d3aac484ad8c140dec5a544b24f9788"
   integrity sha512-sic1vqDueS4ym9fOqYVK6UDLpJ5KDWuLTO+zGV853MPy1+VisqmI8Fguw41RlrV67if0SUc7IYAoksatGWLufQ==
@@ -6657,7 +6657,7 @@ gatsby-plugin-emotion@^6.1.0:
     "@babel/runtime" "^7.11.2"
     "@emotion/babel-preset-css-prop" "^11.2.0"
 
-gatsby-plugin-gatsby-cloud@^2.4.1:
+gatsby-plugin-gatsby-cloud@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-2.5.0.tgz#b4e8c2d0e356e9dfbdae4d8f2d1b72e3f8ed45a5"
   integrity sha512-dVxqkNQ+s0EDyK0C2ClhAmMmztO8a2BSs0pdA6NJh0dz1pCltNo/jmoaC4/Yv+IU/a3Un9YI+2Yl4H7E3mghuw==
@@ -6686,7 +6686,7 @@ gatsby-plugin-image@^1.1.0:
     objectFitPolyfill "^2.3.0"
     prop-types "^15.7.2"
 
-gatsby-plugin-manifest@^3.4.0:
+gatsby-plugin-manifest@^3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-3.5.0.tgz#0c6ad80d570f1c312cb46a2dfd2f14f966e2e4a9"
   integrity sha512-NtkjK9H0Vz3GkRj+UQM1xC0mKcaVcBsVL1odqnivN6S8erlgYJksf0WM4RnHIu2qlc1waNR8rqkLLrO9KBaDbA==
@@ -6747,7 +6747,7 @@ gatsby-plugin-netlify-cache@^1.2.0:
     babel-runtime "^6.26.0"
     fs-extra "^7.0.0"
 
-gatsby-plugin-netlify@^3.4.0:
+gatsby-plugin-netlify@^3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-3.5.0.tgz#1635bdcb41e11ad2fc5e99f98fd4cd44634b0b37"
   integrity sha512-hfb/OaZWtx20yNfVF750FziQfsDExzCR6ESJmr9orIHkQWs14WVPtahoXe3sq4yG6+m7ewJvebZoJUoI2yrEUw==
@@ -6758,13 +6758,13 @@ gatsby-plugin-netlify@^3.4.0:
     lodash "^4.17.21"
     webpack-assets-manifest "^5.0.5"
 
-gatsby-plugin-offline@^4.4.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.5.0.tgz#fd0f260bdec6e3ff59bd6dfb8a29beda31a2e2f9"
-  integrity sha512-KUcaNQ/coalGrbLTkiVjhVKlypdTZ9Djv7XrqTucNh4IJbf/ghqbbjxbVla9txtaqH+kqiiB4+LNZ4TrC2QTLg==
+gatsby-plugin-offline@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.5.1.tgz#221d0f6fd9ef5c8270e8b7fd7470ed7384373fc2"
+  integrity sha512-JZU6ZRX+wPVS8mFiXzIZnmNL17cGq/msatyNp+fZdOR13Oz8+abzEy3u+jg7veLqz7EzWfRJMl8EyD5RNCyFmg==
   dependencies:
     "@babel/runtime" "^7.12.5"
-    cheerio "^1.0.0-rc.3"
+    cheerio "^1.0.0-rc.9"
     gatsby-core-utils "^2.5.0"
     glob "^7.1.6"
     idb-keyval "^3.2.0"
@@ -6802,7 +6802,7 @@ gatsby-plugin-react-helmet@^4.1.0:
   dependencies:
     "@babel/runtime" "^7.12.5"
 
-gatsby-plugin-robots-txt@^1.5.6:
+gatsby-plugin-robots-txt@^1.6.2:
   version "1.6.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-robots-txt/-/gatsby-plugin-robots-txt-1.6.2.tgz#b120b0a452f77e5ba2724e99425b90504dbc44b7"
   integrity sha512-TqLCnxldq7goBMrvtzTDWQAcjPUr/CpOUJe7K0NyLfDmP/xb+Ius03SvAdJRm33fyJr+YNjknSspPK7q9OvQYA==
@@ -6836,7 +6836,7 @@ gatsby-plugin-sharp@^3.1.0:
     svgo "1.3.2"
     uuid "3.4.0"
 
-gatsby-plugin-sitemap@^4.0.0:
+gatsby-plugin-sitemap@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-4.1.0.tgz#13641c92b5b75bdc0d936acc26d99ea81913e341"
   integrity sha512-ZpBnZLPE5eF+R9Zm0kuak6b+WlErTQfe4iWB0hTZ+1BDMVUg3FWpAg/PWt/o5NRr0ia7qLoY+StaAaJzGg0HeQ==
