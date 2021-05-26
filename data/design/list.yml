@@ -1970,6 +1970,10 @@
       logo: './images/onlinecourse/UXbuddy.png'
       slogan: 'Get a better UX job'
       link: 'https://uxbuddy.co/'
+    - name: 'Uxcel'
+      logo: './images/onlinecourse/Uxcel.png'
+      slogan: 'Where design careers are built'
+      link: 'https://uxcel.com/'
 
 - id: photo
   title: Photos
@@ -2807,6 +2811,10 @@
       logo: './images/web/flowbase.png'
       slogan: 'Webflow Templates Assets & Guides'
       link: 'https://flowbase.webflow.io/'
+    - name: 'Graphite'
+      logo: './images/web/Graphite.png'
+      slogan: 'nextgen editor for web designers'
+      link: 'https://graphite.space/'
     - name: 'Gridbox'
       logo: './images/web/Gridbox.png'
       slogan: 'Visual HTML Builder'

@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: 'https://dexlist.page/',
     title: 'DEX List - The index page for creative workers.',
-    description: 'The all-in-one List website for designers, agencies, freelancers and creative workers.',
+    description: 'The all-in-one List for designers, agencies, freelancers and creative workers.',
     author: '@dingyi',
     twitter: '@dingyi',
     facebook: '@dexgroup',
@@ -109,7 +109,18 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-netlify-cache`,
-    `gatsby-plugin-gatsby-cloud`,
+    {
+      resolve: `gatsby-plugin-gatsby-cloud`,
+      options: {
+        headers: {}, // option to add more headers. `Link` headers are transformed by the below criteria
+        allPageHeaders: [
+          "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload",
+        ],
+        mergeSecurityHeaders: true, // boolean to turn off the default security headers
+        mergeLinkHeaders: true, // boolean to turn off the default gatsby js headers
+        mergeCachingHeaders: true, // boolean to turn off the default caching headers
+      },
+    },
     {
       resolve: `gatsby-plugin-plausible`,
       options: {
