@@ -96,6 +96,13 @@
       slogan: 'The easiest way to automate your work'
       link: 'https://zapier.com/'
 
+- title: Calendar
+  items:
+    - name: 'SavvyCal'
+      logo: './images/calendar/SavvyCal.png'
+      slogan: 'Scheduling Software Your Recipients Will Love'
+      link: 'https://savvycal.com/'
+
 - title: Commemts
   items:
     - name: 'Welcomments'
@@ -677,6 +684,10 @@
       logo: './images/writing/Walling.png'
       slogan: 'Visual Walls to Collect Ideas & Plot out Projects'
       link: 'https://walling.app/'
+    - name: '互链文档'
+      logo: './images/writing/互链文档.png'
+      slogan: '链接创造新世界'
+      link: 'https://www.huleen.com/'
     - name: '石墨文档'
       logo: './images/writing/石墨文档.png'
       slogan: '一款轻便、简洁的在线协作文档工具'
