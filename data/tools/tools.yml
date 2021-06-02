@@ -197,6 +197,10 @@
       logo: './images/form/Formium.png'
       slogan: 'Headless Form Builder For Developers'
       link: 'https://formium.io/'
+    - name: 'HeyForm'
+      logo: './images/form/HeyForm.png'
+      slogan: 'Easy Online Form Builder'
+      link: 'https://heyform.net/'
 
 - title: HR
   items:
