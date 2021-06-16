@@ -23,7 +23,7 @@
     "@dexgroup/gatsby-theme-dexlist-tools": "^3.0.0",
     "gatsby": "^3.6.2",
     "gatsby-plugin-canonical-urls": "^3.6.0",
-    "gatsby-plugin-gatsby-cloud": "^2.6.1",
+    "gatsby-plugin-gatsby-cloud": "^2.7.1",
     "gatsby-plugin-manifest": "^3.6.0",
     "gatsby-plugin-netlify": "^3.6.1",
     "gatsby-plugin-netlify-cache": "^1.2.0",
