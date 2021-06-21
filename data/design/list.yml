@@ -1289,7 +1289,11 @@
     - name: 'Wildicons'
       logo: './images/icon/Wildicons.png'
       slogan: 'Wildlife icon set'
-      link: 'https://wildicons.fun//'
+      link: 'https://wildicons.fun/'
+    - name: 'xicons'
+      logo: './images/icon/xicons.png'
+      slogan: 'Icons for Vue & React'
+      link: 'https://www.xicons.org/'
 
 - id: illustration
   title: Illustration
