@@ -108,7 +108,6 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-netlify-cache`,
     {
       resolve: `gatsby-plugin-gatsby-cloud`,
       options: {
@@ -125,13 +124,6 @@ module.exports = {
       resolve: `gatsby-plugin-plausible`,
       options: {
         domain: `dexlist.page`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-netlify`,
-      options: {
-        mergeLinkHeaders: false,
-        mergeCachingHeaders: false
       },
     },
   ]
