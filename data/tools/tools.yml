@@ -190,6 +190,10 @@
       logo: './images/feedback/Smallchat.png'
       slogan: 'Connect with your visitors'
       link: 'https://small.chat/'
+    - name: 'UserFace'
+      logo: './images/feedback/UserFace.png'
+      slogan: 'Get instant feedback from your users'
+      link: 'https://userface.com/'
 
 - title: Form
   items:
@@ -201,6 +205,10 @@
       logo: './images/form/HeyForm.png'
       slogan: 'Easy Online Form Builder'
       link: 'https://heyform.net/'
+    - name: 'onSubmit'
+      logo: './images/form/onSubmit.png'
+      slogan: 'Functional forms without a backend'
+      link: 'https://onsubmit.app/'
 
 - title: HR
   items:
@@ -320,6 +328,10 @@
       logo: './images/markdown/MWeb.png'
       slogan: 'Pro Markdown writing, note taking and static blog generator App'
       link: 'https://www.mweb.im/'
+    - name: 'Nota'
+      logo: './images/markdown/Nota.png'
+      slogan: 'Pro writing app designed for local Markdown files'
+      link: 'https://nota.md/'
     - name: 'Typora'
       logo: './images/markdown/Typora.png'
       slogan: 'a markdown editor, markdown reader'
