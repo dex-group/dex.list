@@ -21,7 +21,7 @@
     "@dexgroup/gatsby-theme-dexlist-design": "^3.0.0",
     "@dexgroup/gatsby-theme-dexlist-icon": "^3.0.0",
     "@dexgroup/gatsby-theme-dexlist-tools": "^3.0.0",
-    "gatsby": "^3.6.2",
+    "gatsby": "^3.8.1",
     "gatsby-plugin-canonical-urls": "^3.8.0",
     "gatsby-plugin-gatsby-cloud": "^2.8.1",
     "gatsby-plugin-manifest": "^3.8.0",
