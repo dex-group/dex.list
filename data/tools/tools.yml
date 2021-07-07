@@ -109,6 +109,10 @@
       logo: './images/comment/Welcomments.png'
       slogan: 'Pre-rendered static comments for Jekyll, Hugo, and more'
       link: 'https://welcomments.io/'
+    - name: 'Cusdis'
+      logo: './images/comment/Cusdis.png'
+      slogan: 'Lightweight, privacy-first, open-source comment system'
+      link: 'https://cusdis.com/'
 
 - title: Communication
   items:
