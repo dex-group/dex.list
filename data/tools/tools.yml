@@ -221,6 +221,10 @@
       logo: './images/form/onSubmit.png'
       slogan: 'Functional forms without a backend'
       link: 'https://onsubmit.app/'
+    - name: 'Reform'
+      logo: './images/form/Reform.png'
+      slogan: 'Hosted forms. No code required'
+      link: 'https://www.reform.app/'
 
 - title: HR
   items:
@@ -250,6 +254,10 @@
       logo: './images/mail/Gmail.png'
       slogan: 'Get more done with Gmail'
       link: 'https://mail.google.com/'
+    - name: 'Mailman'
+      logo: './images/mail/Mailman.png'
+      slogan: 'Take your inbox to zero | Tool for Time Management'
+      link: 'https://www.mailmanhq.com/'
     - name: 'Mixmax'
       logo: './images/mail/Mixmax.png'
       slogan: 'A feature-rich email app for Gmail'
@@ -644,6 +652,10 @@
 
 - title: Writing
   items:
+    - name: 'Amplenote'
+      logo: './images/writing/Amplenote.png'
+      slogan: 'Best Note-taking App for To-do Lists and Calendar Scheduling'
+      link: 'https://www.amplenote.com/'
     - name: 'Coda'
       logo: './images/writing/Coda.png'
       slogan: 'A new doc for teams'
