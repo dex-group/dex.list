@@ -960,6 +960,10 @@
 - id: gradient
   title: Gradients
   item:
+    - name: '100 Beautiful Mesh Gradients'
+      logo: './images/gradient/100BeautifulMeshGradients.png'
+      slogan: '100 Beautiful Mesh Gradients'
+      link: 'https://www.meshgradients.design/'
     - name: 'CoolHue'
       logo: './images/gradient/CoolHue.png'
       slogan: 'Sketch Gradient Palette Plugin'
@@ -1394,6 +1398,10 @@
       logo: './images/illustration/Storytale.png'
       slogan: 'High-class web illustrations under simple subscription'
       link: 'https://storytale.io/'
+    - name: 'Storyset'
+      logo: './images/illustration/Storyset.png'
+      slogan: 'Customize, animate and download illustration for free'
+      link: 'https://storyset.com/'
     - name: 'Stubborn'
       logo: './images/illustration/Stubborn1.png'
       slogan: 'Free Illustrations Generator'
@@ -2523,6 +2531,10 @@
       logo: './images/resource/Veila.png'
       slogan: 'Unique Design Goods From Creative'
       link: 'https://www.veila.me/'
+    - name: 'WOWPNG'
+      logo: './images/resource/WOWPNG.png'
+      slogan: 'Explore millions of free to download transparent PNG images'
+      link: 'https://wowpng.com/'
     - name: '图小白'
       logo: './images/resource/图小白.png'
       slogan: '简单好用的在线平面工具'
