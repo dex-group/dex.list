@@ -4,6 +4,10 @@
       logo: './images/analytics/aldwx.png'
       slogan: '专注于小程序的统计分析平台'
       link: 'https://aldwx.com/'
+    - name: 'Aurora'
+      logo: './images/analytics/Aurora.png'
+      slogan: 'Open Website Analytics'
+      link: 'https://www.useaurora.app/'
     - name: '百度统计'
       logo: './images/analytics/baidu.png'
       slogan: '最大的中文网站分析平台'
@@ -652,6 +656,10 @@
 
 - title: Writing
   items:
+    - name: 'Almanac'
+      logo: './images/writing/Almanac.png'
+      slogan: 'Transform the way you work in docs'
+      link: 'https://almanac.io/'
     - name: 'Amplenote'
       logo: './images/writing/Amplenote.png'
       slogan: 'Best Note-taking App for To-do Lists and Calendar Scheduling'
