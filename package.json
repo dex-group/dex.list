@@ -25,7 +25,7 @@
     "gatsby-plugin-canonical-urls": "^3.9.0",
     "gatsby-plugin-gatsby-cloud": "^2.9.1",
     "gatsby-plugin-manifest": "^3.9.0",
-    "gatsby-plugin-offline": "^4.9.0",
+    "gatsby-plugin-offline": "^4.10.0",
     "gatsby-plugin-plausible": "^0.0.7",
     "gatsby-plugin-robots-txt": "^1.6.8",
     "gatsby-plugin-sitemap": "^4.5.0",
