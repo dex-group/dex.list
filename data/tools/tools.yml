@@ -163,7 +163,7 @@
       logo: './images/documents/docsify.png'
       slogan: 'A magical documentation site generator'
       link: 'https://docsify.js.org/#/'
-    - name: 'docs page'
+    - name: 'docs.page'
       logo: './images/documents/docspage.png'
       slogan: 'Instant Open Source docs with zero configuration'
       link: 'https://docsify.js.org/#/'
@@ -183,6 +183,10 @@
       logo: './images/documents/readmeso.png'
       slogan: 'Easiest Way to Create A README'
       link: 'https://readme.so/'
+    - name: 'ShowDoc'
+      logo: './images/documents/ShowDoc.png'
+      slogan: '一个非常适合IT团队的API文档技术文档工具'
+      link: 'https://www.showdoc.com.cn/'
 
 - title: Feedback
   items:
@@ -488,6 +492,10 @@
       logo: './images/newsletter/Substack.png'
       slogan: 'Build your independence'
       link: 'https://substack.com/'
+    - name: '知园'
+      logo: './images/newsletter/知园.png'
+      slogan: '为价值而写作，不为流量'
+      link: 'https://zhiy.cc/'
 
 - title: Password
   items:

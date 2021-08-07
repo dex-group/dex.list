@@ -117,6 +117,10 @@
       logo: './images/background/Trianglify.png'
       slogan: 'Low Poly Pattern Generator'
       link: 'https://trianglify.io/'
+    - name: 'Wicked Backgrounds'
+      logo: './images/background/WickedBackgrounds.png'
+      slogan: 'Create beautiful backgrounds waves'
+      link: 'https://wickedbackgrounds.com/'
 
 - id: book
   title: Books
@@ -2591,6 +2595,10 @@
 - id: svg
   title: SVG
   item:
+    - name: 'Blobbb'
+      logo: './images/svg/Blobbb.png'
+      slogan: 'Get your fluffy blobby SVG shapes in seconds'
+      link: 'https://www.blobbb.fun/'
     - name: 'Get Waves'
       logo: './images/svg/GetWaves.png'
       slogan: 'Create SVG waves for your next design'
