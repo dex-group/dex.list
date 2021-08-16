@@ -6656,7 +6656,7 @@ gatsby-page-utils@^1.11.0:
     lodash "^4.17.21"
     micromatch "^4.0.2"
 
-gatsby-plugin-canonical-urls@^3.10.0:
+gatsby-plugin-canonical-urls@^3.11.0:
   version "3.11.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-3.11.0.tgz#64ee6e1eb5d8cdc9ed5dd09b1f765ed59f03ce58"
   integrity sha512-YQwxhwgEZDT+c++96vy9WlkYXHruQZIJU1VaLtPjhJTbih0QiUFtSUnKvr731ekJfc6w6d2p2pPu50RXDD5S9Q==
@@ -6679,7 +6679,7 @@ gatsby-plugin-emotion@^6.9.0:
     "@babel/runtime" "^7.14.6"
     "@emotion/babel-preset-css-prop" "^11.2.0"
 
-gatsby-plugin-gatsby-cloud@^2.10.0:
+gatsby-plugin-gatsby-cloud@^2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-2.11.0.tgz#e90733827fe4950c0e1d4a4311cda0b9e420a9df"
   integrity sha512-MsMlhBQdQi5hn3AezSTob3VksWA/cFcSjxafZIY8nd85pXDXOCdOhReuG/6c8KkUS/fcNLtlwwGpjXaz3iFAoQ==
@@ -6710,7 +6710,7 @@ gatsby-plugin-image@^1.9.0:
     objectFitPolyfill "^2.3.0"
     prop-types "^15.7.2"
 
-gatsby-plugin-manifest@^3.10.0:
+gatsby-plugin-manifest@^3.11.0:
   version "3.11.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-3.11.0.tgz#9dfc08f3573636edb7eba904291da9ca482524f4"
   integrity sha512-ZeM8OmolC9rcOVa76PdpSM0Q3vfUBzyztqW/30Ax9VGx0JiE+LeMnjsApCWWU9wXCiZUncc2UgDrJDad7dMbeQ==
@@ -6763,7 +6763,7 @@ gatsby-plugin-mdx@^2.9.0:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-plugin-offline@^4.10.0:
+gatsby-plugin-offline@^4.11.0:
   version "4.11.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.11.0.tgz#2cbd4d314bdcd7c0fb970864ec636945c067539b"
   integrity sha512-JRn/Voi7lyuVcc7NgXnr8ZAoMg34dFdUgnGJxqkh7cqEmH+1vvdbqKR3Z1i2OLlCJo4BE8rE0A/etYsIbM2oow==
@@ -6842,7 +6842,7 @@ gatsby-plugin-sharp@^3.9.0:
     svgo "1.3.2"
     uuid "3.4.0"
 
-gatsby-plugin-sitemap@^4.6.0:
+gatsby-plugin-sitemap@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-4.7.0.tgz#4bcf4ef0c2444eb621c718453da11ad157516747"
   integrity sha512-sfFgy3HUMF7k0xAsejufIGMMHjqqaQXbYyysDrZaWQtEvrNP+p2bXMqzOj20M/ciCRPCaGZ0QMUpk9vlKrF3Kg==
@@ -7063,10 +7063,10 @@ gatsby-worker@^0.2.0:
   dependencies:
     "@babel/core" "^7.14.6"
 
-gatsby@^3.9.1:
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.11.0.tgz#302c43468aca56460ff64d6e8304451e053de341"
-  integrity sha512-bESvnN7BJFshzHUnMx2qUSWTe6uBUHjuj1hn+V9mi19wxR7GH1ZCERGtzBi3lezwRtotYb/jed933mJ8Emg2UA==
+gatsby@^3.11.1, gatsby@^3.9.1:
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.11.1.tgz#888973ee1f97b63d8cb549921b4c2624b152f36b"
+  integrity sha512-KDMdMBrqPiS50CNjlhOdEZLz2PWewgDNbjnfSTYCxxFifTdi09wbNynnbAQ879nbhRTd0tGsNv6YGRsVEIbSQA==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.14.6"
