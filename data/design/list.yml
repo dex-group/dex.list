@@ -419,6 +419,10 @@
       logo: './images/color/whocanuse.png'
       slogan: "Who can use this color combination"
       link: 'https://whocanuse.com/'
+    - name: 'Wookmama'
+      logo: './images/color/Wookmama.png'
+      slogan: "The Color Visualizer."
+      link: 'https://app.wookmama.co/'
 
 - id: conference
   title: Conferences
@@ -2503,6 +2507,10 @@
       logo: './images/resource/Nice.png'
       slogan: 'Design Templates for Web Developers & Designers'
       link: 'https://niceverynice.com/'
+    - name: 'Openby.design'
+      logo: './images/resource/Openbydesign.png'
+      slogan: 'Free & Open Source Design Assets'
+      link: 'https://openby.design/'
     - name: 'OurSketch'
       logo: './images/resource/OurSketch.png'
       slogan: '一个专注于 Sketch 分享交流的互动平台'
