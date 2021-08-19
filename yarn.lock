@@ -1081,10 +1081,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@dexgroup/gatsby-theme-dexlist-agency@^3.2.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-3.3.0.tgz#4dec10f713855462870a7c44a5a535f688cfb4b0"
-  integrity sha512-O6vsH6KL6r/nu45TgOt7TXL3TU+P4tk8cNXtjFqoivZD9ebMAChRdTL+1lyeiXa4nxwh+lJsV4rEVam/QM8CZg==
+"@dexgroup/gatsby-theme-dexlist-agency@^3.3.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-agency/-/gatsby-theme-dexlist-agency-3.4.0.tgz#90ae37a7434bd0e2ff66aea1caa413e76b0b22a7"
+  integrity sha512-+Naah3wp0HOfjhFNoUy+jKEgJPHyV7PRs7F2r1/ymSViB4AWEqQw1HosT9DrieX3ReI7MPCRElvODYt0CZKQRg==
   dependencies:
     "@emotion/react" "^11.4.1"
     "@emotion/styled" "^11.3.0"
@@ -1100,10 +1100,10 @@
     react-dom "^17.0.2"
     theme-ui "^0.10.0"
 
-"@dexgroup/gatsby-theme-dexlist-design@^3.2.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-3.3.0.tgz#82c20e1656919af02a632d74abf9c49d20bbd8dd"
-  integrity sha512-lCTYLCd7/8WKweS6yyEr3S5mPBB0KEReQt+bCOHKCJk6ksCBS9IBqB5jAmWT2Bq44n9RGwpeV00a+Qt2U+WXqQ==
+"@dexgroup/gatsby-theme-dexlist-design@^3.3.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-design/-/gatsby-theme-dexlist-design-3.4.0.tgz#bfcab482730f0db0c01b03406f81692a49a16052"
+  integrity sha512-fN5UverkGKFE7pTOfMotjBbq3B7afuqkp5QjJCiiU+oQBtngCLKLnb61qX1W8UUnW1O2tTUKPz/p740MAra13Q==
   dependencies:
     "@emotion/react" "^11.4.1"
     "@emotion/styled" "^11.3.0"
@@ -1131,10 +1131,10 @@
     theme-ui "^0.10.0"
     use-onclickoutside "^0.4.0"
 
-"@dexgroup/gatsby-theme-dexlist-icon@^3.2.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-3.3.0.tgz#ad6e65d4b92c54dcfca03329c3f92b61c06f09ef"
-  integrity sha512-9N8/dp6TE3lxJV1sG0udaXJmbbbY06hFT7BTpHZpCaypMhpFEAbXLXWk0XIO3UL7bbpXZoUg0ny2XHX/NQUSoA==
+"@dexgroup/gatsby-theme-dexlist-icon@^3.3.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-icon/-/gatsby-theme-dexlist-icon-3.4.0.tgz#fbb0c6ce4932b89088db30af7f30779787ea4957"
+  integrity sha512-nRgWJsc/8CxsQrLE2Q4MjcbeDWP8hRmwBnlN3YR7ghwh5kMPGLcQJOjOjWG4mBszgaQWTMZ0c6kC86UbAW/rOw==
   dependencies:
     "@emotion/react" "^11.4.1"
     "@emotion/styled" "^11.3.0"
@@ -1150,10 +1150,10 @@
     react-dom "^17.0.2"
     theme-ui "^0.10.0"
 
-"@dexgroup/gatsby-theme-dexlist-tools@^3.2.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-3.3.0.tgz#7dacf8a6d2b4b3017822fc34b085b55384299159"
-  integrity sha512-jHEeaGi8fZoYT0hpZ5vqrREosdL3HYLOalXvob2U6D+j6mXwvnE1nehd9VDY2+GU0lSbFvrpRpNYvhuih7Y0LQ==
+"@dexgroup/gatsby-theme-dexlist-tools@^3.3.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@dexgroup/gatsby-theme-dexlist-tools/-/gatsby-theme-dexlist-tools-3.4.0.tgz#027ed4419ef3273f122ecd02aff42ec3106e3bdc"
+  integrity sha512-f7kmPQyQNaSwpZj6e/Zazca9qsz/Zq21dxg38XMpaeTK9P/Exicv+dExQrYSf0NrB4Yn2J8NsWuviSUQe+Zamg==
   dependencies:
     "@emotion/react" "^11.4.1"
     "@emotion/styled" "^11.3.0"
