@@ -14,9 +14,6 @@ export default ({ children }) => (
           -ms-text-size-adjust: 100%;
           -webkit-text-size-adjust: 100%
         }
-        html, body {
-          height: 100%
-        }
         body {
           margin: 0;
           padding: 0;
