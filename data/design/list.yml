@@ -276,6 +276,10 @@
       logo: './images/color/Coolors.png'
       slogan: 'The super fast color schemes generator'
       link: 'https://coolors.co/'
+    - name: 'couleur.io'
+      logo: './images/color/couleur.png'
+      slogan: 'Harmonizing Color Palettes for Your Web Projects'
+      link: 'https://couleur.io/'
     - name: 'Culrs'
       logo: './images/color/Culrs.png'
       slogan: 'easy-to-use color palettes'
@@ -407,6 +411,10 @@
       logo: './images/color/sitepalette.png'
       slogan: 'Get colours from a website'
       link: 'https://palette.site/'
+    - name: 'Spectrum'
+      logo: './images/color/Spectrum.png'
+      slogan: "Create beautiful color palettes and apply them on anything"
+      link: 'https://colorspectrum.design/'
     - name: 'Stark'
       logo: './images/color/stark.png'
       slogan: "Accessible ethical and inclusive"
