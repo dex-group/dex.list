@@ -129,6 +129,10 @@
       logo: './images/background/WickedBackgrounds.png'
       slogan: 'Create beautiful backgrounds waves'
       link: 'https://wickedbackgrounds.com/'
+    - name: 'ZapBG'
+      logo: './images/background/ZapBG.png'
+      slogan: 'Remove Backgrounds From Images Easily'
+      link: 'https://www.zapbg.com/'
 
 - id: book
   title: Books
@@ -767,6 +771,10 @@
       logo: './images/designsystem/Volvo.png'
       slogan: 'The Volvo Cars design system'
       link: 'https://design.volvocars.com/'
+    - name: 'W3C Design System'
+      logo: './images/designsystem/W3C.png'
+      slogan: 'W3C Design System'
+      link: 'https://design-system.w3.org/'
     - name: 'Welcome UI'
       logo: './images/designsystem/WelcomeUI.png'
       slogan: 'Customizable design system with react'
@@ -2014,6 +2022,10 @@
       logo: './images/onlinecourse/DesignerUp.png'
       slogan: 'Learn UIUX and Product Design Online'
       link: 'https://designcode.io/'
+    - name: 'Design Full-Time'
+      logo: './images/onlinecourse/DesignFull-Time.png'
+      slogan: 'Stand Out as a Web Designer'
+      link: 'https://designfulltime.com/#/'
     - name: 'Designlab'
       logo: './images/onlinecourse/Designlab.png'
       slogan: 'Learn UI & UX design skills'
