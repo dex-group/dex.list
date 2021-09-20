@@ -313,6 +313,10 @@
       logo: './images/management/Asana.png'
       slogan: 'Make more time for the work that matters most'
       link: 'https://asana.com/'
+    - name: 'Balsa'
+      logo: './images/management/Balsa.png'
+      slogan: 'Move Fast, Together'
+      link: 'https://www.balsa.com/'
     - name: 'Basecamp'
       logo: './images/management/Basecamp.png'
       slogan: 'Get it together and manage projects the right way'
@@ -329,6 +333,10 @@
       logo: './images/management/Height.png'
       slogan: 'real-time tasks, chat, and adaptive workflows'
       link: 'https://height.app/'
+    - name: 'MetaSpark'
+      logo: './images/management/MetaSpark.png'
+      slogan: 'Measure, Manage & Motivate'
+      link: 'https://www.metaspark.io/'
     - name: 'Roadmap'
       logo: './images/management/Roadmap.png'
       slogan: 'Visualise your plan'
@@ -368,6 +376,10 @@
       logo: './images/markdown/Markdown.png'
       slogan: 'Power of PLAINTEXT, Zen for Markdown'
       link: 'https://markdown.app/'
+    - name: 'MarkdownX'
+      logo: './images/markdown/MarkdownX.png'
+      slogan: 'A New Evolution in Markdown'
+      link: 'https://devdojo.com/markdownx'
     - name: 'MarkText'
       logo: './images/markdown/MarkText.png'
       slogan: 'Simple and Elegant Markdown Editor'
@@ -674,6 +686,13 @@
       logo: './images/todo/Todoist.png'
       slogan: 'The to do list to organize work & life'
       link: 'https://todoist.com/'
+
+- title: Transfer
+  items:
+    - name: 'Snapdrop'
+      logo: './images/transfer/Snapdrop.png'
+      slogan: 'Open Snapdrop on other devices to send files'
+      link: 'https://snapdrop.net/#'
 
 - title: Whiteboard
   items:
