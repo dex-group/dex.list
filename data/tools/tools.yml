@@ -110,6 +110,10 @@
 
 - title: Calendar
   items:
+    - name: 'Cal'
+      logo: './images/calendar/Cal.png'
+      slogan: 'Open Scheduling Infrastructure'
+      link: 'https://cal.com/'
     - name: 'SavvyCal'
       logo: './images/calendar/SavvyCal.png'
       slogan: 'Scheduling Software Your Recipients Will Love'
