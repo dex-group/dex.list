@@ -64,6 +64,10 @@
       logo: './images/analytics/sensorsdata.png'
       slogan: '大数据用户行为分析产品'
       link: 'https://www.sensorsdata.cn/'
+    - name: 'Simple Analytics'
+      logo: './images/analytics/SimpleAnalytics.png'
+      slogan: 'Simple, clean, and privacy-friendly analytics'
+      link: 'https://simpleanalytics.com/'
     - name: 'Splitbee'
       logo: './images/analytics/Splitbee.png'
       slogan: 'Your friendly all-in-one analytics & conversion tool'
@@ -107,6 +111,13 @@
       logo: './images/automation/Zapier.png'
       slogan: 'The easiest way to automate your work'
       link: 'https://zapier.com/'
+
+- title: Browser
+  items:
+    - name: 'Dot'
+      logo: './images/browser/Dot.png'
+      slogan: 'The browser with privacy at heart'
+      link: 'https://www.dothq.co/en'
 
 - title: Calendar
   items:
@@ -265,6 +276,13 @@
       logo: './images/form/Reform.png'
       slogan: 'Hosted forms. No code required'
       link: 'https://www.reform.app/'
+
+- title: Habit
+  items:
+    - name: 'Dashbit'
+      logo: './images/habit/Dashbit.png'
+      slogan: 'The dashboard for your habits'
+      link: 'https://dashbit.app/'
 
 - title: HR
   items:
@@ -544,6 +562,10 @@
       logo: './images/newsletter/Substack.png'
       slogan: 'Build your independence'
       link: 'https://substack.com/'
+    - name: '氢舟'
+      logo: './images/newsletter/氢舟.png'
+      slogan: '让最懂你的粉丝通过订阅会员支持你的创作'
+      link: 'https://hypper.cn/'
     - name: '知园'
       logo: './images/newsletter/知园.png'
       slogan: '为价值而写作，不为流量'
@@ -680,6 +702,10 @@
       logo: './images/sharing/Jumpshare.png'
       slogan: 'Free File Sharing'
       link: 'https://jumpshare.com/'
+    - name: 'TMP.link'
+      logo: './images/sharing/TMP.png'
+      slogan: '国际化的文件存储协作平台，高速且高效'
+      link: 'https://app.tmp.link/'
     - name: 'WeTransfer'
       logo: './images/sharing/WeTransfer.png'
       slogan: 'the simplest way to send your files around the world'
