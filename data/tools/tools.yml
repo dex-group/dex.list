@@ -192,8 +192,27 @@
       slogan: '中国领先的智能移动办公平台'
       link: 'https://www.dingtalk.com/'
 
+- title: Courses
+  items:
+    - name: 'Discord'
+      logo: './images/course/Float.png'
+      slogan: 'Build Courses With Notion'
+      link: 'https://www.float.so/'
+    - name: 'Marble'
+      logo: './images/course/Marble.png'
+      slogan: 'simple online training software'
+      link: 'https://www.marble.so/'
+    - name: 'Maven'
+      logo: './images/course/Maven.png'
+      slogan: 'Create and teach cohort-based courses'
+      link: 'https://maven.com/'
+
 - title: Documents
   items:
+    - name: 'ApiCat'
+      logo: './images/documents/ApiCat.png'
+      slogan: '高效API文档管理工具'
+      link: 'https://docsify.js.org/#/'
     - name: 'docsify'
       logo: './images/documents/docsify.png'
       slogan: 'A magical documentation site generator'
@@ -923,3 +942,10 @@
       logo: './images/writing/金山文档.png'
       slogan: '多人实时协作的在线Office'
       link: 'https://www.wps.cn/'
+
+- title: Zip
+  items:
+    - name: 'MacZip'
+      logo: './images/zip/MacZip.png'
+      slogan: '专为 macOS 而设计的压缩软件'
+      link: 'https://maczip.cn/'
