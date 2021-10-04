@@ -19,19 +19,19 @@ module.exports = {
       {
         to: "/studios",
         name: "studios",
-        count: "381",
+        count: "398",
         icon: '/images/menu-studios.png'
       },
       {
         to: "/designers",
         name: "designers",
-        count: "206",
+        count: "234",
         icon: '/images/menu-designers.png'
       },
       {
         to: "/tools",
         name: "tools",
-        count: "81",
+        count: "120",
         icon: '/images/menu-tools.png'
       },
       {

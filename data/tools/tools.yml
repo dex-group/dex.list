@@ -126,6 +126,10 @@
       logo: './images/browser/Firefox.png'
       slogan: 'Protect your life online with privacy-first products'
       link: 'https://www.mozilla.org/en-US/firefox/'
+    - name: 'Google Chrome'
+      logo: './images/browser/GoogleChrome.png'
+      slogan: 'Download the Fast, Secure Browser from Google'
+      link: 'https://www.google.com/intl/en_us/chrome/'
     - name: 'Microsoft Edge'
       logo: './images/browser/MicrosoftEdge.png'
       slogan: 'Choose the web browser that puts you first'
@@ -687,6 +691,13 @@
       logo: './images/pkm/氢刻.png'
       slogan: '从卡片记录到学习记忆，氢刻帮助您构建自己的智慧'
       link: 'https://qingk.com/'
+
+- title: Podcast Editing
+  items:
+    - name: '小宇宙 Studio'
+      logo: './images/podcast/小宇宙Studio.png'
+      slogan: '专为播客设计的剪辑工具'
+      link: 'https://studio.xiaoyuzhoufm.com/'
 
 - title: Presentations
   items:
