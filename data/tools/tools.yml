@@ -114,10 +114,34 @@
 
 - title: Browser
   items:
+    - name: 'Brave'
+      logo: './images/browser/Brave.png'
+      slogan: 'Secure, Fast & Private Web Browser with Adblocker'
+      link: 'https://brave.com/'
     - name: 'Dot'
       logo: './images/browser/Dot.png'
       slogan: 'The browser with privacy at heart'
       link: 'https://www.dothq.co/en'
+    - name: 'Firefox'
+      logo: './images/browser/Firefox.png'
+      slogan: 'Protect your life online with privacy-first products'
+      link: 'https://www.mozilla.org/en-US/firefox/'
+    - name: 'Microsoft Edge'
+      logo: './images/browser/MicrosoftEdge.png'
+      slogan: 'Choose the web browser that puts you first'
+      link: 'https://www.microsoft.com/en-us/edge'
+    - name: 'Opera'
+      logo: './images/browser/Opera.png'
+      slogan: 'Get a faster, better browser'
+      link: 'https://www.opera.com/'
+    - name: 'Safari'
+      logo: './images/browser/Safari.png'
+      slogan: 'Apple default browser'
+      link: 'https://support.apple.com/downloads/safari'
+    - name: 'Vivaldi'
+      logo: './images/browser/Vivaldi.png'
+      slogan: 'Now with built-in Translate, Mail, and Calendar'
+      link: 'https://vivaldi.com/'
 
 - title: Calendar
   items:
@@ -279,6 +303,10 @@
 
 - title: Form
   items:
+    - name: 'Commotion'
+      logo: './images/form/Commotion.png'
+      slogan: 'Add Forms to Notion'
+      link: 'https://commotion.page/'
     - name: 'Formium'
       logo: './images/form/Formium.png'
       slogan: 'Headless Form Builder For Developers'
