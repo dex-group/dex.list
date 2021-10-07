@@ -234,6 +234,10 @@
       logo: './images/course/Maven.png'
       slogan: 'Create and teach cohort-based courses'
       link: 'https://maven.com/'
+    - name: 'Slip'
+      logo: './images/course/Slip.png'
+      slogan: 'Build a Programming Course. Earn money while you sleep'
+      link: 'https://maven.com/'
 
 - title: Documents
   items:
@@ -334,6 +338,10 @@
       logo: './images/habit/Dashbit.png'
       slogan: 'The dashboard for your habits'
       link: 'https://dashbit.app/'
+    - name: 'Kairo'
+      logo: './images/habit/Kairo.png'
+      slogan: 'Engaging and straightforward yet delightful time, habit and goal tracking dashboard'
+      link: 'https://getkairo.com/'
 
 - title: HR
   items:
@@ -655,6 +663,10 @@
 
 - title: Personal Knowledge Management
   items:
+    - name: 'Acreom'
+      logo: './images/pkm/Acreom.png'
+      slogan: 'Not Just Another Productivity App'
+      link: 'https://acreom.com/'
     - name: 'Craft'
       logo: './images/pkm/Craft.png'
       slogan: 'Create Amazing Documents'
