@@ -679,6 +679,10 @@
       logo: './images/pkm/Logseq.png'
       slogan: 'A privacy-first, open-source knowledge base'
       link: 'https://logseq.com/'
+    - name: 'Mem'
+      logo: './images/pkm/Mem.png'
+      slogan: 'Your mind on tap'
+      link: 'https://mem.ai/'
     - name: 'Noteship'
       logo: './images/pkm/Noteship.png'
       slogan: 'A Sharp Mind Through Structured Notes'
@@ -772,6 +776,14 @@
       logo: './images/sharing/Jumpshare.png'
       slogan: 'Free File Sharing'
       link: 'https://jumpshare.com/'
+    - name: 'Send Anywhere'
+      logo: './images/sharing/SendAnywhere.png'
+      slogan: 'File transfer'
+      link: 'https://send-anywhere.com/'
+    - name: 'Snapdrop'
+      logo: './images/sharing/Snapdrop.png'
+      slogan: 'Open Snapdrop on other devices to send files'
+      link: 'https://snapdrop.net/#'
     - name: 'TMP.link'
       logo: './images/sharing/TMP.png'
       slogan: '国际化的文件存储协作平台，高速且高效'
@@ -840,13 +852,6 @@
       logo: './images/todo/Todoist.png'
       slogan: 'The to do list to organize work & life'
       link: 'https://todoist.com/'
-
-- title: Transfer
-  items:
-    - name: 'Snapdrop'
-      logo: './images/transfer/Snapdrop.png'
-      slogan: 'Open Snapdrop on other devices to send files'
-      link: 'https://snapdrop.net/#'
 
 - title: Whiteboard
   items:
