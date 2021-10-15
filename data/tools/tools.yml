@@ -118,6 +118,10 @@
 
 - title: Browser
   items:
+    - name: 'Bonsai'
+      logo: './images/browser/Bonsai.png'
+      slogan: 'Web Browser for Research'
+      link: 'https://bonsaibrowser.com/'
     - name: 'Brave'
       logo: './images/browser/Brave.png'
       slogan: 'Secure, Fast & Private Web Browser with Adblocker'
@@ -173,6 +177,10 @@
       logo: './images/calendar/SavvyCal.png'
       slogan: 'Scheduling Software Your Recipients Will Love'
       link: 'https://savvycal.com/'
+    - name: 'Vimcal'
+      logo: './images/calendar/Vimcal.png'
+      slogan: 'Fly through your calendar'
+      link: 'https://www.vimcal.com/'
 
 - title: Commemts
   items:
@@ -687,6 +695,10 @@
       logo: './images/pkm/flomo.png'
       slogan: '浮墨笔记，像发微博一样记笔记，记录你想法的川流。全平台覆盖，还支持微信服务号输入'
       link: 'https://flomoapp.com/'
+    - name: 'Joplin'
+      logo: './images/pkm/Joplin.png'
+      slogan: 'an open source note-taking app'
+      link: 'https://joplinapp.org/'
     - name: 'Logseq'
       logo: './images/pkm/Logseq.png'
       slogan: 'A privacy-first, open-source knowledge base'
@@ -711,6 +723,10 @@
       logo: './images/pkm/Reflect.png'
       slogan: 'Keep track of your notes, books, and meetings'
       link: 'https://reflect.app/'
+    - name: 'Tangent Notes'
+      logo: './images/pkm/TangentNotes.png'
+      slogan: 'Your Brain, Your Notes'
+      link: 'http://tangentnotes.com/'
     - name: '元思笔记'
       logo: './images/pkm/元思笔记.png'
       slogan: '链接创造新世界'
@@ -896,7 +912,7 @@
       slogan: '可视化团队协作工具'
       link: 'https://www.huiyizhuo.com/'
 
-- title: Writing
+- title: Note-Taking
   items:
     - name: 'Almanac'
       logo: './images/writing/Almanac.png'
@@ -934,6 +950,10 @@
       logo: './images/writing/MeisterNote.png'
       slogan: 'Collaborative Documentation for Teams'
       link: 'https://www.meisternote.com/'
+    - name: 'Meta'
+      logo: './images/writing/Meta.png'
+      slogan: 'A note-taking tool for visual learning'
+      link: 'https://projectmeta.app/'
     - name: 'Minimal'
       logo: './images/writing/Minimal.png'
       slogan: 'A meditation-inspired writing app'
