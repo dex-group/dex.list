@@ -846,6 +846,10 @@
 
 - title: Table
   items:
+    - name: 'Rowy'
+      logo: './images/table/Rowy.png'
+      slogan: 'GCP as easy as ABC'
+      link: 'https://www.rowy.io/'
     - name: '维格表'
       logo: './images/table/维格表.png'
       slogan: '积木式多媒体数据表格, 维格表技术首创者, 数据整理神器, 让人人都是数据设计师'
@@ -946,6 +950,10 @@
       logo: './images/writing/Journal.png'
       slogan: 'Make space for your ideas to run wild'
       link: 'https://usejournal.com/'
+    - name: 'Kanopi'
+      logo: './images/writing/Kanopi.png'
+      slogan: 'A better place to think'
+      link: 'https://kanopi.io/'
     - name: 'MeisterNote'
       logo: './images/writing/MeisterNote.png'
       slogan: 'Collaborative Documentation for Teams'
