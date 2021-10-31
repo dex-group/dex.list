@@ -201,6 +201,10 @@
       logo: './images/calendar/SavvyCal.png'
       slogan: 'Scheduling Software Your Recipients Will Love'
       link: 'https://savvycal.com/'
+    - name: 'TimeTree'
+      logo: './images/calendar/TimeTree.png'
+      slogan: 'Connect your moments. Connect to the future'
+      link: 'https://timetreeapp.com/'
     - name: 'Vimcal'
       logo: './images/calendar/Vimcal.png'
       slogan: 'Fly through your calendar'
@@ -379,6 +383,10 @@
       logo: './images/form/Reform.png'
       slogan: 'Hosted forms. No code required'
       link: 'https://www.reform.app/'
+    - name: 'Tally'
+      logo: './images/form/Tally.png'
+      slogan: 'The simplest way to create beautiful forms & surveys, for free'
+      link: 'https://tally.so/'
 
 - title: Habit
   items:
@@ -755,6 +763,10 @@
       logo: './images/pkm/Reflect.png'
       slogan: 'Keep track of your notes, books, and meetings'
       link: 'https://reflect.app/'
+    - name: 'Roam Research'
+      logo: './images/pkm/RoamResearch.png'
+      slogan: 'A note taking tool for networked thought'
+      link: 'https://roamresearch.com/'
     - name: 'Tangent Notes'
       logo: './images/pkm/TangentNotes.png'
       slogan: 'Your Brain, Your Notes'

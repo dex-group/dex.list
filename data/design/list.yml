@@ -599,6 +599,10 @@
       logo: './images/designsystem/AntDesign.png'
       slogan: 'Design System by Alibaba'
       link: 'https://ant.design/'
+    - name: 'Arco Design'
+      logo: './images/designsystem/ArcoDesign.png'
+      slogan: '企业级产品的完整设计和开发解决方案'
+      link: 'https://arco.design/'
     - name: 'Atlassian'
       logo: './images/designsystem/Atlassian.png'
       slogan: 'Design System by Atlassian'
@@ -2486,6 +2490,10 @@
 - id: resource
   title: Resources
   item:
+    - name: 'Apple Design Resources'
+      logo: './images/resource/AppleDesignResources.png'
+      slogan: 'Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides, and other resources'
+      link: 'https://developer.apple.com/design/resources/'
     - name: 'Apply Pixels'
       logo: './images/resource/ApplyPixels.png'
       slogan: 'App Icons, UI Kits, Screenshot Templates and more'
