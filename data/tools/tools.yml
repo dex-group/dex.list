@@ -375,6 +375,10 @@
       logo: './images/form/Formium.png'
       slogan: 'Headless Form Builder For Developers'
       link: 'https://formium.io/'
+    - name: 'Getform.io'
+      logo: './images/form/Getform.png'
+      slogan: 'Easy form endpoint'
+      link: 'https://getform.io/'
     - name: 'HeyForm'
       logo: './images/form/HeyForm.png'
       slogan: 'Easy Online Form Builder'
@@ -914,6 +918,10 @@
       logo: './images/table/维格表.png'
       slogan: '积木式多媒体数据表格, 维格表技术首创者, 数据整理神器, 让人人都是数据设计师'
       link: 'https://vika.cn/'
+    - name: '黑帕云'
+      logo: './images/table/黑帕云.png'
+      slogan: '新一代数据协作平台'
+      link: 'https://hipacloud.com/'
 
 - title: Time Tracking
   items:
