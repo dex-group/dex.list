@@ -199,7 +199,7 @@
       link: 'https://daybridge.com/'
     - name: 'Fantastical'
       logo: './images/calendar/Fantastical.png'
-      slogan: 'The calendar and tasks app you won't be able to live without'
+      slogan: 'The calendar and tasks app you wont be able to live without'
       link: 'https://flexibits.com/fantastical'
     - name: 'Rise Calendar'
       logo: './images/calendar/RiseCalendar.png'
