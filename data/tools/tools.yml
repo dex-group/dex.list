@@ -217,6 +217,10 @@
       logo: './images/calendar/Vimcal.png'
       slogan: 'Fly through your calendar'
       link: 'https://www.vimcal.com/'
+    - name: 'zcal'
+      logo: './images/calendar/zcal.png'
+      slogan: 'Fast Free Online Meeting Scheduling'
+      link: 'https://zcal.co/'
 
 - title: Commemts
   items:
