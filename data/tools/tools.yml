@@ -693,6 +693,10 @@
       logo: './images/newsletter/Nuttab.png'
       slogan: '这是一个自由写作的平台'
       link: 'https://www.nuttab.com/'
+    - name: 'Papyrus'
+      logo: './images/newsletter/Papyrus.png'
+      slogan: 'privacy-first, blazing-fast blogging and newsletters'
+      link: 'https://papyrus.so/'
     - name: 'Sendgrid'
       logo: './images/newsletter/Sendgrid.png'
       slogan: 'Email delivery service'
@@ -914,6 +918,10 @@
 
 - title: Table
   items:
+    - name: 'Grist'
+      logo: './images/table/Grist.png'
+      slogan: 'The Evolution of Spreadsheets'
+      link: 'https://www.getgrist.com/'
     - name: 'Rowy'
       logo: './images/table/Rowy.png'
       slogan: 'GCP as easy as ABC'
