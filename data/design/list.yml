@@ -3281,3 +3281,7 @@
       logo: './images/wireframe/Wireframer.png'
       slogan: 'Flawless SVG text for your wireframes'
       link: 'https://www.wireframer.art/'
+    - name: 'Zen Wireframe'
+      logo: './images/wireframe/ZenWireframe.png'
+      slogan: 'https://www.zenwireframe.com/'
+      link: 'https://www.wireframer.art/'

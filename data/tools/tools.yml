@@ -516,7 +516,7 @@
       link: 'https://www.metaspark.io/'
     - name: 'Quire'
       logo: './images/management/Quire.png'
-      slogan: 'Dream. Plan. Achieve'
+      slogan: 'Dream, Plan, Achieve'
       link: 'https://quire.io/'
     - name: 'Roadmap'
       logo: './images/management/Roadmap.png'
@@ -772,6 +772,10 @@
       logo: './images/password/Passbolt.png'
       slogan: 'Open source password manager for teams'
       link: 'https://www.passbolt.com/'
+    - name: 'Passky'
+      logo: './images/password/Passky.png'
+      slogan: 'The most unbloated password manager'
+      link: 'https://passky.org/'
 
 - title: Personal Knowledge Management
   items:
@@ -1019,6 +1023,10 @@
       logo: './images/whiteboard/Miro.png'
       slogan: 'Team collaboration software & online whiteboard for teams'
       link: 'https://miro.com/'
+    - name: 'MURAL'
+      logo: './images/whiteboard/MURAL.png'
+      slogan: 'a digital-first visual collaboration platform'
+      link: 'https://www.mural.co/'
     - name: 'Weje.io'
       logo: './images/whiteboard/Weje.png'
       slogan: 'all-in-one online team collaboration tool'
