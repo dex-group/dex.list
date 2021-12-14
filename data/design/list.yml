@@ -1840,6 +1840,10 @@
       logo: './images/mockup/mockflow.png'
       slogan: 'Online Wireframe Tools'
       link: 'https://www.mockflow.com/'
+    - name: 'MockRocket'
+      logo: './images/mockup/MockRocket.png'
+      slogan: 'Jaw-dropping 3D app mockups and animations'
+      link: 'https://mockrocket.io/'
     - name: 'Mockup'
       logo: './images/mockup/Mockup.png'
       slogan: 'Sketch UI & UX on iPad'
@@ -2925,6 +2929,10 @@
       logo: './images/team/极验用户体验设计中心.png'
       slogan: '极验用户体验设计中心'
       link: 'https://geetest.design/article'
+    - name: '腾讯设计云'
+      logo: './images/team/腾讯设计云.png'
+      slogan: '汇聚设计资源, 服务设计生态'
+      link: 'https://design.tencent.com/'
 
 - id: tool
   title: Design Tools
