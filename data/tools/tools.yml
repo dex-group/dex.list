@@ -178,6 +178,10 @@
       logo: './images/browser/URSOR.png'
       slogan: 'Unlocking the creative power of the Internet for kids today and tomorrow'
       link: 'https://www.ursor.com/'
+    - name: 'Via'
+      logo: './images/browser/Via.png'
+      slogan: 'Via browser is a lite browser with powerful functions'
+      link: 'https://viayoo.com/en/'
     - name: 'Vivaldi'
       logo: './images/browser/Vivaldi.png'
       slogan: 'Now with built-in Translate, Mail, and Calendar'
@@ -958,6 +962,10 @@
 
 - title: Table
   items:
+    - name: 'Causal'
+      logo: './images/table/Causal.png'
+      slogan: 'your new spreadsheet for working with numbers'
+      link: 'https://www.causal.app/'
     - name: 'Grist'
       logo: './images/table/Grist.png'
       slogan: 'The Evolution of Spreadsheets'
@@ -966,6 +974,10 @@
       logo: './images/table/Rowy.png'
       slogan: 'GCP as easy as ABC'
       link: 'https://www.rowy.io/'
+    - name: 'Treelab'
+      logo: './images/table/Treelab.png'
+      slogan: '自定义搭建业务系统的无代码工具'
+      link: 'https://www.treelab.com.cn/r/'
     - name: '维格表'
       logo: './images/table/维格表.png'
       slogan: '积木式多媒体数据表格, 维格表技术首创者, 数据整理神器, 让人人都是数据设计师'
