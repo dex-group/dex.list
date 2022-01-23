@@ -766,6 +766,13 @@
       slogan: '为价值而写作，不为流量'
       link: 'https://zhiy.cc/'
 
+- title: Outliner
+  items:
+    - name: 'Dynalist'
+      logo: './images/outliner/Dynalist.png'
+      slogan: 'The best outlining app for your best work'
+      link: 'https://dynalist.io/#/'
+
 - title: Password
   items:
     - name: '1password'
