@@ -5804,7 +5804,7 @@ gatsby-plugin-emotion@^7.0.0:
     "@babel/runtime" "^7.15.4"
     "@emotion/babel-preset-css-prop" "^11.2.0"
 
-gatsby-plugin-gatsby-cloud@^4.5.0:
+gatsby-plugin-gatsby-cloud@^4.5.2:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.5.2.tgz#8ec4fa8cdf296e08a0d4999b755b4626c8532984"
   integrity sha512-aloSM+XVuideA7ZIAO1pOBb8pC+QYq873MMDWGPZt1O61ZbtfgEkigzuSbGZqcmrPnJT37n/iia6Q/PC0/YEkA==
@@ -5837,7 +5837,7 @@ gatsby-plugin-image@^2.0.0:
     objectFitPolyfill "^2.3.5"
     prop-types "^15.7.2"
 
-gatsby-plugin-manifest@^4.5.0:
+gatsby-plugin-manifest@^4.5.2:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-4.5.2.tgz#4b36bf7e4605a8d3304a4ebcc88ec118232c1c52"
   integrity sha512-Stvhbz7A9BZ88HJSz+H4abZ18zxNMsv/vPkV8iAStDl55B2dY9IyWW9n5I3mL6GlPvy1mdVbTqwNG2lgMYLSEA==
@@ -5892,7 +5892,7 @@ gatsby-plugin-mdx@^3.0.0:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-plugin-offline@^5.5.0:
+gatsby-plugin-offline@^5.5.2:
   version "5.5.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-5.5.2.tgz#0430d72d981f8b1487965886b45c0ce06aabc586"
   integrity sha512-Z2NTRTOxo02SXMKhJt6YgFZ0gtIUfpBk5aaXn4/vTcL+RqUsj1QtSlWYOPYJJ4Lauj1bMkN1tFwfGelZVAdtdQ==
@@ -5938,7 +5938,7 @@ gatsby-plugin-react-helmet@^5.0.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-plugin-robots-txt@^1.6.14:
+gatsby-plugin-robots-txt@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-robots-txt/-/gatsby-plugin-robots-txt-1.7.0.tgz#58ac310c9fb7e58162d6e21802884b342837b451"
   integrity sha512-Y1D8FBeXNtECoCd0g0jIkhKpSvzFzeh2xpt1xTvGluRP6xmqJq7iB3DPEv7xqGlZAcfzaSxw/j5++Y+3WLva8A==
@@ -6128,10 +6128,10 @@ gatsby-worker@^1.5.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^4.0.0:
-  version "4.5.3"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.5.3.tgz#69a8e80e6f3eb7bb51a0e193d1725fab081cf5e6"
-  integrity sha512-YajcPykB+LMeUSEkxB/EouzURjOaVDA2cHCyzhgL0U1vpz4fIHWWxNzPhJ+XxWdzyJCJhZMms2eY2O6vlJMApA==
+gatsby@^4.0.0, gatsby@^4.5.4:
+  version "4.5.4"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.5.4.tgz#53404b798da0c86057675d03011f072faf85b27c"
+  integrity sha512-uXyYl9nq52xdvP/9lwWFp7eGtjFFgdAjG2xNBvpgNgd1AtH/4kU76khm1mmpXea98mnJrcwKmsSZkIbQO9YWCg==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
