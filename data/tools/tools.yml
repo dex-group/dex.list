@@ -120,6 +120,13 @@
       slogan: 'The easiest way to automate your work'
       link: 'https://zapier.com/'
 
+- title: Bookmark
+  items:
+    - name: 'Superdense'
+      logo: './images/bookmark/Superdense.png'
+      slogan: 'Bookmark manager for Minimalists and Web Junkies'
+      link: 'https://www.superdense.com/'
+
 - title: Browser
   items:
     - name: 'Bonsai'
@@ -1063,6 +1070,10 @@
       logo: './images/todo/Anydo.png'
       slogan: 'A to-do list you actually use'
       link: 'https://www.any.do/to-do-list/'
+    - name: 'GoodTask'
+      logo: './images/todo/GoodTask.png'
+      slogan: 'Task Manager & Planner app'
+      link: 'https://goodtaskapp.com/'
     - name: 'Microsoft To Do'
       logo: './images/todo/MicrosoftToDo.png'
       slogan: 'Focus, from work to play'
@@ -1145,6 +1156,10 @@
       logo: './images/writing/deepnotes.png'
       slogan: 'Note taking made easy'
       link: 'https://www.deepnotes.in/'
+    - name: 'Effie'
+      logo: './images/writing/Effie.png'
+      slogan: 'Make Ideas Happen'
+      link: 'https://www.effie.pro/'
     - name: 'FSNotes'
       logo: './images/writing/FSNotes.png'
       slogan: 'Modern notes manager for macOS and iOS'
@@ -1201,6 +1216,10 @@
       logo: './images/writing/Paper.png'
       slogan: 'Collaborative document-editing software'
       link: 'https://www.dropbox.com/paper'
+    - name: 'Quick Note'
+      logo: './images/writing/QuickNote.png'
+      slogan: 'Sticky Notes in Menubar'
+      link: 'https://quicknoteapp.com/'
     - name: 'Quip'
       logo: './images/writing/Quip.png'
       slogan: 'Collaborative doc, sheets and slides'
