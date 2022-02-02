@@ -122,6 +122,10 @@
 
 - title: Bookmark
   items:
+    - name: 'Stationian'
+      logo: './images/bookmark/Stationian.png'
+      slogan: 'All-in-One Bookmark Companion'
+      link: 'https://www.stationian.com/'
     - name: 'Superdense'
       logo: './images/bookmark/Superdense.png'
       slogan: 'Bookmark manager for Minimalists and Web Junkies'
@@ -220,6 +224,14 @@
       logo: './images/calendar/Fantastical.png'
       slogan: 'The calendar and tasks app you wont be able to live without'
       link: 'https://flexibits.com/fantastical'
+    - name: 'Hera'
+      logo: './images/calendar/Hera.png'
+      slogan: 'The next generation of calendar apps'
+      link: 'https://www.hera.so/'
+    - name: 'Ready'
+      logo: './images/calendar/Ready.png'
+      slogan: 'The calendar you need to meet'
+      link: 'https://ready.so/'
     - name: 'Rise Calendar'
       logo: './images/calendar/RiseCalendar.png'
       slogan: 'a calendar that gives you clarity, direction and peace of mind'
@@ -243,14 +255,18 @@
 
 - title: Commemts
   items:
-    - name: 'Welcomments'
-      logo: './images/comment/Welcomments.png'
-      slogan: 'Pre-rendered static comments for Jekyll, Hugo, and more'
-      link: 'https://welcomments.io/'
     - name: 'Cusdis'
       logo: './images/comment/Cusdis.png'
       slogan: 'Lightweight, privacy-first, open-source comment system'
       link: 'https://cusdis.com/'
+    - name: 'hagrid'
+      logo: './images/comment/hagrid.png'
+      slogan: 'no-code user-generated FAQ, on any webpage'
+      link: 'https://hagrid.io/'
+    - name: 'Welcomments'
+      logo: './images/comment/Welcomments.png'
+      slogan: 'Pre-rendered static comments for Jekyll, Hugo, and more'
+      link: 'https://welcomments.io/'
 
 - title: Communication
   items:
@@ -418,6 +434,10 @@
       logo: './images/form/Jotform.png'
       slogan: 'Powerful forms get it done'
       link: 'https://www.jotform.com/'
+    - name: 'NotionForms'
+      logo: './images/form/NotionForms.png'
+      slogan: 'Create beautiful forms to fill your Notion tables'
+      link: 'https://notionforms.io/'
     - name: 'onSubmit'
       logo: './images/form/onSubmit.png'
       slogan: 'Functional forms without a backend'
@@ -999,6 +1019,13 @@
       slogan: 'the simplest way to send your files around the world'
       link: 'https://wetransfer.com/'
 
+- title: Sleep
+  items:
+    - name: 'Loóna'
+      logo: './images/sleep/Loóna.png'
+      slogan: 'Get in the right mood to sleep'
+      link: 'https://loona.app/'
+
 - title: Sync
   items:
     - name: 'Dropbox'
@@ -1130,6 +1157,13 @@
       slogan: '可视化团队协作工具'
       link: 'https://www.huiyizhuo.com/'
 
+- title: White Noise
+  items:
+    - name: 'Noisli'
+      logo: './images/whitenoise/Noisli.png'
+      slogan: 'Improve Focus and Boost Productivity with Background Sounds'
+      link: 'https://www.noisli.com/'
+
 - title: Note-Taking
   items:
     - name: 'Almanac'
@@ -1208,6 +1242,10 @@
       logo: './images/writing/Notejoy.png'
       slogan: 'Collaborative notes for you and your team'
       link: 'https://notejoy.com/'
+    - name: 'nototo'
+      logo: './images/writing/nototo.png'
+      slogan: 'Take notes and organize them in one visual space'
+      link: 'https://www.nototo.app/'
     - name: 'Outline'
       logo: './images/writing/Outline.png'
       slogan: 'Team wiki & knowledge base'
