@@ -124,7 +124,7 @@
   items:
     - name: 'Stationian'
       logo: './images/bookmark/Stationian.png'
-      slogan: 'All-in-One Bookmark Companion'
+      slogan: 'All in One Bookmark Companion'
       link: 'https://www.stationian.com/'
     - name: 'Superdense'
       logo: './images/bookmark/Superdense.png'
@@ -261,7 +261,7 @@
       link: 'https://cusdis.com/'
     - name: 'hagrid'
       logo: './images/comment/hagrid.png'
-      slogan: 'no-code user-generated FAQ, on any webpage'
+      slogan: 'user-generated FAQ, on any webpage'
       link: 'https://hagrid.io/'
     - name: 'Welcomments'
       logo: './images/comment/Welcomments.png'
@@ -1026,7 +1026,7 @@
 - title: Sleep
   items:
     - name: 'Loóna'
-      logo: './images/sleep/Loóna.png'
+      logo: './images/sleep/Loona.png'
       slogan: 'Get in the right mood to sleep'
       link: 'https://loona.app/'
 
