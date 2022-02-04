@@ -869,6 +869,10 @@
       logo: './images/pkm/Logseq.png'
       slogan: 'A privacy-first, open-source knowledge base'
       link: 'https://logseq.com/'
+    - name: 'mdSilo'
+      logo: './images/pkm/mdSilo.png'
+      slogan: 'a plain-text knowledge silo and a networked-writing app'
+      link: 'https://mdsilo.com/'
     - name: 'Mem'
       logo: './images/pkm/Mem.png'
       slogan: 'Your mind on tap'
@@ -1023,12 +1027,12 @@
       slogan: 'the simplest way to send your files around the world'
       link: 'https://wetransfer.com/'
 
-- title: Sleep
-  items:
-    - name: 'Loóna'
-      logo: './images/sleep/Loona.png'
-      slogan: 'Get in the right mood to sleep'
-      link: 'https://loona.app/'
+# - title: Sleep
+#   items:
+#     - name: 'Loóna'
+#       logo: './images/sleep/Loona.png'
+#       slogan: 'Get in the right mood to sleep'
+#       link: 'https://loona.app/'
 
 - title: Sync
   items:
