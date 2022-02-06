@@ -122,6 +122,10 @@
 
 - title: Bookmark
   items:
+    - name: 'Anybox'
+      logo: './images/bookmark/Anybox.png'
+      slogan: 'A modern bookmark manager. An essential productivity tool'
+      link: 'https://anybox.cc/en'
     - name: 'Stationian'
       logo: './images/bookmark/Stationian.png'
       slogan: 'All in One Bookmark Companion'
@@ -803,6 +807,14 @@
       logo: './images/outliner/Dynalist.png'
       slogan: 'The best outlining app for your best work'
       link: 'https://dynalist.io/#/'
+    - name: 'Workflowy'
+      logo: './images/outliner/Workflowy.png'
+      slogan: 'A simpler way to organize your work'
+      link: 'https://workflowy.com/
+    - name: 'Zavala'
+      logo: './images/outliner/Zavala.png'
+      slogan: 'Get Organized with Zavala'
+      link: 'https://zavala.vincode.io/'
 
 - title: Password
   items:
@@ -917,6 +929,10 @@
       logo: './images/pkm/TangentNotes.png'
       slogan: 'Your Brain, Your Notes'
       link: 'http://tangentnotes.com/'
+    - name: 'Weavit'
+      logo: './images/pkm/Weavit.png'
+      slogan: 'Capture your thoughts from anywhere'
+      link: 'https://www.weavit.ai/'
     - name: '元思笔记'
       logo: './images/pkm/元思笔记.png'
       slogan: '链接创造新世界'
@@ -1027,12 +1043,12 @@
       slogan: 'the simplest way to send your files around the world'
       link: 'https://wetransfer.com/'
 
-# - title: Sleep
-#   items:
-#     - name: 'Loóna'
-#       logo: './images/sleep/Loona.png'
-#       slogan: 'Get in the right mood to sleep'
-#       link: 'https://loona.app/'
+- title: Sleep
+  items:
+    - name: 'Loóna'
+      logo: './images/sleep/Loona.png'
+      slogan: 'Get in the right mood to sleep'
+      link: 'https://loona.app/'
 
 - title: Sync
   items:
@@ -1113,6 +1129,10 @@
       logo: './images/todo/MicrosoftToDo.png'
       slogan: 'Focus, from work to play'
       link: 'https://todo.microsoft.com/'
+    - name: 'Task Flow'
+      logo: './images/todo/TaskFlow.png'
+      slogan: 'Todo Lists and Tasks'
+      link: 'https://taskflowapp.com/'
     - name: 'Ticktick'
       logo: './images/todo/Ticktick.png'
       slogan: 'Todo list, checklist and task manager app'
@@ -1290,6 +1310,10 @@
       logo: './images/writing/Supernotes.png'
       slogan: 'The best collaborative note-taking app'
       link: 'https://supernotes.app/'
+    - name: 'TakeNote'
+      logo: './images/writing/TakeNote.png'
+      slogan: 'The Note Taking App for Developers'
+      link: 'https://takenote.dev/'
     - name: 'Tettra'
       logo: './images/writing/Tettra.png'
       slogan: 'Internal wiki & company knowledge base software'
