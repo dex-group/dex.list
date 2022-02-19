@@ -5825,7 +5825,7 @@ gatsby-page-utils@^2.7.0:
     lodash "^4.17.21"
     micromatch "^4.0.4"
 
-gatsby-plugin-canonical-urls@^4.6.0:
+gatsby-plugin-canonical-urls@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-4.7.0.tgz#11fcd22c89b531d37e9cbb0aa9c678017c6d128a"
   integrity sha512-4ZCLUVBoPESc99MO5mV4tyJ2TYoJe9ffGjEvJnYCfiHqQEZ5RoL6dyeSplUgEehEZi3HnDRTWAKB6xlZM7WOvw==
@@ -5848,7 +5848,7 @@ gatsby-plugin-emotion@^7.0.0:
     "@babel/runtime" "^7.15.4"
     "@emotion/babel-preset-css-prop" "^11.2.0"
 
-gatsby-plugin-gatsby-cloud@^4.6.0:
+gatsby-plugin-gatsby-cloud@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.7.0.tgz#8661fbbe49770fd8f39dcba0621b2be605cd7856"
   integrity sha512-3YjalMe3H/j7RGm5o3/dDVorVp6gg/K0hMXe9pGQxyzSwE1fUaHdYGda0fxYtnR2692yzzKbOfhYcL/B5IZ4dQ==
@@ -5882,7 +5882,7 @@ gatsby-plugin-image@^2.0.0:
     objectFitPolyfill "^2.3.5"
     prop-types "^15.7.2"
 
-gatsby-plugin-manifest@^4.6.0:
+gatsby-plugin-manifest@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-4.7.0.tgz#8ee8fcddec51154c04ccfab1e36f78e7880e3438"
   integrity sha512-jZsR7sqvJsxTm2J01ymPsCXlEoYw9duVQUR3oNy9VxHyuPOXctk2Cnp/vnWDZpQ6g+i7ha1RhyJEQgQEj1jhcQ==
@@ -5937,7 +5937,7 @@ gatsby-plugin-mdx@^3.0.0:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-plugin-offline@^5.6.0:
+gatsby-plugin-offline@^5.7.0:
   version "5.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-5.7.0.tgz#dd5c317a848c3bf7e200ddfefd6872f2e0c9c998"
   integrity sha512-0mkXsDiJxSDMgKGQUWqMXG5w0XFvojPqTHvZ3FAY5kFfqUwJ+JbA/XY5D5BGuSnU2P/pOUhcXlcg2hHtJ5NATQ==
@@ -6016,7 +6016,7 @@ gatsby-plugin-sharp@^4.0.0:
     svgo "1.3.2"
     uuid "3.4.0"
 
-gatsby-plugin-sitemap@^5.6.0:
+gatsby-plugin-sitemap@^5.7.0:
   version "5.7.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-5.7.0.tgz#87ab72f9acfac31dcd8f25ad0fb6afe5a2c221fa"
   integrity sha512-53l+SXOHYp2Bt/8sK0DfLRjGq+K63qQGAPJksv1qC3soDNNe+TlKxmzM7JksACLzDVUkFVQYrvmS2RvMfivqeA==
