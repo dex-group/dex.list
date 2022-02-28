@@ -1602,6 +1602,10 @@
       logo: './images/illustration/Vektors.png'
       slogan: 'Find free illustration packs for websites'
       link: 'https://www.vektors.pro/'
+    - name: '小洋丁插画'
+      logo: './images/illustration/小洋丁插画.png'
+      slogan: '为设计师带来更高效的工作方式'
+      link: 'https://xiaonail.com/dist/#/'
 
 - id: image
   title: Image Edit
@@ -1646,6 +1650,10 @@
       logo: './images/image/PNGTAB.png'
       slogan: 'Free transparent PNG images for everyone'
       link: 'https://pngtab.com/'
+    - name: 'Squoosh'
+      logo: './images/image/Squoosh.png'
+      slogan: 'the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser'
+      link: 'https://squoosh.app/'
     - name: '图压'
       logo: './images/image/图压.png'
       slogan: '简单易用的图片压缩软件'
@@ -2291,6 +2299,10 @@
       logo: './images/onlinecourse/UIFoundations.png'
       slogan: 'Learn to Build Beautiful UIs'
       link: 'https://www.uifoundations.com/'
+    - name: 'User Experience Database'
+      logo: './images/onlinecourse/UserExperienceDatabase.png'
+      slogan: 'Free learning & product design database'
+      link: 'https://www.uxdatabase.io/'
     - name: 'UX buddy'
       logo: './images/onlinecourse/UXbuddy.png'
       slogan: 'Get a better UX job'
