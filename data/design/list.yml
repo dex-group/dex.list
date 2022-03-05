@@ -391,6 +391,10 @@
       logo: './images/color/HtmlColors.png'
       slogan: 'Get your Html Color codes'
       link: 'https://htmlcolors.com/'
+    - name: 'Huemint'
+      logo: './images/color/Huemint.png'
+      slogan: 'AI color palette generator'
+      link: 'https://huemint.com/'
     - name: 'HueSnap'
       logo: './images/color/huesnap.png'
       slogan: 'Create and share color palettes'
@@ -431,6 +435,10 @@
       logo: './images/color/mymind.png'
       slogan: "Mindfully curated color palettes"
       link: 'https://access.mymind.com/colors'
+    - name: 'Open Source Color System'
+      logo: './images/color/OpenSourceColorSystem.png'
+      slogan: "Simple Color System for Complex Digital Interfaces"
+      link: 'https://www.opensourcecolorsystem.design/'
     - name: 'Palettte App'
       logo: './images/color/Palettte.png'
       slogan: 'Create and edit smooth color palettes'
