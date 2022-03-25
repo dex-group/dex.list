@@ -1189,6 +1189,21 @@
       logo: './images/todo/Todoist.png'
       slogan: 'The to do list to organize work & life'
       link: 'https://todoist.com/'
+    - name: 'Wando'
+      logo: './images/todo/Wando.png'
+      slogan: 'From one to zen'
+      link: 'https://www.wando.app/'
+
+- title: Visual Tools
+  items:
+    - name: 'Kosmik'
+      logo: './images/visual/Kosmik.png'
+      slogan: 'The Visual Tool for Thought'
+      link: 'https://www.kosmik.app/'
+    - name: 'Muse'
+      logo: './images/visual/Muse.png'
+      slogan: 'your tool for thought'
+      link: 'https://museapp.com/'
 
 - title: Whiteboard
   items:
@@ -1282,6 +1297,10 @@
       logo: './images/writing/GoogleDocs.png'
       slogan: 'Free online document for personal use'
       link: 'https://docs.google.com/'
+    - name: 'Hints'
+      logo: './images/writing/Hints.png'
+      slogan: 'Valuable info is quickly captured and self-organized in one app'
+      link: 'https://hints.so/'
     - name: 'Journal'
       logo: './images/writing/Journal.png'
       slogan: 'Make space for your ideas to run wild'
