@@ -479,6 +479,10 @@
       logo: './images/color/stark.png'
       slogan: "Accessible ethical and inclusive"
       link: 'https://www.getstark.co/'
+    - name: 'Super designer'
+      logo: './images/color/Superdesigner.png'
+      slogan: "Design tools that give you super powers"
+      link: 'https://superdesigner.co/'
     - name: 'Tint and Shade Generator'
       logo: './images/color/TintandShadeGenerator.png'
       slogan: "produce tints and shades"
@@ -739,6 +743,10 @@
       logo: './images/designsystem/fusiondesign.png'
       slogan: 'Design System by Alibaba'
       link: 'http://fusion.design/'
+    - name: 'Gestalt'
+      logo: './images/designsystem/Gestalt.png'
+      slogan: 'Design System by Pinterest'
+      link: 'https://gestalt.pinterest.systems/home'
     - name: 'Helsinki Design System'
       logo: './images/designsystem/Helsinki.png'
       slogan: 'The open-source design system for digital products and experiences'
@@ -2976,6 +2984,10 @@
       logo: './images/svg/PatternMonster.png'
       slogan: 'SVG Pattern Generator'
       link: 'https://pattern.monster/'
+    - name: 'Sine wave SVG generator'
+      logo: './images/svg/Sinewave.png'
+      slogan: 'Sine wave SVG generator'
+      link: 'https://www.sinwaver.com/'
     - name: 'Squircley'
       logo: './images/svg/Squircley.png'
       slogan: 'SVG Squircle Maker'
