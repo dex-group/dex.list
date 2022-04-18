@@ -27,7 +27,7 @@
     "gatsby-plugin-manifest": "^4.11.1",
     "gatsby-plugin-offline": "^5.11.1",
     "gatsby-plugin-plausible": "^0.0.7",
-    "gatsby-plugin-robots-txt": "^1.7.0",
+    "gatsby-plugin-robots-txt": "^1.7.1",
     "gatsby-plugin-sitemap": "^5.11.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
