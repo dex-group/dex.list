@@ -22,15 +22,14 @@
     "@dexgroup/gatsby-theme-dexlist-icon": "^4.1.0",
     "@dexgroup/gatsby-theme-dexlist-tools": "^4.1.0",
     "gatsby": "^4.7.2",
-    "gatsby-plugin-canonical-urls": "^4.11.0",
-    "gatsby-plugin-gatsby-cloud": "^4.11.1",
-    "gatsby-plugin-manifest": "^4.11.1",
-    "gatsby-plugin-offline": "^5.11.1",
+    "gatsby-plugin-canonical-urls": "^4.13.0",
+    "gatsby-plugin-gatsby-cloud": "^4.13.0",
+    "gatsby-plugin-manifest": "^4.13.0",
+    "gatsby-plugin-offline": "^5.13.0",
     "gatsby-plugin-plausible": "^0.0.7",
-    "gatsby-plugin-robots-txt": "^1.7.0",
-    "gatsby-plugin-sitemap": "^5.11.1",
+    "gatsby-plugin-robots-txt": "^1.7.1",
+    "gatsby-plugin-sitemap": "^5.13.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "typeface-dm-serif-display": "^1.1.13"
+    "react-dom": "^18.0.0"
   }
 }
