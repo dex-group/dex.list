@@ -1945,6 +1945,10 @@
       logo: './images/library/Milanote.png'
       slogan: 'The tool for organizing creative projects'
       link: 'https://milanote.com/'
+    - name: 'MuseDAM'
+      logo: './images/library/MuseDAM.png'
+      slogan: '设计师的云端数字资产管理系统'
+      link: 'https://dam.musetransfer.com/landing'
     - name: 'mymind'
       price: '$100/yr'
       logo: './images/library/mymind.png'
@@ -2072,6 +2076,14 @@
       logo: './images/mockup/uizard.png'
       slogan: 'Turn wireframes to design and code.'
       link: 'https://uizard.io/'
+
+- id: moodboard
+  title: Moodboard
+  item:
+    - name: 'set.new'
+      logo: './images/moodboard/set.png'
+      slogan: 'Free and easy moodboarding with Visualist'
+      link: 'https://set.visualistapp.com/'
 
 - id: motion
   title: Motions
@@ -2435,6 +2447,10 @@
       logo: './images/photo/burst.png'
       slogan: 'Free Stock Photos'
       link: 'https://burst.shopify.com/'
+    - name: 'Depositphotos'
+      logo: './images/photo/Depositphotos.png'
+      slogan: 'Royalty-free Stock Photos, Vector Images, Videos and Music'
+      link: 'https://depositphotos.com/'
     - name: 'Diverse UI'
       logo: './images/photo/DiverseUI.png'
       slogan: 'a free collection of diverse images'
