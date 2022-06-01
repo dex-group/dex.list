@@ -388,6 +388,10 @@
       logo: './images/documents/ShowDoc.png'
       slogan: '一个非常适合 IT 团队的 API 文档技术文档工具'
       link: 'https://www.showdoc.com.cn/'
+    - name: 'Theneo'
+      logo: './images/documents/Theneo.png'
+      slogan: 'High-Quality & Interactive API Docs'
+      link: 'https://www.theneo.io/'
 
 - title: Feedback
   items:
