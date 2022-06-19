@@ -264,6 +264,10 @@
       logo: './images/calendar/SavvyCal.png'
       slogan: 'Scheduling Software Your Recipients Will Love'
       link: 'https://savvycal.com/'
+    - name: 'Routine'
+      logo: './images/calendar/Routine.png'
+      slogan: 'Productivity App for macOS & iOS'
+      link: 'https://www.routine.co/'
     - name: 'TimeTree'
       logo: './images/calendar/TimeTree.png'
       slogan: 'Connect your moments. Connect to the future'
@@ -652,6 +656,10 @@
 
 - title: Markdown
   items:
+    - name: 'Arya'
+      logo: './images/markdown/Arya.png'
+      slogan: '在线 Markdown 编辑器'
+      link: 'https://markdown.lovejade.cn/'
     - name: 'Bear'
       logo: './images/markdown/Bear.png'
       slogan: 'Private Markdown Notes for iPhone, iPad and Mac'
@@ -708,6 +716,10 @@
       logo: './images/markdown/Writty.png'
       slogan: 'A minimalist writing app to help you focus on what matters'
       link: 'https://writtyapp.com/'
+    - name: '妙言'
+      logo: './images/markdown/妙言.png'
+      slogan: '轻灵的 Markdown 笔记本'
+      link: 'https://miaoyan.vercel.app/'
 
 - title: Marketing
   items:
@@ -793,6 +805,10 @@
       logo: './images/mindmap/Plectica.png'
       slogan: 'Visual Mapping Software'
       link: 'https://www.plectica.com/'
+    - name: 'Scapple'
+      logo: './images/mindmap/Scapple.png'
+      slogan: 'a virtual sheet of paper that lets you make notes anywhere and connect them using lines or arrows'
+      link: 'https://www.literatureandlatte.com/scapple/overview'
     - name: 'SimpleMind'
       logo: './images/mindmap/SimpleMind.png'
       slogan: 'World leader in cross-platform Mind Mapping'
@@ -1529,6 +1545,10 @@
       logo: './images/writing/Walling.png'
       slogan: 'Visual Walls to Collect Ideas & Plot out Projects'
       link: 'https://walling.app/'
+    - name: 'WonderPen'
+      logo: './images/writing/WonderPen.png'
+      slogan: '妙笔是一款专业的写作软件，致力于为写作者们提供专注且流畅的写作体验'
+      link: 'https://www.tominlab.com/wonderpen'
     - name: 'Zettlr'
       logo: './images/writing/Zettlr.png'
       slogan: 'A Markdown Editor for the 21st Century'
