@@ -217,6 +217,10 @@
       logo: './images/browser/Vivaldi.png'
       slogan: 'Now with built-in Translate, Mail, and Calendar'
       link: 'https://vivaldi.com/'
+    - name: 'Whist'
+      logo: './images/browser/Whist.png'
+      slogan: 'The no-compromise browser'
+      link: 'https://www.whist.com/'
 
 - title: Calendar
   items:
@@ -447,6 +451,10 @@
       logo: './images/feedback/Gleap.png'
       slogan: 'All-in-one customer feedback tool'
       link: 'https://gleap.io/'
+    - name: 'Grabee'
+      logo: './images/feedback/Grabee.png'
+      slogan: 'User Feedback, Roadmap and Changelog Tool'
+      link: 'https://grabee.com/'
     - name: 'MessageBird'
       logo: './images/feedback/MessageBird.png'
       slogan: 'Zero friction, omnichannel communication'
@@ -680,6 +688,10 @@
       logo: './images/markdown/Deepdwn.png'
       slogan: 'Markdown editor and organizer'
       link: 'https://billiam.itch.io/deepdwn'
+    - name: 'Dillinger'
+      logo: './images/markdown/Dillinger.png'
+      slogan: 'the Last Markdown Editor ever'
+      link: 'https://dillinger.io/'
     - name: 'HackMD'
       logo: './images/markdown/HackMD.png'
       slogan: 'Get everyone on the same page with Markdown'
@@ -1127,6 +1139,14 @@
       logo: './images/presentations/Dekks.png'
       slogan: 'Next Generation Presentations'
       link: 'https://dekks.app/'
+    - name: 'Dropdeck'
+      logo: './images/presentations/Dropdeck.png'
+      slogan: 'Magically create beautiful slides'
+      link: 'https://www.dropdeck.com/'
+    - name: 'Gamma'
+      logo: './images/presentations/Gamma.png'
+      slogan: 'Write like a doc, Present like a deck'
+      link: 'https://gamma.app/'
     - name: 'Hyperdeck'
       logo: './images/presentations/Hyperdeck.png'
       slogan: 'Markdown Presentations for iPad and macOS'
@@ -1425,6 +1445,10 @@
 
 - title: Note-Taking
   items:
+    - name: 'AFFiNE'
+      logo: './images/writing/AFFiNE.png'
+      slogan: 'All In One Workos'
+      link: 'https://almanac.io/'
     - name: 'Almanac'
       logo: './images/writing/Almanac.png'
       slogan: 'Transform the way you work in docs'
