@@ -479,6 +479,10 @@
       logo: './images/feedback/UserFace.png'
       slogan: 'Get instant feedback from your users'
       link: 'https://userface.com/'
+    - name: 'Zeda.io'
+      logo: './images/feedback/Zeda.png'
+      slogan: 'Super app for Product teams'
+      link: 'https://zeda.io/'
 
 - title: Form
   items:
@@ -681,6 +685,10 @@
       logo: './images/management/Trello.png'
       slogan: 'the visual collaboration tool'
       link: 'https://trello.com/'
+    - name: 'Weekrise'
+      logo: './images/management/Weekrise.png'
+      slogan: 'A calendar for your tasks'
+      link: 'https://weekrise.com/'
 
 - title: Markdown
   items:
@@ -1521,6 +1529,10 @@
       logo: './images/writing/Kanopi.png'
       slogan: 'A better place to think'
       link: 'https://kanopi.io/'
+    - name: 'Kludd'
+      logo: './images/writing/Kludd.png'
+      slogan: 'Write together'
+      link: 'https://kludd.co/'
     - name: 'MeisterNote'
       logo: './images/writing/MeisterNote.png'
       slogan: 'Collaborative Documentation for Teams'

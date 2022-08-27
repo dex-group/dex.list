@@ -178,6 +178,18 @@
       slogan: 'Books by UXPin'
       link: 'https://www.uxpin.com/studio/ebooks/'
 
+- id: branding
+  title: Branding
+  item:
+    - name: 'Duolingo'
+      logo: './images/branding/Duolingo.png'
+      slogan: 'Brand Guidelines'
+      link: 'https://design.duolingo.com/'
+    - name: 'Zapier'
+      logo: './images/branding/Zapier.png'
+      slogan: 'Zapier Brand'
+      link: 'https://brand.zapier.com/'
+
 - id: collection
   title: Collections
   item:
@@ -1370,6 +1382,10 @@
       logo: './images/icon/iconslate.png'
       slogan: 'Compose import and export icons.'
       link: 'https://www.kodlian.com/apps/icon-slate'
+    - name: 'Anron'
+      logo: './images/icon/Anron.png'
+      slogan: 'Flexible Figma icons in multiple styles'
+      link: 'https://www.anron.pro/'
     - name: 'Basicons'
       logo: './images/icon/Basicons.png'
       slogan: 'Basic icons for product design & development'
