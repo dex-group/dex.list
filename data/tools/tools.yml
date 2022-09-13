@@ -621,6 +621,10 @@
 
 - title: Management
   items:
+    - name: 'airfocus'
+      logo: './images/management/airfocus.png'
+      slogan: 'Strategic Product Management Platform'
+      link: 'https://airfocus.com/'
     - name: 'Asana'
       logo: './images/management/Asana.png'
       slogan: 'Make more time for the work that matters most'
@@ -1415,6 +1419,10 @@
       logo: './images/whiteboard/BentoJam.png'
       slogan: 'An Anonymous Space With Whiteboard'
       link: 'https://jam.makebento.app/'
+    - name: 'BoardMix'
+      logo: './images/whiteboard/BoardMix.png'
+      slogan: '博思白板，多人实时协作的流程图，思维导图免费工具'
+      link: 'https://boardmix.cn/'
     - name: 'BoardOS'
       logo: './images/whiteboard/BoardOS.png'
       slogan: '在线实时白板协作系统'
