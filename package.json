@@ -22,13 +22,13 @@
     "@dexgroup/gatsby-theme-dexlist-icon": "^4.1.0",
     "@dexgroup/gatsby-theme-dexlist-tools": "^4.1.0",
     "gatsby": "^4.7.2",
-    "gatsby-plugin-canonical-urls": "^4.23.0",
-    "gatsby-plugin-gatsby-cloud": "^4.23.1",
-    "gatsby-plugin-manifest": "^4.23.1",
-    "gatsby-plugin-offline": "^5.23.1",
+    "gatsby-plugin-canonical-urls": "^4.24.0",
+    "gatsby-plugin-gatsby-cloud": "^4.24.0",
+    "gatsby-plugin-manifest": "^4.24.0",
+    "gatsby-plugin-offline": "^5.24.0",
     "gatsby-plugin-plausible": "^0.0.7",
     "gatsby-plugin-robots-txt": "^1.7.1",
-    "gatsby-plugin-sitemap": "^5.23.1",
+    "gatsby-plugin-sitemap": "^5.24.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
