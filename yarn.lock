@@ -6108,7 +6108,7 @@ gatsby-parcel-config@0.15.1:
     "@parcel/transformer-js" "2.6.2"
     "@parcel/transformer-json" "2.6.2"
 
-gatsby-plugin-canonical-urls@^4.23.0:
+gatsby-plugin-canonical-urls@^4.24.0:
   version "4.24.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-4.24.0.tgz#e90363d69e8657e3e4470392be1bb6d0b689b69d"
   integrity sha512-EidU+iXmMYBeICCgDq1O+K5zlydW3bN+z1PlJSEF5ihXeCqduf4brP+yEEtIn4myJ68yh4WJe4UAjpTl3XH/Cw==
@@ -6131,10 +6131,10 @@ gatsby-plugin-emotion@^7.7.0:
     "@babel/runtime" "^7.15.4"
     "@emotion/babel-preset-css-prop" "^11.2.0"
 
-gatsby-plugin-gatsby-cloud@^4.23.1:
-  version "4.24.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.24.0.tgz#c011b847fcdf6ceb898d36989b2012252f9f7436"
-  integrity sha512-DTYhFkOmhRnFD0AY7faPjESVnWW662yIbk9p3pjZ0Qo1HPbDoZFE1hmv4mfv+E5JrUUof8vq4lM1poW554yc8g==
+gatsby-plugin-gatsby-cloud@^4.24.1:
+  version "4.24.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.24.1.tgz#a4148bfc3ba17e192f39f8cf6a87d7446c8fe8b0"
+  integrity sha512-ss6axQQ5fzIrHAdPsiBhGssy9d7XrDeJl6rUpXTyDV8RbQmniNm6BAhJ/cEQ2fo0xAhjwk/0rSQj54b0s2fdgQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
     fs-extra "^10.1.0"
@@ -6164,7 +6164,7 @@ gatsby-plugin-image@^2.7.0:
     objectFitPolyfill "^2.3.5"
     prop-types "^15.8.1"
 
-gatsby-plugin-manifest@^4.23.1:
+gatsby-plugin-manifest@^4.24.0:
   version "4.24.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-4.24.0.tgz#ad537b48f9fb8e7c93234945a4889ecf3c099f66"
   integrity sha512-xlpJMNALNozeC0lIspQQZw68qi4pE1nhgPfsLiUtAc5CLihm2LNbGLAKcYHCXwudRHo5Hvp6Xi4VOwtMkRKwmQ==
@@ -6219,7 +6219,7 @@ gatsby-plugin-mdx@^3.7.1:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-plugin-offline@^5.23.1:
+gatsby-plugin-offline@^5.24.0:
   version "5.24.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-5.24.0.tgz#f866ffa9e138395e3d8dd675801087f3da781561"
   integrity sha512-NiTLxlFOQSpBz7ZXYEtQB1GQOGoO9Xzg/COUkGXoCKlVW84EzXLRiyc01lZcdBk125maE3L8ZAqsql2k8smxLA==
@@ -6295,7 +6295,7 @@ gatsby-plugin-sharp@^4.7.0:
     sharp "^0.30.7"
     svgo "^2.8.0"
 
-gatsby-plugin-sitemap@^5.23.1:
+gatsby-plugin-sitemap@^5.24.0:
   version "5.24.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-5.24.0.tgz#a0c1b81df6ee3ae63a84c82dff7e2fb14019ca04"
   integrity sha512-6bMA/JRgV2VtQj2XqtZmaCRSqwCVd1a3MbZMT8irZDzmQyM4cz25vu8XWnrCLWJe72NyB97oL0y/9WWxQ/61SA==
