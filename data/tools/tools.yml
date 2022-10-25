@@ -153,6 +153,14 @@
 
 - title: Browser
   items:
+    - name: 'Arc'
+      logo: './images/browser/Arc.png'
+      slogan: 'Arc from The Browser Company'
+      link: 'https://arc.net/'
+    - name: 'Beam'
+      logo: './images/browser/Beam.png'
+      slogan: 'Meet the bright web'
+      link: 'https://beamapp.co/'
     - name: 'Bonsai'
       logo: './images/browser/Bonsai.png'
       slogan: 'Web Browser for Research'
@@ -205,10 +213,6 @@
       logo: './images/browser/Synth.png'
       slogan: 'Browser From The Future'
       link: 'https://synth.app/'
-    - name: 'The Browser Company'
-      logo: './images/browser/TheBrowserCompany.png'
-      slogan: 'building a better way to use the internet'
-      link: 'https://thebrowser.company/'
     - name: 'URSOR'
       logo: './images/browser/URSOR.png'
       slogan: 'Unlocking the creative power of the Internet for kids today and tomorrow'
@@ -596,7 +600,7 @@
   items:
     - name: 'Consider'
       logo: './images/mail/Consider.png'
-      slogan: 'Your company’s email, reimagined for today'
+      slogan: 'Your company's email, reimagined for today'
       link: 'https://www.consider.co/'
     - name: 'Front'
       logo: './images/mail/Front.png'
