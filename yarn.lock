@@ -6126,7 +6126,7 @@ gatsby-plugin-emotion@^7.7.0:
     "@babel/runtime" "^7.15.4"
     "@emotion/babel-preset-css-prop" "^11.2.0"
 
-gatsby-plugin-gatsby-cloud@^4.24.0:
+gatsby-plugin-gatsby-cloud@^4.24.1:
   version "4.24.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.24.1.tgz#a4148bfc3ba17e192f39f8cf6a87d7446c8fe8b0"
   integrity sha512-ss6axQQ5fzIrHAdPsiBhGssy9d7XrDeJl6rUpXTyDV8RbQmniNm6BAhJ/cEQ2fo0xAhjwk/0rSQj54b0s2fdgQ==
@@ -6469,10 +6469,10 @@ gatsby-worker@^1.24.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^4.7.2:
-  version "4.24.5"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.24.5.tgz#1c8612d142127154691812853e9e09edea5d4d08"
-  integrity sha512-f47r+RQldDkBpmcQqixmvafwEqUNUKvtmov+n04uCKOdfkuiiSMPm2pGAWx3vesfut2Kf7nIVgZLZz9sRjXqKA==
+gatsby@^4.24.7, gatsby@^4.7.2:
+  version "4.24.7"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.24.7.tgz#51036aed3df01ed2c403b6cb88512d8a820ab0e8"
+  integrity sha512-9eA80r0T618fdgdbNa/xuxJpsl0sPD2HBflPC18zNqhwCrboEXe057/VU2DUnQfqrgRislCAf8XDVTjgFXjbbQ==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
@@ -6574,6 +6574,7 @@ gatsby@^4.7.2:
     graphql "^15.7.2"
     graphql-compose "^9.0.7"
     graphql-playground-middleware-express "^1.7.22"
+    graphql-tag "^2.12.6"
     hasha "^5.2.2"
     invariant "^2.2.4"
     is-relative "^1.0.0"
@@ -6858,7 +6859,7 @@ graphql-playground-middleware-express@^1.7.22:
   dependencies:
     graphql-playground-html "^1.6.30"
 
-graphql-tag@^2.11.0:
+graphql-tag@^2.11.0, graphql-tag@^2.12.6:
   version "2.12.6"
   resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.12.6.tgz#d441a569c1d2537ef10ca3d1633b48725329b5f1"
   integrity sha512-FdSNcu2QQcWnM2VNvSCCDCVS5PpPqpzgFT8+GXzqJuoDd0CBncxCY278u4mhRO7tMgo2JjgJA5aZ+nWSQ/Z+xg==
