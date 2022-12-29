@@ -1414,6 +1414,10 @@
 
 - title: Time Tracking
   items:
+    - name: 'Balance'
+      logo: './images/timetracking/Balance.png'
+      slogan: 'A time tracking app with focus on work-life balance'
+      link: 'https://alexandersandberg.com/apps/balance/'
     - name: 'Clockify'
       logo: './images/timetracking/Clockify.png'
       slogan: '100% Free Time Tracking Software'
