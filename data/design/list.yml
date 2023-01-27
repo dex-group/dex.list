@@ -563,6 +563,10 @@
       logo: './images/color/Tinter.png'
       slogan: "Generate color image variations"
       link: 'https://tinter.uxie.io/'
+    - name: 'Tone'
+      logo: './images/color/Tone.png'
+      slogan: "Color Inspiration"
+      link: 'https://t-o-n-e.com/'
     - name: 'Two Colo rCombinations'
       logo: './images/color/TwoColorCombinations.png'
       slogan: "find hand picked combinations of 2 colors that look good together"
@@ -2268,6 +2272,10 @@
       logo: './images/logo/Hatchful.png'
       slogan: 'Free Logo Generator Online'
       link: 'https://hatchful.shopify.com/'
+    - name: 'Logggos'
+      logo: './images/logo/Logggos.png'
+      slogan: 'Well-Designed Logos for Your Inspiration'
+      link: 'https://www.logggos.club/'
     - name: 'LogoArchive'
       logo: './images/logo/LogoArchive.png'
       slogan: 'the first purpose-built historical logo archive and research tool'
