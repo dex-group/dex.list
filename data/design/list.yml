@@ -2098,7 +2098,11 @@
       logo: './images/inspiration/No-CodeSupplyCo.png'
       slogan: "A digital general store of hand-picked, no-code goods"
       link: 'https://www.nocodesupply.co/'
-    - name: 'OGimage.gallery '
+    - name: 'Nocode Gallery '
+      logo: './images/inspiration/NocodeGallery.png'
+      slogan: "A collection of stunning websites made with no code"
+      link: 'https://nocode.gallery/'
+    - name: 'OGimage Gallery '
       logo: './images/inspiration/OGimage.png'
       slogan: "The finest hand-picked OG Images"
       link: 'https://www.ogimage.gallery/'
@@ -3713,6 +3717,10 @@
       logo: './images/videocourse/DesigningAppIcons.png'
       slogan: 'Deisign App Icons by Michael Flarup'
       link: 'https://applypixels.com/class/designing-app-icons'
+    - name: 'Dive'
+      logo: './images/videocourse/Dive.png'
+      slogan: 'Where the best designers never stop learning'
+      link: 'https://www.dive.club/'
     - name: 'Figma Tutorials'
       logo: './images/videocourse/figma.png'
       slogan: 'Figma course on Youtube'
