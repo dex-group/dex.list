@@ -697,6 +697,10 @@
       logo: './images/management/Columns.png'
       slogan: 'checklists arranged in columns'
       link: 'https://columns.app/'
+    - name: 'emery'
+      logo: './images/management/emery.png'
+      slogan: 'the personal daily planner for busy professionals'
+      link: 'https://emery.to/'
     - name: 'Fibery'
       logo: './images/management/Fibery.png'
       slogan: 'Freedom to work your way'
@@ -948,6 +952,10 @@
 
 - title: Newsletter
   items:
+    - name: 'beehiiv'
+      logo: './images/newsletter/beehiiv.png'
+      slogan: 'The newsletter platform built for growth'
+      link: 'https://www.beehiiv.com/'
     - name: 'Benchmark Email'
       logo: './images/newsletter/BenchmarkEmail.png'
       slogan: 'Email marketing that wont slow you down'
@@ -1391,6 +1399,10 @@
 
 - title: Table
   items:
+    - name: 'APITable'
+      logo: './images/table/APITable.png'
+      slogan: 'Open source no-code database and Airtable alternative'
+      link: 'https://apitable.com/'
     - name: 'Causal'
       logo: './images/table/Causal.png'
       slogan: 'your new spreadsheet for working with numbers'
