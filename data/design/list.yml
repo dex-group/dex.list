@@ -324,6 +324,10 @@
       logo: './images/color/AdobeColorCC.png'
       slogan: 'Colour palette generator'
       link: 'https://color.adobe.com/create/color-wheel/'
+    - name: 'AI Colors'
+      logo: './images/color/AIColors.png'
+      slogan: 'Generate palettes from a text prompt'
+      link: 'https://aicolors.co/'
     - name: 'Alembic'
       logo: './images/color/Alembic.png'
       slogan: 'Extract a color palette from Sketch'
@@ -2006,6 +2010,10 @@
       logo: './images/inspiration/Behance.png'
       slogan: 'Showcase & Discover Creative Work'
       link: 'https://behance.net/'
+    - name: 'BentoGrids'
+      logo: './images/inspiration/BentoGrids.png'
+      slogan: 'a curated collection of bento designs for your inspiration'
+      link: 'https://bentogrids.com/'
     - name: 'BP&O'
       logo: './images/inspiration/bpando.png'
       slogan: 'Branding, Packaging and Opinion'
@@ -2352,6 +2360,10 @@
 - id: mockup
   title: Mockups
   item:
+    - name: '099'
+      logo: './images/mockup/099.png'
+      slogan: 'Create the perfect photographic look and feel for your product'
+      link: 'https://099.supply/'
     - name: 'Angle'
       logo: './images/mockup/angle.png'
       slogan: '1000 Device Mockups'
