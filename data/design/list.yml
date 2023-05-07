@@ -863,6 +863,10 @@
       logo: './images/designsystem/Gestalt.png'
       slogan: 'Design System by Pinterest'
       link: 'https://gestalt.pinterest.systems/home'
+    - name: 'H Design'
+      logo: './images/designsystem/HDesign.png'
+      slogan: 'Design System by HuaWei'
+      link: 'https://hdesign.huawei.com/'
     - name: 'Helsinki Design System'
       logo: './images/designsystem/Helsinki.png'
       slogan: 'The open-source design system for digital products and experiences'
@@ -2980,6 +2984,10 @@
 - id: pattern
   title: Patterns
   item:
+    - name: 'AI Color Palette Generator'
+      logo: './images/pattern/AIColorPalette.png'
+      slogan: 'Live Preview Colors on Real Designs'
+      link: 'https://palettemaker.com/'
     - name: 'PatternGenerator'
       logo: './images/pattern/DOODAD-PatternGenerator.png'
       slogan: 'Create Seamless, Royalty-Free Patterns'
