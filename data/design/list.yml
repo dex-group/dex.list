@@ -1328,6 +1328,10 @@
       logo: './images/gradient/GradientGenerator.png'
       slogan: 'Create Beautiful, Smooth Gradients'
       link: 'https://learnui.design/tools/gradient-generator.html'
+    - name: 'Gradient Generator'
+      logo: './images/gradient/GradientGenerator2.png'
+      slogan: 'Create advanced CSS gradients'
+      link: 'https://ggradient.com/'
     - name: 'Gradientify'
       logo: './images/gradient/Gradientify.png'
       slogan: 'Web based all-in-one Gradient editor'
@@ -1566,6 +1570,10 @@
       logo: './images/icon/IconBrew.png'
       slogan: 'open source icon pack'
       link: 'https://iconbrew.com/'
+    - name: 'Iconbuddy'
+      logo: './images/icon/Iconbuddy.png'
+      slogan: '180K+ open source icons'
+      link: 'https://iconbuddy.app/'
     - name: 'Iconduck'
       logo: './images/icon/Iconduck.png'
       slogan: 'Free open source icons, illustrations and graphics'
@@ -2376,6 +2384,10 @@
 - id: logo
   title: Logo
   item:
+    - name: 'AI Logo Art'
+      logo: './images/logo/AILogoArt.png'
+      slogan: 'Transform your logos into stunning art with AI'
+      link: 'https://ailogoart.com/'
     - name: 'Fiverr'
       logo: './images/logo/Fiverr.png'
       slogan: 'Create Your Logo in 5 Minutes'
