@@ -1827,7 +1827,7 @@
       link: 'https://smarkup.com/'
     - name: 'Stashpad'
       logo: './images/writing/Stashpad.png'
-      slogan: 'A new way to take notes'
+      slogan: 'The notes app for your working memory'
       link: 'https://www.stashpad.com/'
     - name: 'Supernotes'
       logo: './images/writing/Supernotes.png'
