@@ -1806,6 +1806,10 @@
       logo: './images/icon/xicons.png'
       slogan: 'Icons for Vue & React'
       link: 'https://www.xicons.org/'
+    - name: 'Yesicon'
+      logo: './images/icon/Yesicon.png'
+      slogan: 'Curated High-Quality, Open-Source, and Free Vector Icons'
+      link: 'https://yesicon.app/'
 
 - id: illustration
   title: Illustration
@@ -2114,6 +2118,10 @@
       logo: './images/inspiration/dribbble.png'
       slogan: 'Discover the Worlds Top Designers'
       link: 'https://dribbble.com/'
+    - name: 'Dutch Digital Design'
+      logo: './images/inspiration/DutchDigitalDesign.png'
+      slogan: 'shares the best interactive work created by designers, brands and agencies from the Netherlands'
+      link: 'https://www.dutchdigital.design/'
     - name: 'Ello'
       logo: './images/inspiration/Ello.png'
       slogan: 'The Creators Network'
@@ -2270,6 +2278,10 @@
       logo: './images/inspiration/scrnshts.png'
       slogan: 'A hand-picked collection of the finest app store design screenshots'
       link: 'https://scrnshts.club/'
+    - name: 'SEESAW'
+      logo: './images/inspiration/SEESAW.png'
+      slogan: 'Curation of the best web design inspiration, updated daily'
+      link: 'https://www.seesaw.website/'
     - name: 'Showreelz'
       logo: './images/inspiration/Showreelz.png'
       slogan: 'Video and Motion Design Inspiration'
