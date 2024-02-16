@@ -1307,6 +1307,10 @@
 
 - title: Presentations
   items:
+    - name: 'deckd'
+      logo: './images/presentations/deckd.png'
+      slogan: 'a better way to build presentations'
+      link: 'https://www.deckd.io/'
     - name: 'DeckDeckGo'
       logo: './images/presentations/DeckDeckGo.png'
       slogan: 'Create, present and share slides that interact with your audience'
@@ -1517,6 +1521,10 @@
       logo: './images/todo/Anydo.png'
       slogan: 'A to-do list you actually use'
       link: 'https://www.any.do/to-do-list/'
+    - name: 'Anygood'
+      logo: './images/todo/Anygood.png'
+      slogan: 'A New To-Do App To Catalogue Your Culture'
+      link: 'https://www.anygood.app/'
     - name: 'Doo'
       logo: './images/todo/Doo.png'
       slogan: 'Reminders that work'
