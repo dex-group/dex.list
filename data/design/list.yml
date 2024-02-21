@@ -2142,6 +2142,10 @@
       logo: './images/inspiration/Footer.png'
       slogan: 'The only footer gallery on earth'
       link: 'https://www.footer.design/'
+    - name: 'Fountn'
+      logo: './images/inspiration/Fountn.png'
+      slogan: 'Product Design Resources'
+      link: 'https://www.fountn.design/'
     - name: 'Framer Gallery'
       logo: './images/inspiration/FramerGallery.png'
       slogan: 'Gallery from Framer'
@@ -2194,6 +2198,10 @@
       logo: './images/inspiration/mobile-patterns.png'
       slogan: 'UI UX Inspirational Gallery'
       link: 'https://mobile-patterns.com/'
+    - name: 'Motionimo'
+      logo: './images/inspiration/Motionimo.png'
+      slogan: "Motion designers Headquarters"
+      link: 'https://www.motionimo.xyz/'
     - name: 'Muzli'
       logo: './images/inspiration/muzli.png'
       slogan: "Designers Secret Source"
