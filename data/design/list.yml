@@ -2094,6 +2094,10 @@
       logo: './images/inspiration/DarkModeDesign.png'
       slogan: 'Handpicked website inspiration'
       link: 'https://www.darkmodedesign.com/'
+    - name: 'Dead Simple Sites'
+      logo: './images/inspiration/DeadSimpleSites.png'
+      slogan: 'Minimal Website Inspiration'
+      link: 'https://deadsimplesites.com/'
     - name: 'deck.gallery'
       logo: './images/inspiration/deck-gallery.png'
       slogan: 'nicely designed decks, curated'
@@ -2206,10 +2210,10 @@
       logo: './images/inspiration/muzli.png'
       slogan: "Designers Secret Source"
       link: 'http://muz.li/'
-    - name: 'Nicely done'
-      logo: './images/inspiration/Nicelydone.png'
-      slogan: "Web applications inspiration examples & user flows library"
-      link: 'https://nicelydone.club/'
+    - name: 'Navbar Gallery'
+      logo: './images/inspiration/NavbarGallery.png'
+      slogan: "a curated gallery of the best navbars on the internet"
+      link: 'https://www.navbar.gallery/'
     - name: 'No-Code Supply Co'
       logo: './images/inspiration/No-CodeSupplyCo.png'
       slogan: "A digital general store of hand-picked, no-code goods"
