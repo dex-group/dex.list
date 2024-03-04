@@ -2054,6 +2054,10 @@
 - id: inspiration
   title: Inspiration
   item:
+    - name: '404s'
+      logo: './images/inspiration/404s.png'
+      slogan: 'gallery of error 404 page designs'
+      link: 'https://www.404s.design/'
     - name: 'Abduzeedo'
       logo: './images/inspiration/abduzeedo.png'
       slogan: 'Daily Design Inspiration'
