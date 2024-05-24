@@ -1374,6 +1374,10 @@
 
 - title: Sharing
   items:
+    - name: 'Blip'
+      logo: './images/sharing/Blip.png'
+      slogan: 'The fastest way to send files'
+      link: 'https://blip.net/'
     - name: 'Cloudapp'
       logo: './images/sharing/Cloudapp.png'
       slogan: 'Capture and Share Instantly'
