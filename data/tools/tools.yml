@@ -1378,6 +1378,10 @@
 
 - title: Sharing
   items:
+    - name: 'Airclap'
+      logo: './images/sharing/Airclap.png'
+      slogan: 'Send any file to any device'
+      link: 'https://airclap.app/'
     - name: 'Blip'
       logo: './images/sharing/Blip.png'
       slogan: 'The fastest way to send files'
