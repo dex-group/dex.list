@@ -193,6 +193,14 @@
 - id: branding
   title: Branding
   item:
+    - name: 'The branding style guidelines'
+      logo: './images/branding/branding.png'
+      slogan: 'The branding style guidelines documents archive'
+      link: 'https://brandingstyleguides.com/'
+    - name: 'The Brand Styleguide Document Showcase'
+      logo: './images/branding/TheBrandStyleguideDocumentShowcase.png'
+      slogan: 'Search over our worldwide style assets handpicked collection, access to PDF documents for inspiration'
+      link: 'https://www.brandguidelines.net/'
     - name: 'Duolingo'
       logo: './images/branding/Duolingo.png'
       slogan: 'Duolingo Brand Guidelines'
@@ -209,10 +217,6 @@
       logo: './images/branding/Starbucks.png'
       slogan: 'Use this guide as a high-level overview of how the Starbucks brand comes to life'
       link: 'https://creative.starbucks.com/'
-    - name: 'The branding style guidelines'
-      logo: './images/branding/branding.png'
-      slogan: 'The branding style guidelines documents archive'
-      link: 'https://brandingstyleguides.com/'
     - name: 'Zapier'
       logo: './images/branding/Zapier.png'
       slogan: 'Zapier Brand'
