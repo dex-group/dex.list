@@ -93,6 +93,10 @@
 - id: background
   title: Backgrounds
   item:
+    - name: 'bg ibelick'
+      logo: './images/background/bgibelick.png'
+      slogan: 'ready-to-use background snippets for web developer'
+      link: 'https://bg.ibelick.com/'
     - name: 'Bg Painter'
       logo: './images/background/BgPainter.png'
       slogan: 'Three.js based images generator'
