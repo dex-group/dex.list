@@ -2410,6 +2410,10 @@
       logo: './images/inspiration/WhatWasIT.png'
       slogan: 'collect Korean mobile design patterns'
       link: 'https://wwit.design/'
+    - name: 'デザインのこと'
+      logo: './images/inspiration/デザインのこと.png'
+      slogan: 'Web design gallery'
+      link: 'https://designnokoto.com/'
 
 - id: library
   title: Library
