@@ -21,4 +21,6 @@
   },
   "peacock.color": "#639",
   "frontMatter.content.pageFolders": [],
+  "editor.codeActionsOnSave": {
+  },
 }
