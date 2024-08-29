@@ -273,6 +273,10 @@
       logo: './images/browser/Whist.png'
       slogan: 'The no-compromise browser'
       link: 'https://www.whist.com/'
+    - name: 'Zen Browser'
+      logo: './images/browser/ZenBrowser.png'
+      slogan: 'Zen is the best way to browse the web'
+      link: 'https://www.zen-browser.app/'
 
 - title: Calendar
   items:

@@ -1662,6 +1662,10 @@
       logo: './images/icon/ICONSVG.png'
       slogan: 'Quick customizable SVG icons'
       link: 'https://iconsvg.xyz/'
+    - name: 'Isocons'
+      logo: './images/icon/Isocons.png'
+      slogan: 'Carefully crafted isometric icons for your products, projects, posters'
+      link: 'https://www.isocons.app/'
     - name: 'Jam'
       logo: './images/icon/Jam.png'
       slogan: 'Over 940 Free & High-Quality Icons for Designers & Developers'
@@ -2572,10 +2576,6 @@
       logo: './images/logo/logotypus.png'
       slogan: 'Vector logos of the world best brands'
       link: 'https://logotyp.us/'
-    - name: 'LOGO 设计神器'
-      logo: './images/logo/LOGO 设计神器.png'
-      slogan: 'logo 在线设计生成器，免费在线生成公司 logo 设计'
-      link: 'https://www.logosc.cn/'
     - name: 'My Brand New Logo'
       logo: './images/logo/MyBrandNewLogo.png'
       slogan: 'Design your brand'
@@ -2584,6 +2584,10 @@
       logo: './images/logo/Svgl.png'
       slogan: 'A beautiful library with SVG logos'
       link: 'https://svgl.app/'
+    - name: '标小智'
+      logo: './images/logo/标小智.png'
+      slogan: 'logo 在线设计生成器，免费在线生成公司 logo 设计'
+      link: 'https://www.logosc.cn/'
 
 - id: mockup
   title: Mockups
