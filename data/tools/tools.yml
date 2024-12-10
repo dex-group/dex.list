@@ -120,6 +120,10 @@
       logo: './images/analytics/umeng.png'
       slogan: '国内领先的第三方全域数据智能服务商'
       link: 'https://www.umeng.com/'
+    - name: 'vince'
+      logo: './images/analytics/vince.png'
+      slogan: 'Self Hosted Alternative to Google Analytics'
+      link: 'https://www.vinceanalytics.com/'
 
 - title: Automation
   items:
@@ -1695,6 +1699,10 @@
       logo: './images/whiteboard/DoodleBoard.png'
       slogan: 'Organize and present powerful ideas'
       link: 'https://www.doodleboard.pro/'
+    - name: 'Drawnix'
+      logo: './images/whiteboard/Drawnix.png'
+      slogan: 'open source whiteboard tool'
+      link: 'https://drawnix.com/'
     - name: 'Eraser'
       logo: './images/whiteboard/Eraser.png'
       slogan: 'A whiteboard that lets you focus on ideas'
