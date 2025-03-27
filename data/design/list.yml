@@ -3310,7 +3310,7 @@
       link: 'https://more.graphics/'
     - name: 'Pattern Club'
       logo: './images/pattern/PatternClub.png'
-      slogan: 'Find Pattern Inspiration'
+      slogan: 'A curated gallery to find pattern inspiration'
       link: 'https://patternclub.io/'
     - name: 'Pattern maker'
       logo: './images/pattern/MagicPattern.png'
